@@ -4,7 +4,7 @@ name: Fetch and Organize Streams
 # 触发条件
 on:
   schedule:
-    - cron: '0 2,6,10,14,18,22 * * *'
+    - cron: '0 2,6,12,18,21 * * *'
   workflow_dispatch: # 允许手动触发
 
 permissions:
@@ -58,7 +58,7 @@ jobs:
       run: |
         git add $(pwd)/lib/iptv.txt
         git add $(pwd)/lib/iptv.m3u
-        git commit -m "Update on tv" --allow-empty
+        git commit -m "Update m3u" --allow-empty
         git push origin HEAD:main
 
     # 上传输出文件作为 GitHub Action 的工件 (artifact)

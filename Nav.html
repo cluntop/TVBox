@@ -1,0 +1,1142 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website Favorites</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="icon" href="https://evan.plus/favicon.ico" type="image/x-icon">
+    <style>
+/* 基础样式 */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    line-height: 1.6;
+    background: #f9fafb;
+    color: #374151;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-size: 0.9rem; 
+}
+
+/* 前台样式 */
+.frontend {
+    max-width: 1200px;
+    margin: 3rem auto;
+    padding: 0 1rem;
+    flex-grow: 1;
+}
+
+.nav-header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.logo-container img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: none; /* 默认隐藏LOGO */
+}
+
+.nav-header h1 {
+    font-size: 1.5rem;
+    font-weight: 800;
+    color: #1e40af;
+}
+
+/* 调整后台管理按钮的位置和样式 */
+.admin-button-container {
+    display: flex;
+    justify-content: center;
+    margin: 1rem 0 2rem;
+}
+
+.admin-button-small {
+    padding: 0.6rem 1.2rem;
+    font-size: 0.8rem;
+    background: #1e40af;
+    color: white;
+    border-radius: 0.5rem;
+    transition: background 0.2s ease;
+}
+
+.admin-button-small:hover {
+    background: #1e3a8a;
+}
+
+.nav-categories {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1.5rem;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.category-btn {
+    padding: 0.6rem 1.2rem;
+    background: white;
+    border: 1px solid #e5e7eb;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    font-size: 0.8rem;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+
+.category-btn.active {
+    background: #1e40af;
+    color: white;
+    border-color: #1e40af;
+    box-shadow: 0 2px 5px rgba(30, 64, 175, 0.2);
+}
+
+.category-btn:hover:not(.active) {
+    border-color: #9ca3af;
+    transform: translateY(-1px);
+}
+
+.nav-list {
+    list-style: none;
+    background: white;
+    border-radius: 1rem;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    overflow: hidden;
+}
+
+.nav-item {
+    display: flex;
+    align-items: center;
+    padding: 1rem 1.5rem;
+    border-bottom: 1px solid #f3f4f6;
+    transition: transform 0.2s ease;
+}
+
+.nav-item:last-child {
+    border-bottom: none;
+}
+
+.nav-item:hover {
+    transform: translateY(-2px);
+    background: #f9fafb;
+}
+
+.nav-link {
+    display: flex;
+    align-items: center;
+    color: #4b5563;
+    text-decoration: none;
+    flex-grow: 1;
+    transition: color 0.2s ease;
+}
+
+.nav-link:hover {
+    color: #1e40af;
+}
+
+.link-info {
+    margin-left: 1rem;
+    flex-grow: 1;
+}
+
+.link-name {
+    font-weight: 600;
+    margin-bottom: 0.3rem;
+    color: #111827;
+}
+
+.link-desc {
+    font-size: 0.7rem;
+    color: #6b7280;
+}
+
+.link-logo {
+    width: 40px;
+    height: 40px;
+    border-radius: 100rem;
+    object-fit: cover;
+}
+
+.status-badge {
+    padding: 0.3rem 0.8rem;
+    border-radius: 0.5rem;
+    font-size: 0.7rem;
+    white-space: nowrap;
+}
+
+.status-normal {
+    background: #d1fae5;
+    color: #065f46;
+}
+
+.status-error {
+    background: #fee2e2;
+    color: #b91c1c;
+}
+
+/* 分页和管理按钮 */
+.pagination-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 1.5rem;
+    gap: 1rem;
+}
+
+.pagination-controls {
+    display: flex;
+    gap: 0.5rem;
+}
+
+/* 统一上一页和下一页按钮样式与分类按钮一致 */
+.pagination-controls button {
+    padding: 0.6rem 1.2rem;
+    background: white;
+    border: 1px solid #e5e7eb;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    font-size: 0.8rem;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+
+.pagination-controls button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.pagination-controls button:hover:not(:disabled) {
+    border-color: #9ca3af;
+    transform: translateY(-1px);
+}
+
+.pagination-controls button.active {
+    background: #1e40af;
+    color: white;
+    border-color: #1e40af;
+    box-shadow: 0 2px 5px rgba(30, 64, 175, 0.2);
+}
+
+/* 后台样式 */
+.backend {
+    display: none;
+    max-width: 1200px;
+    margin: 3rem auto;
+    padding: 0 1rem;
+}
+
+.login-form {
+    background: white;
+    padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+    max-width: 400px;
+    margin: 5rem auto 2rem;
+}
+
+.admin-panel {
+    background: white;
+    padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+}
+
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+input, select, textarea {
+    width: 100%;
+    padding: 0.8rem 1rem;
+    border: 1px solid #e5e7eb;
+    border-radius: 0.5rem;
+    font-size: 0.8rem;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+input:focus, select:focus, textarea:focus {
+    border-color: #1e40af;
+    box-shadow: 0 0 0 3px rgba(30, 64, 175, 0.1);
+    outline: none;
+}
+
+button {
+    padding: 0.8rem 1.5rem;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+
+.btn-primary {
+    background: #1e40af;
+    color: white;
+}
+
+.btn-primary:hover {
+    background: #1e3a8a;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(30, 64, 175, 0.2);
+}
+
+.btn-danger {
+    background: #ef4444;
+    color: white;
+}
+
+.btn-danger:hover {
+    background: #dc2626;
+}
+
+.btn-secondary {
+    background: #9ca3af;
+}
+
+.btn-success {
+    background: #10b981;
+    color: white;
+}
+
+.btn-success:hover {
+    background: #059669;
+}
+
+/* 表格样式 */
+.links-table-container {
+    overflow-x: auto;
+    margin-top: 1.5rem;
+}
+
+.links-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.links-table th {
+    text-align: left;
+    padding: 1rem 1.2rem;
+    background: #f3f4f6;
+    border-radius: 0.5rem 0.5rem 0 0;
+    color: #4b5563;
+    font-weight: 600;
+}
+
+.links-table td {
+    padding: 1rem 1.2rem;
+    border-bottom: 1px solid #f3f4f6;
+}
+
+.links-table tr:last-child td {
+    border-bottom: none;
+}
+
+.links-table tr:hover {
+    background: #f9fafb;
+}
+
+.links-table input, .links-table select, .links-table textarea {
+    width: 100%;
+    padding: 0.6rem 0.8rem;
+    border: 1px solid #e5e7eb;
+    border-radius: 0.5rem;
+    font-size: 0.7rem;
+    margin-bottom: 0.3rem;
+}
+
+.links-table input:focus, .links-table select:focus, .links-table textarea:focus {
+    border-color: #1e40af;
+    box-shadow: 0 0 0 3px rgba(30, 64, 175, 0.1);
+    outline: none;
+}
+
+.links-table td:last-child {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.links-table button {
+    padding: 0.6rem 1.2rem;
+    font-size: 0.7rem;
+}
+
+/* 分类管理样式 */
+.categories-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 1.5rem;
+}
+
+.category-item {
+    display: flex;
+    align-items: center;
+    background: #f3f4f6;
+    padding: 0.6rem 1.2rem;
+    border-radius: 0.5rem;
+    font-size: 0.8rem;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+
+.category-item button {
+    background: none;
+    border: none;
+    color: #ef4444;
+    margin-left: 0.8rem;
+    padding: 0;
+    cursor: pointer;
+    font-size: 1.25rem;
+}
+
+/* 页面标题样式 */
+.page-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5rem;
+}
+
+.page-title h2 {
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: #111827;
+}
+
+.action-buttons {
+    display: flex;
+    gap: 0.5rem;
+}
+
+/* 分页样式 */
+.pagination-controls {
+    display: flex;
+    justify-content: center;
+    margin-top: 1.5rem;
+    gap: 0.5rem;
+}
+
+/* 统一后台上一页和下一页按钮样式与分类按钮一致 */
+.pagination-controls button {
+    padding: 0.6rem 1.2rem;
+    background: white;
+    border: 1px solid #e5e7eb;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    font-size: 0.8rem;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+
+.pagination-controls button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.pagination-controls button:hover:not(:disabled) {
+    border-color: #9ca3af;
+    transform: translateY(-1px);
+}
+
+.pagination-controls button.active {
+    background: #1e40af;
+    color: white;
+    border-color: #1e40af;
+    box-shadow: 0 2px 5px rgba(30, 64, 175, 0.2);
+}
+
+/* 页脚样式 */
+.footer {
+    text-align: center;
+    padding: 1rem 0;
+    color: #6b7280;
+    font-size: 0.7rem;
+    margin-top: 1rem;
+}
+
+.admin-footer {
+    text-align: center;
+    padding: 1rem 0;
+    color: #6b7280;
+    font-size: 0.7rem;
+    margin-top: 1rem;
+}
+
+/* 密码修改样式 */
+.password-change {
+    margin-top: 2rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid #e5e7eb;
+}
+
+/* 响应式调整 */
+@media (max-width: 768px) {
+    .nav-item {
+        align-items: flex-start;
+    }
+
+    .link-info {
+        margin-left: 1rem;
+        width: 100%;
+    }
+
+    .status-badge {
+        margin-top: 0.8rem;
+        align-self: flex-end;
+    }
+
+    .links-table th, .links-table td {
+        padding: 0.8rem 0.5rem;
+    }
+
+    .links-table td {
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+
+    .links-table th {
+        display: none;
+    }
+
+    .links-table td:before {
+        content: attr(data-label);
+        font-weight: bold;
+        margin-bottom: 0.3rem;
+    }
+
+    .pagination-container {
+        flex-direction: row;
+        justify-content: center;
+        gap: 1rem;
+    }
+}
+    </style>
+</head>
+<body>
+    <!-- 前台界面 -->
+    <div class="frontend">
+        <div class="nav-header">
+            <div class="logo-container">
+                <img id="website-logo" src="https://evan.plus/favicon.ico" alt="My Website Favorites Logo">
+                <h1 id="website-title">My Website Favorites</h1>
+            </div>
+        </div>
+
+        <!-- 调整后台管理按钮的位置 -->
+        <div class="admin-button-container">
+            <button class="btn-primary admin-button-small" onclick="showAdmin()">管理后台</button>
+        </div>
+
+        <div class="nav-categories" id="category-filters">
+            <button class="category-btn active" data-category="all">全部</button>
+        </div>
+
+        <ul class="nav-list" id="nav-links"></ul>
+
+        <!-- 分页 -->
+        <div class="pagination-container">
+            <div class="pagination-controls">
+                <button class="btn-secondary" id="prev-page" onclick="prevPage()" disabled>上页</button>
+            </div>
+
+            <div class="pagination-controls">
+                <button class="btn-secondary" id="next-page" onclick="nextPage()">下页</button>
+            </div>
+        </div>
+
+        <!-- 版权信息 -->
+        <div class="footer" id="footer-info">
+            <p>© 2025 My Website Favorites. Designer: evan.xin</p>
+        </div>
+    </div>
+
+    <!-- 后台界面 -->
+    <div class="backend">
+        <!-- 登录界面 -->
+        <div class="login-form">
+            <h2 style="margin-bottom: 1.5rem; font-size: 1.5rem; color: #1f2937;">管理员登录</h2>
+            <div class="form-group">
+                <input type="password" id="admin-password" placeholder="输入管理密码" style="width: 100%;">
+            </div>
+            <button class="btn-primary" onclick="login()" style="width: 100%;">登录</button>
+        </div>
+
+        <!-- 管理界面 -->
+        <div class="admin-panel" style="display:none;">
+            <div class="page-title">
+                <h2>链接管理</h2>
+                <div class="action-buttons">
+                    <button class="btn-secondary" onclick="showFrontend()">返回前台</button>
+                </div>
+            </div>
+
+            <div style="margin-bottom: 2rem;">
+                <h3 style="margin-bottom: 0.8rem; font-size: 1.2rem; color: #1f2937;">网站设置</h3>
+                <div class="form-group">
+                    <input type="text" id="website-logo-input" placeholder="输入网站LOGO URL（可选）" style="width: 100%;">
+                </div>
+                <div class="form-group">
+                    <input type="text" id="website-title-input" placeholder="输入网站标题" style="width: 100%;">
+                </div>
+                <button class="btn-primary" onclick="saveWebsiteSettings()">保存设置</button>
+            </div>
+
+            <div style="margin-bottom: 2rem;">
+                <h3 style="margin-bottom: 0.8rem; font-size: 1.2rem; color: #1f2937;">分类管理</h3>
+                <div class="form-group">
+                    <input type="text" id="new-category" placeholder="输入新分类名称" style="width: 100%;">
+                </div>
+                <button class="btn-primary" onclick="addNewCategory()">添加分类</button>
+                <div class="categories-list" id="categories-list">
+                    <!-- 分类列表将在这里动态生成 -->
+                </div>
+            </div>
+
+            <div style="margin-bottom: 2rem;">
+                <h3 style="margin-bottom: 0.8rem; font-size: 1.2rem; color: #1f2937;">页脚信息</h3>
+                <div class="form-group">
+                    <textarea id="footer-text" placeholder="输入页脚信息" style="width: 100%; min-height: 100px;"></textarea>
+                </div>
+                <button class="btn-primary" onclick="saveFooterInfo()">保存页脚信息</button>
+            </div>
+
+            <div class="links-table-container">
+                <table class="links-table">
+                    <thead>
+                        <tr>
+                            <th>名称</th>
+                            <th>网址</th>
+                            <th>分类</th>
+                            <th>简介</th>
+                            <th>状态</th>
+                            <th>Logo</th>
+                            <th>操作</th>
+                        </tr>
+                    </thead>
+                    <tbody id="links-list"></tbody>
+                </table>
+            </div>
+
+            <div class="pagination-controls">
+                <button class="btn-secondary" id="admin-prev-page" onclick="prevPage()" disabled>上页</button>
+                <button class="btn-secondary" id="admin-next-page" onclick="nextPage()">下页</button>
+            </div>
+
+            <div class="action-buttons" style="margin-top: 2rem;">
+                <button class="btn-primary" onclick="addNewLink()">+ 新增链接</button>
+                <button class="btn-secondary" onclick="exportLinks()">导出链接</button>
+                <input type="file" id="import-file" style="display: none;" onchange="importLinks(this.files[0])">
+                <button class="btn-secondary" onclick="document.getElementById('import-file').click()">导入链接</button>
+            </div>
+
+            <div class="password-change">
+                <h3 style="margin-bottom: 0.8rem; font-size: 1.2rem; color: #1f2937;">修改密码</h3>
+                <div class="form-group">
+                    <input type="password" id="old-password" placeholder="输入旧密码" style="width: 100%;">
+                </div>
+                <div class="form-group">
+                    <input type="password" id="new-password" placeholder="输入新密码" style="width: 100%;">
+                </div>
+                <div class="form-group">
+                    <input type="password" id="confirm-password" placeholder="确认新密码" style="width: 100%;">
+                </div>
+                <button class="btn-success" onclick="changePassword()">修改密码</button>
+            </div>
+
+            <!-- 后台界面版权信息 -->
+            <div class="admin-footer" id="admin-footer-info">
+                <p>© 2025 My Website Favorites. Designer: evan.xin</p>
+            </div>
+        </div>
+    </div>
+    <script>
+let links = JSON.parse(localStorage.getItem('nav-links')) || Array.from({length: 12}, (_, i) => ({
+    name: "Evan's Space", 
+    url: "https://www.evan.xin", 
+    category: "博客", 
+    description: "keep it real", 
+    status: "normal",
+    logo: "https://www.evan.xin/logo.png"
+}));
+let categories = JSON.parse(localStorage.getItem('categories')) || ["博客", "工具", "收藏"];
+const PART1 = "admin";
+const PART2 = "123";
+const ENCRYPTED_ADMIN_PASSWORD = btoa(PART1 + PART2);
+const SALT = "rainbow_salt_2023";
+let currentPage = 1;
+const itemsPerPage = 8;
+let totalPages = Math.ceil(links.length / itemsPerPage);
+
+function renderFrontend(category = "all") {
+    const container = document.getElementById('nav-links');
+    const filteredLinks = category === "all" 
+        ? links 
+        : links.filter(link => link.category === category);
+
+    const startIndex = (currentPage - 1) * itemsPerPage;
+    const endIndex = startIndex + itemsPerPage;
+    const paginatedLinks = filteredLinks.slice(startIndex, endIndex);
+
+    container.innerHTML = paginatedLinks.map(link => {
+        const encodeHTML = (str) => str.replace(/[&<>'"]/g, 
+            tag => ({
+                '&': '&amp;',
+                '<': '&lt;',
+                '>': '&gt;',
+                "'": '&#39;',
+                '"': '&quot;'
+            }[tag]));
+            
+        return `
+            <li class="nav-item">
+                <a href="${link.url}" class="nav-link" target="_blank">
+                    ${link.logo ? `<img src="${link.logo}" class="link-logo" alt="${encodeHTML(link.name)}">` : ''}
+                    <div class="link-info">
+                        <div class="link-name">${encodeHTML(link.name)}</div>
+                        <div class="link-desc">${encodeHTML(link.description)}</div>
+                    </div>
+                </a>
+                <span class="status-badge ${link.status === 'normal' ? 'status-normal' : 'status-error'}">
+                    ${link.status === 'normal' ? '正常' : '维护'}
+                </span>
+            </li>
+        `;
+    }).join('');
+
+    updateCategoryFilters(category);
+    updatePaginationButtons();
+}
+
+function updateCategoryFilters(activeCategory = "all") {
+    const container = document.getElementById('category-filters');
+    const totalLinksCount = links.length;
+
+    container.innerHTML = `
+        <button class="category-btn ${activeCategory === 'all' ? 'active' : ''}" data-category="all">全部 (${totalLinksCount})</button>
+    `;
+
+    categories.forEach(cat => {
+        container.innerHTML += `
+            <button class="category-btn ${activeCategory === cat ? 'active' : ''}" data-category="${cat}">
+                ${cat} (${links.filter(link => link.category === cat).length})
+            </button>
+        `;
+    });
+
+    document.querySelectorAll('.category-btn').forEach(btn => {
+        btn.addEventListener('click', function() {
+            document.querySelectorAll('.category-btn').forEach(b => b.classList.remove('active'));
+            this.classList.add('active');
+            currentPage = 1;
+            renderFrontend(this.dataset.category);
+        });
+    });
+}
+
+function showAdmin() {
+    document.querySelector('.frontend').style.display = 'none';
+    document.querySelector('.backend').style.display = 'block';
+    renderAdmin();
+    renderCategories();
+    loadFooterInfo();
+    loadWebsiteSettings();
+    loadAdminFooterInfo();
+}
+
+function showFrontend() {
+    document.querySelector('.backend').style.display = 'none';
+    document.querySelector('.frontend').style.display = 'block';
+    renderFrontend();
+    loadWebsiteLogo();
+    loadWebsiteTitle();
+}
+
+// 密码
+async function encryptPassword(password) {
+    const encoder = new TextEncoder();
+    const data = encoder.encode(SALT + password);
+    const hashBuffer = await crypto.subtle.digest('SHA-256', data);
+    const hashArray = Array.from(new Uint8Array(hashBuffer));
+    return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+}
+
+async function login() {
+    const password = document.getElementById('admin-password').value;
+    const encryptedPassword = await encryptPassword(password);
+    const storedPassword = localStorage.getItem('admin-password') || await encryptPassword(atob(ENCRYPTED_ADMIN_PASSWORD));
+    
+    if(encryptedPassword === storedPassword) {
+        document.querySelector('.login-form').style.display = 'none';
+        document.querySelector('.admin-panel').style.display = 'block';
+    } else {
+        alert('密码错误！');
+    }
+}
+
+function renderAdmin() {
+    const tbody = document.getElementById('links-list');
+    const startIndex = (currentPage - 1) * itemsPerPage;
+    const endIndex = startIndex + itemsPerPage;
+    const paginatedLinks = links.slice(startIndex, endIndex);
+
+    tbody.innerHTML = paginatedLinks.map((link, index) => {
+        const encodeHTML = (str) => str.replace(/[&<>'"]/g, 
+            tag => ({
+                '&': '&amp;',
+                '<': '&lt;',
+                '>': '&gt;',
+                "'": '&#39;',
+                '"': '&quot;'
+            }[tag]));
+            
+        return `
+            <tr>
+                <td>
+                    <div class="form-group">
+                        <input value="${encodeHTML(link.name)}" placeholder="名称">
+                    </div>
+                </td>
+                <td>
+                    <div class="form-group">
+                        <input value="${encodeHTML(link.url)}" placeholder="网址">
+                    </div>
+                </td>
+                <td>
+                    <div class="form-group">
+                        <select>
+                            ${categories.map(cat => 
+                                `<option value="${encodeHTML(cat)}" ${link.category === cat ? 'selected' : ''}>${encodeHTML(cat)}</option>`
+                            ).join('')}
+                        </select>
+                    </div>
+                </td>
+                <td>
+                    <div class="form-group">
+                        <textarea>${encodeHTML(link.description)}</textarea>
+                    </div>
+                </td>
+                <td>
+                    <div class="form-group">
+                        <select onchange="updateStatus(${startIndex + index}, this.value)">
+                            <option value="normal" ${link.status === 'normal' ? 'selected' : ''}>正常</option>
+                            <option value="error" ${link.status !== 'normal' ? 'selected' : ''}>维护</option>
+                        </select>
+                    </div>
+                </td>
+                <td>
+                    <div class="form-group">
+                        <input type="text" placeholder="https://example.com/logo.png" value="${encodeHTML(link.logo || '')}">
+                    </div>
+                </td>
+                <td>
+                    <div class="form-group">
+                        <button class="btn-primary" onclick="saveLink(${startIndex + index})">保存</button>
+                        <button class="btn-danger" onclick="deleteLink(${startIndex + index})">删除</button>
+                    </div>
+                </td>
+            </tr>
+        `;
+    }).join('');
+
+
+    updatePaginationButtons();
+}
+
+function renderCategories() {
+    const container = document.getElementById('categories-list');
+    container.innerHTML = categories.map((cat, index) => {
+        const encodeHTML = (str) => str.replace(/[&<>'"]/g, 
+            tag => ({
+                '&': '&amp;',
+                '<': '&lt;',
+                '>': '&gt;',
+                "'": '&#39;',
+                '"': '&quot;'
+            }[tag]));
+            
+        return `
+            <div class="category-item">
+                <span>${encodeHTML(cat)}</span>
+                <button onclick="deleteCategory(${index})">✕</button>
+            </div>
+        `;
+    }).join('');
+}
+
+function loadFooterInfo() {
+    const footerInfo = localStorage.getItem('footer-info') || '© 2025 My Website Favorites. Designer: evan.xin';
+    document.getElementById('footer-text').value = footerInfo;
+    document.getElementById('footer-info').innerHTML = `<p>${footerInfo}</p>`;
+}
+
+function loadAdminFooterInfo() {
+    const footerInfo = localStorage.getItem('footer-info') || '© 2025 My Website Favorites. Designer: evan.xin';
+    document.getElementById('admin-footer-info').innerHTML = `<p>${footerInfo}</p>`;
+}
+
+function loadWebsiteSettings() {
+    const websiteLogo = localStorage.getItem('website-logo') || '';
+    const websiteTitle = localStorage.getItem('website-title') || 'My Website Favorites';
+    document.getElementById('website-logo-input').value = websiteLogo;
+    document.getElementById('website-title-input').value = websiteTitle;
+}
+
+function saveWebsiteSettings() {
+    const websiteLogo = document.getElementById('website-logo-input').value;
+    const websiteTitle = document.getElementById('website-title-input').value;
+    localStorage.setItem('website-logo', websiteLogo);
+    localStorage.setItem('website-title', websiteTitle);
+    loadWebsiteLogo();
+    loadWebsiteTitle();
+}
+
+function loadWebsiteLogo() {
+    const websiteLogo = localStorage.getItem('website-logo') || '';
+    const logoImg = document.getElementById('website-logo');
+    
+    if (websiteLogo) {
+        logoImg.src = websiteLogo;
+        logoImg.style.display = 'block';
+    } else {
+        logoImg.style.display = 'none';
+    }
+}
+
+function loadWebsiteTitle() {
+    const websiteTitle = localStorage.getItem('website-title') || 'My Website Favorites';
+    document.querySelector('.logo-container h1').textContent = websiteTitle;
+    document.title = websiteTitle;
+}
+
+function saveFooterInfo() {
+    const footerInfo = document.getElementById('footer-text').value;
+    localStorage.setItem('footer-info', footerInfo);
+    document.getElementById('footer-info').innerHTML = `<p>${footerInfo}</p>`;
+    loadAdminFooterInfo();
+}
+
+function addNewLink() {
+    links.push({ 
+        name: "新链接", 
+        url: "https://", 
+        category: categories[0], 
+        description: "", 
+        status: "normal",
+        logo: ""
+    });
+    localStorage.setItem('nav-links', JSON.stringify(links));
+    currentPage = Math.ceil(links.length / itemsPerPage);
+    renderAdmin();
+}
+
+function saveLink(index) {
+    const row = document.querySelectorAll('#links-list tr')[index - ((currentPage - 1) * itemsPerPage)];
+    if (!row) return;
+
+    // 验证输入内容
+    const name = row.querySelector('td:first-child input').value.trim();
+    const url = row.querySelector('td:nth-child(2) input').value.trim();
+    const category = row.querySelector('td:nth-child(3) select').value;
+    const description = row.querySelector('td:nth-child(4) textarea').value.trim();
+    const status = row.querySelector('td:nth-child(5) select').value;
+    const logo = row.querySelector('td:nth-child(6) input').value.trim();
+
+    if (!name || !url || !category) {
+        alert('名称、网址和分类不能为空！');
+        return;
+    }
+
+    links[index] = {
+        name,
+        url,
+        category,
+        description,
+        status,
+        logo
+    };
+    localStorage.setItem('nav-links', JSON.stringify(links));
+    renderFrontend();
+    renderAdmin();
+}
+
+function deleteLink(index) {
+    if(confirm('确认删除该链接？')) {
+        links.splice(index, 1);
+        localStorage.setItem('nav-links', JSON.stringify(links));
+        currentPage = Math.max(1, Math.min(currentPage, Math.ceil(links.length / itemsPerPage)));
+        renderAdmin();
+        renderFrontend();
+    }
+}
+
+function updateStatus(index, status) {
+    links[index].status = status;
+    localStorage.setItem('nav-links', JSON.stringify(links));
+    renderFrontend();
+    renderAdmin();
+}
+
+function addNewCategory() {
+    const categoryName = document.getElementById('new-category').value.trim();
+    if (!categoryName) {
+        alert('分类名称不能为空！');
+        return;
+    }
+
+    // 验证输入内容
+    if (!/^[a-zA-Z0-9\u4e00-\u9fa5]+$/.test(categoryName)) {
+        alert('分类名称只能包含字母、数字和中文！');
+        return;
+    }
+
+    if (!categories.includes(categoryName)) {
+        categories.push(categoryName);
+        localStorage.setItem('categories', JSON.stringify(categories));
+        renderCategories();
+        document.getElementById('new-category').value = '';
+        renderFrontend();
+    } else {
+        alert('该分类已存在！');
+    }
+}
+
+function deleteCategory(index) {
+    if(confirm('确认删除该分类？此操作不会删除链接，只会将链接分类重置为第一个分类')) {
+        const deletedCategory = categories[index];
+        categories.splice(index, 1);
+        localStorage.setItem('categories', JSON.stringify(categories));
+        
+        // 更新链接分类
+        links.forEach(link => {
+            if(link.category === deletedCategory) {
+                link.category = categories[0] || "未分类";
+            }
+        });
+        localStorage.setItem('nav-links', JSON.stringify(links));
+        
+        renderCategories();
+        renderAdmin();
+        renderFrontend();
+    }
+}
+
+function prevPage() {
+    if (currentPage > 1) {
+        currentPage--;
+        renderFrontend();
+        renderAdmin();
+    }
+}
+
+function nextPage() {
+    if (currentPage * itemsPerPage < links.length) {
+        currentPage++;
+        renderFrontend();
+        renderAdmin();
+    }
+}
+
+function updatePaginationButtons() {
+    document.getElementById('prev-page').disabled = currentPage === 1;
+    document.getElementById('next-page').disabled = currentPage * itemsPerPage >= links.length;
+    document.getElementById('admin-prev-page').disabled = currentPage === 1;
+    document.getElementById('admin-next-page').disabled = currentPage * itemsPerPage >= links.length;
+}
+
+async function changePassword() {
+    const oldPassword = document.getElementById('old-password').value;
+    const newPassword = document.getElementById('new-password').value;
+    const confirmPassword = document.getElementById('confirm-password').value;
+
+    if (!oldPassword || !newPassword || !confirmPassword) {
+        alert('所有字段不能为空！');
+        return;
+    }
+
+    if (newPassword !== confirmPassword) {
+        alert('新密码和确认密码不一致！');
+        return;
+    }
+
+    const encryptedOldPassword = await encryptPassword(oldPassword);
+    const storedPassword = localStorage.getItem('admin-password') || await encryptPassword(atob(ENCRYPTED_ADMIN_PASSWORD));
+
+    if (encryptedOldPassword !== storedPassword) {
+        alert('旧密码错误！');
+        return;
+    }
+
+    localStorage.setItem('admin-password', await encryptPassword(newPassword));
+    alert('密码修改成功！');
+    document.getElementById('old-password').value = '';
+    document.getElementById('new-password').value = '';
+    document.getElementById('confirm-password').value = '';
+}
+
+function exportLinks() {
+    const data = JSON.stringify(links, null, 2);
+    const blob = new Blob([data], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = 'links_export.json';
+    a.click();
+    URL.revokeObjectURL(url);
+}
+
+function importLinks(file) {
+    if (!file || file.type !== 'application/json') {
+        alert('请选择有效的JSON文件！');
+        return;
+    }
+
+    const reader = new FileReader();
+    reader.onload = function(e) {
+        try {
+            const importedLinks = JSON.parse(e.target.result);
+            if (!Array.isArray(importedLinks)) {
+                throw new Error('导入数据格式不正确！');
+            }
+
+            importedLinks.forEach(link => {
+                if (!link.name || !link.url || !link.category) {
+                    throw new Error('导入数据格式不正确！');
+                }
+            });
+
+            links = importedLinks;
+            localStorage.setItem('nav-links', JSON.stringify(links));
+            renderAdmin();
+            renderFrontend();
+            alert('链接导入成功！');
+        } catch (error) {
+            alert('导入失败，请检查文件格式是否正确。');
+        }
+    };
+    reader.readAsText(file);
+}
+
+// 页面加载完成后初始化
+document.addEventListener('DOMContentLoaded', function() {
+    renderFrontend();
+    loadWebsiteLogo();
+    loadWebsiteTitle();
+    loadAdminFooterInfo();
+});
+    </script>
+</body>
+</html>
