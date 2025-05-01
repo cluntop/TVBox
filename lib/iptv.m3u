@@ -559,6 +559,8 @@ http://a21709.tv.netsite.cc/proxy/512439688/512439688.m3u8
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-15",CCTV-15
 http://a21709.tv.netsite.cc/proxy/323678478/323678478.m3u8
+#EXTINF:-1 tvg-name="CCTV-15 音乐",CCTV-15 音乐
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-16",CCTV-16
 http://a21709.tv.netsite.cc/proxy/2055404079/2055404079.m3u8
 #EXTINF:-1 tvg-name="CCTV-16 奥林匹克",CCTV-16 奥林匹克
@@ -569,6 +571,8 @@ http://a21709.tv.netsite.cc/proxy/199561397/199561397.m3u8
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-2",CCTV-2
 http://a21709.tv.netsite.cc/proxy/1865857764/1865857764.m3u8
+#EXTINF:-1 tvg-name="CCTV-2 财经",CCTV-2 财经
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-3 综艺",CCTV-3 综艺
 http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225799/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-4",CCTV-4
