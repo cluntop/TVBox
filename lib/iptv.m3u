@@ -551,8 +551,6 @@ http://a21709.tv.netsite.cc/proxy/323678478/323678478.m3u8
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-16",CCTV-16
 http://a21709.tv.netsite.cc/proxy/2055404079/2055404079.m3u8
-#EXTINF:-1 tvg-name="CCTV-16 奥林匹克",CCTV-16 奥林匹克
-http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225893/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-17",CCTV-17
 http://a21709.tv.netsite.cc/proxy/199561397/199561397.m3u8
 #EXTINF:-1 tvg-name="CCTV-17 农业农村",CCTV-17 农业农村
@@ -575,8 +573,6 @@ http://a21709.tv.netsite.cc/proxy/2118762958/2118762958.m3u8
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-5+",CCTV-5+
 http://a21709.tv.netsite.cc/proxy/485668034/485668034.m3u8
-#EXTINF:-1 tvg-name="CCTV-5+ 体育赛事",CCTV-5+ 体育赛事
-http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225507/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-6",CCTV-6
 https://py.doube.eu.org/xinghuo?url=/CCTV-6/1114
 #EXTINF:-1 tvg-name="CCTV-6",CCTV-6
@@ -24887,6 +24883,8 @@ http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225672/index.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221226051/1.m3u8?$HLJYDIP 4M FHD
 #EXTINF:-1 tvg-name="精品萌宠",精品萌宠
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8?$HLJYD 4M FHD
+#EXTINF:-1 tvg-name="精品萌宠",精品萌宠
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
 #EXTINF:-1 tvg-name="精彩三秦",精彩三秦
 http://112.46.85.60:8009/hls/26/index.m3u8
 #EXTINF:-1 tvg-name="精彩影视",精彩影视
@@ -25033,6 +25031,8 @@ https://vip.lz-cdn3.com/20230604/19302_6aa4c57f/index.m3u8
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 #EXTINF:-1 tvg-name="纪实档案",纪实档案
 http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1034_720P_t10/c60_fast_1034_720P_t10.m3u8?d
+#EXTINF:-1 tvg-name="纪实科教",纪实科教
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 tvg-name="纪实科教",纪实科教
 http://www.xzbn.site:35455/itv/1000000001000001910.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="纪晓岚",纪晓岚
