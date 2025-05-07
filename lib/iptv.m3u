@@ -429,8 +429,6 @@ http://a21709.tv.netsite.cc/proxy/1464748337/1464748337.m3u8
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-10",CCTV-10
 http://a21709.tv.netsite.cc/proxy/2131132936/2131132936.m3u8
-#EXTINF:-1 tvg-name="CCTV-10 科教",CCTV-10 科教
-http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225677/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-11",CCTV-11
 http://a21709.tv.netsite.cc/proxy/421024024/421024024.m3u8
 #EXTINF:-1 tvg-name="CCTV-11 戏曲",CCTV-11 戏曲
@@ -455,18 +453,12 @@ http://a21709.tv.netsite.cc/proxy/323678478/323678478.m3u8
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-16",CCTV-16
 http://a21709.tv.netsite.cc/proxy/2055404079/2055404079.m3u8
-#EXTINF:-1 tvg-name="CCTV-16 奥林匹克",CCTV-16 奥林匹克
-http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225893/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-17",CCTV-17
 http://a21709.tv.netsite.cc/proxy/199561397/199561397.m3u8
 #EXTINF:-1 tvg-name="CCTV-17 农业农村",CCTV-17 农业农村
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-2",CCTV-2
 http://a21709.tv.netsite.cc/proxy/1865857764/1865857764.m3u8
-#EXTINF:-1 tvg-name="CCTV-2 财经",CCTV-2 财经
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-3 综艺",CCTV-3 综艺
-http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225799/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-4",CCTV-4
 http://a21709.tv.netsite.cc/proxy/1431251767/1431251767.m3u8
 #EXTINF:-1 tvg-name="CCTV-4 中文国际",CCTV-4 中文国际
@@ -481,8 +473,6 @@ http://a21709.tv.netsite.cc/proxy/2118762958/2118762958.m3u8
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-5+",CCTV-5+
 http://a21709.tv.netsite.cc/proxy/485668034/485668034.m3u8
-#EXTINF:-1 tvg-name="CCTV-5+ 体育赛事",CCTV-5+ 体育赛事
-http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225507/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-6",CCTV-6
 https://py.doube.eu.org/xinghuo?url=/CCTV-6/1114
 #EXTINF:-1 tvg-name="CCTV-6",CCTV-6
@@ -18183,6 +18173,8 @@ http://39.134.67.108/PLTV/88888888/224/3221226026/1.m3u8
 http://www.erbao1981.top:8188/udp/239.76.246.203:1234
 #EXTINF:-1 tvg-name="海南卫视",海南卫视
 http://www.erbao1981.top:8188/udp/239.76.253.203:9000
+#EXTINF:-1 tvg-name="海南卫视",海南卫视
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-name="海南卫视",海南卫视
 http://a21709.tv.netsite.cc/proxy/200969914/200969914.m3u8
 #EXTINF:-1 tvg-name="海南卫视",海南卫视
