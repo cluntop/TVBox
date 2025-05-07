@@ -59,8 +59,6 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
 https://v1.cdnlz1.com/20230915/22072_a8813a7a/index.m3u8
 #EXTINF:-1 tvg-name="2001个疯子(美国恐怖片)",2001个疯子(美国恐怖片)
 https://v.cdnlz11.com/20231007/17701_8fa31cd4/index.m3u8
-#EXTINF:-1 tvg-name="2002年春晚",2002年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
 #EXTINF:-1 tvg-name="2004年春晚",2004年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
 #EXTINF:-1 tvg-name="2005年春晚",2005年春晚
@@ -75,16 +73,10 @@ https://v1.cdnlz1.com/20240225/24666_51932d52/index.m3u8
 https://txmov2.a.kwimgs.com/bs3/video-hls/5210664862006975841_hlshd15.m3u8
 #EXTINF:-1 tvg-name="2011年春晚",2011年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8
-#EXTINF:-1 tvg-name="2012",2012
-https://m3u8.hmrvideo.com/play/a9f7a721d9eb4c76b74790f719996a29.m3u8
 #EXTINF:-1 tvg-name="2012国语(美国科幻片)",2012国语(美国科幻片)
 https://vip1.lz-cdn8.com/20221126/31848_71715ad0/index.m3u8
-#EXTINF:-1 tvg-name="2012年春晚",2012年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
 #EXTINF:-1 tvg-name="2012英语(美国科幻片)",2012英语(美国科幻片)
 https://vip1.lz-cdn1.com/20220520/6235_581c98de/index.m3u8
-#EXTINF:-1 tvg-name="2013年春晚",2013年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5241627109089548390_hlshd15.m3u8
 #EXTINF:-1 tvg-name="2015年春晚",2015年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
 #EXTINF:-1 tvg-name="2016年春晚",2016年春晚
@@ -195,14 +187,12 @@ https://v10.dious.cc/20240209/J95B9fT5/index.m3u8
 https://v10.dious.cc/20240209/HWVp60d1/index.m3u8
 #EXTINF:-1 tvg-name="2025-05-05",2025-05-05
 http://live.nctv.top/DYjsklis/huya.php?id=11342412
-#EXTINF:-1 tvg-name="2025-05-07 00:50:15",2025-05-07 00:50:15
+#EXTINF:-1 tvg-name="2025-05-07 07:06:18",2025-05-07 07:06:18
 https://vd3.bdstatic.com/mda-rdh9curp2kc75hrq/720p/h264/1744958251391294564/mda-rdh9curp2kc75hrq.mp4
-#EXTINF:-1 tvg-name="2025-05-07 00:50:16",2025-05-07 00:50:16
-https://vd3.bdstatic.com/mda-rdh9curp2kc75hrq/720p/h264/1744958251391294564/mda-rdh9curp2kc75hrq.mp4
-#EXTINF:-1 tvg-name="2025年春晚",2025年春晚
-https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
 #EXTINF:-1 tvg-name="2025年春晚",2025年春晚
 https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="2025年春晚",2025年春晚
+https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
 #EXTINF:-1 tvg-name="2036来历不明(英国科幻片)",2036来历不明(英国科幻片)
 https://v.cdnlz3.com/20230930/22075_9677d515/index.m3u8
 #EXTINF:-1 tvg-name="2050(美国科幻片)",2050(美国科幻片)
@@ -231,8 +221,6 @@ https://vip.lzcdn2.com/20220326/724_f4448c85/index.m3u8
 https://v.lzcdn25.com/20250301/31_90e2ce85/index.m3u8
 #EXTINF:-1 tvg-name="37号2018(南非恐怖片)",37号2018(南非恐怖片)
 https://vip1.lz-cdn1.com/20220317/170_8e851afb/index.m3u8
-#EXTINF:-1 tvg-name="3ABNKids",3ABNKids
-https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="400发子弹(美国战争片)",400发子弹(美国战争片)
 https://vip.lz-cdn3.com/20220629/8474_aae31b61/index.m3u8
 #EXTINF:-1 tvg-name="404宿灵速速逃2024(泰国恐怖片)",404宿灵速速逃2024(泰国恐怖片)
@@ -630,15 +618,15 @@ http://www.erbao1981.top:8188/udp/239.76.253.151:9000
 #EXTINF:-1 tvg-name="CCTV1",CCTV1
 https://py.doube.eu.org/xinghuo?url=/CCTV-1-General-Channel/916
 #EXTINF:-1 tvg-name="CCTV1",CCTV1
-http://59.188.94.126:35455/bptv/10000100000000050000000003248324.m3u8
+http://112.46.105.20:8009/hls/501/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1",CCTV1
-http://59.188.94.126:35455/bptv/10000100000000050000000003864351.m3u8
+https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
 #EXTINF:-1 tvg-name="CCTV1",CCTV1
-http://220.164.192.48:50085/tsfile/live/0002_1.m3u8
+http://58.19.43.46:9901/tsfile/live/1020_1.m3u8
 #EXTINF:-1 tvg-name="CCTV1",CCTV1
-http://58.57.40.22:9901/tsfile/live/0001_1.m3u8
+http://113.57.111.4:1111/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-name="CCTV1",CCTV1
-http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
 #EXTINF:-1 tvg-name="CCTV10",CCTV10
 http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870753.m3u8
 #EXTINF:-1 tvg-name="CCTV10",CCTV10
@@ -674,15 +662,15 @@ http://www.erbao1981.top:8188/udp/239.76.253.160:9000
 #EXTINF:-1 tvg-name="CCTV10",CCTV10
 https://py.doube.eu.org/xinghuo?url=/CCTV-10-Science-and-Education-Channel?/924
 #EXTINF:-1 tvg-name="CCTV10",CCTV10
-http://59.188.94.126:35455/bptv/10000100000000050000000003870753.m3u8
-#EXTINF:-1 tvg-name="CCTV10",CCTV10
 http://39.164.160.249:9901/tsfile/live/0010_1.m3u8
-#EXTINF:-1 tvg-name="CCTV10",CCTV10
-http://220.164.192.48:50085/tsfile/live/0011_1.m3u8
 #EXTINF:-1 tvg-name="CCTV10",CCTV10
 http://58.57.40.22:9901/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-name="CCTV10",CCTV10
 http://112.46.105.20:8009/hls/506/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10",CCTV10
+http://120.76.248.139/live/bfgd/4200000129.m3u8
+#EXTINF:-1 tvg-name="CCTV10",CCTV10
+http://60.29.124.66:6080/hls/21/index.m3u8
 #EXTINF:-1 tvg-name="CCTV11",CCTV11
 http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870754.m3u8
 #EXTINF:-1 tvg-name="CCTV11",CCTV11
@@ -718,15 +706,15 @@ http://www.erbao1981.top:8188/udp/239.76.245.251:1234
 #EXTINF:-1 tvg-name="CCTV11",CCTV11
 https://py.doube.eu.org/xinghuo?url=/CCTV-11-Chinese-Opera-Channel/925
 #EXTINF:-1 tvg-name="CCTV11",CCTV11
-http://59.188.94.126:35455/bptv/10000100000000050000000003870754.m3u8
-#EXTINF:-1 tvg-name="CCTV11",CCTV11
 http://39.164.160.249:9901/tsfile/live/0011_1.m3u8
 #EXTINF:-1 tvg-name="CCTV11",CCTV11
 http://58.57.40.22:9901/tsfile/live/1011_1.m3u8
 #EXTINF:-1 tvg-name="CCTV11",CCTV11
 http://120.76.248.139/live/bfgd/4200000130.m3u8
 #EXTINF:-1 tvg-name="CCTV11",CCTV11
-http://58.221.214.82:9901/tsfile/live/0011_1.m3u8
+https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8
+#EXTINF:-1 tvg-name="CCTV11",CCTV11
+http://113.57.111.4:1111/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-name="CCTV12",CCTV12
 http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870755.m3u8
 #EXTINF:-1 tvg-name="CCTV12",CCTV12
@@ -762,15 +750,15 @@ http://www.erbao1981.top:8188/udp/239.76.253.162:9000
 #EXTINF:-1 tvg-name="CCTV12",CCTV12
 https://py.doube.eu.org/xinghuo?url=/CCTV-12-Society-and-Law-Channel/926
 #EXTINF:-1 tvg-name="CCTV12",CCTV12
-http://59.188.94.126:35455/bptv/10000100000000050000000003870755.m3u8
-#EXTINF:-1 tvg-name="CCTV12",CCTV12
-http://39.164.160.249:9901/tsfile/live/0012_1.m3u8
-#EXTINF:-1 tvg-name="CCTV12",CCTV12
 http://112.46.105.20:8009/hls/507/index.m3u8
 #EXTINF:-1 tvg-name="CCTV12",CCTV12
-http://120.76.248.139/live/bfgd/4200000131.m3u8
+http://58.19.43.46:9901/tsfile/live/1031_1.m3u8
 #EXTINF:-1 tvg-name="CCTV12",CCTV12
-https://piccpndali.v.myalicdn.com/audio/cctv12_2.m3u8
+http://120.238.94.10:9901/tsfile/live/1030_1.m3u8
+#EXTINF:-1 tvg-name="CCTV12",CCTV12
+http://58.57.40.22:9901/tsfile/live/1012_1.m3u8
+#EXTINF:-1 tvg-name="CCTV12",CCTV12
+http://113.101.119.27:808/hls/124/index.m3u8
 #EXTINF:-1 tvg-name="CCTV13",CCTV13
 http://2.itv.nctv.top:35455/bptv/10000100000000050000000004796248.m3u8
 #EXTINF:-1 tvg-name="CCTV13",CCTV13
@@ -812,15 +800,17 @@ http://www.erbao1981.top:8188/udp/239.76.253.93:9000
 #EXTINF:-1 tvg-name="CCTV13",CCTV13
 https://py.doube.eu.org/xinghuo?url=/CCTV-13-News-Channel/927
 #EXTINF:-1 tvg-name="CCTV13",CCTV13
-http://59.188.94.126:35455/bptv/10000100000000050000000004796248.m3u8
-#EXTINF:-1 tvg-name="CCTV13",CCTV13
-http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
-#EXTINF:-1 tvg-name="CCTV13",CCTV13
-http://120.76.248.139/live/bfgd/4200000067.m3u8
-#EXTINF:-1 tvg-name="CCTV13",CCTV13
 https://event.pull.hebtv.com/jishi/cp1.m3u8
 #EXTINF:-1 tvg-name="CCTV13",CCTV13
 http://60.29.124.66:6080/hls/23/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13",CCTV13
+http://8.138.7.223/tv/gzjs.m3u8
+#EXTINF:-1 tvg-name="CCTV13",CCTV13
+http://58.210.168.86:10800/newlive/live/hls/12/live.m3u8
+#EXTINF:-1 tvg-name="CCTV13",CCTV13
+http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+#EXTINF:-1 tvg-name="CCTV13",CCTV13
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 tvg-name="CCTV14",CCTV14
 http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870756.m3u8
 #EXTINF:-1 tvg-name="CCTV14",CCTV14
@@ -856,23 +846,15 @@ http://www.erbao1981.top:8188/udp/239.76.253.164:9000
 #EXTINF:-1 tvg-name="CCTV14",CCTV14
 https://py.doube.eu.org/xinghuo?url=/CCTV-14-Children's-Channel/928
 #EXTINF:-1 tvg-name="CCTV14",CCTV14
-http://59.188.94.126:35455/bptv/10000100000000050000000003870756.m3u8
-#EXTINF:-1 tvg-name="CCTV14",CCTV14
-http://220.164.192.48:50085/tsfile/live/0015_1.m3u8
-#EXTINF:-1 tvg-name="CCTV14",CCTV14
-http://39.164.160.249:9901/tsfile/live/0014_1.m3u8
+http://58.57.40.22:9901/tsfile/live/1014_1.m3u8
 #EXTINF:-1 tvg-name="CCTV14",CCTV14
 http://120.76.248.139/live/bfgd/4200000132.m3u8
 #EXTINF:-1 tvg-name="CCTV14",CCTV14
+http://171.118.162.212:9003//hls/15/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14",CCTV14
 https://event.pull.hebtv.com/jishi/cp2.m3u8
 #EXTINF:-1 tvg-name="CCTV14",CCTV14
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225640/2/index.m3u8
-#EXTINF:-1 tvg-name="CCTV14",CCTV14
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225640/index.m3u8
-#EXTINF:-1 tvg-name="CCTV14",CCTV14
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225494/2/index.m3u8
-#EXTINF:-1 tvg-name="CCTV14",CCTV14
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225639/2/index.m3u8
+https://piccpndali.v.myalicdn.com/audio/cctv14_2.m3u8
 #EXTINF:-1 tvg-name="CCTV15",CCTV15
 http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870757.m3u8
 #EXTINF:-1 tvg-name="CCTV15",CCTV15
@@ -904,19 +886,19 @@ http://www.erbao1981.top:8188/udp/239.76.245.252:1234
 #EXTINF:-1 tvg-name="CCTV15",CCTV15
 https://py.doube.eu.org/xinghuo?url=/CCTV-15-Music-Channel/930
 #EXTINF:-1 tvg-name="CCTV15",CCTV15
-http://59.188.94.126:35455/bptv/10000100000000050000000003870757.m3u8
-#EXTINF:-1 tvg-name="CCTV15",CCTV15
-http://39.164.160.249:9901/tsfile/live/0015_1.m3u8
-#EXTINF:-1 tvg-name="CCTV15",CCTV15
 http://58.57.40.22:9901/tsfile/live/1015_1.m3u8
 #EXTINF:-1 tvg-name="CCTV15",CCTV15
 http://120.76.248.139/live/bfgd/4200000133.m3u8
 #EXTINF:-1 tvg-name="CCTV15",CCTV15
-http://111.43.126.240:9003/hls/28/index.m3u8
+http://39.165.196.149:9003//hls/15/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15",CCTV15
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225641/2/index.m3u8
+http://58.210.168.86:10800/newlive/live/hls/14/live.m3u8
+#EXTINF:-1 tvg-name="CCTV15",CCTV15
+https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8
 #EXTINF:-1 tvg-name="CCTV15",CCTV15
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225641/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15",CCTV15
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225641/2/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16",CCTV16
 http://2.itv.nctv.top:35455/bptv/10000100000000050000000004972604.m3u8
 #EXTINF:-1 tvg-name="CCTV16",CCTV16
@@ -946,9 +928,9 @@ http://www.erbao1981.top:8188/udp/239.76.253.230:9000
 #EXTINF:-1 tvg-name="CCTV16",CCTV16
 http://59.188.94.126:35455/bptv/10000100000000050000000004972604.m3u8
 #EXTINF:-1 tvg-name="CCTV16",CCTV16
-http://59.188.94.126:35455/bptv/10000100000000050000000004972559.m3u8
+http://171.118.162.212:9003//hls/17/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16",CCTV16
-http://111.43.126.240:9003/hls/29/index.m3u8
+http://1b6467f415.iok.la:9931/tsfile/live/1094_1.m3u8
 #EXTINF:-1 tvg-name="CCTV16",CCTV16
 https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
 #EXTINF:-1 tvg-name="CCTV16",CCTV16
@@ -1040,13 +1022,13 @@ https://py.doube.eu.org/xinghuo?url=/CCTV-2-Finance-and-Economics-Channel/917
 #EXTINF:-1 tvg-name="CCTV2",CCTV2
 http://59.188.94.126:35455/bptv/10000100000000050000000003407051.m3u8
 #EXTINF:-1 tvg-name="CCTV2",CCTV2
-http://39.164.160.249:9901/tsfile/live/0002_1.m3u8
-#EXTINF:-1 tvg-name="CCTV2",CCTV2
 http://58.57.40.22:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1 tvg-name="CCTV2",CCTV2
 http://112.46.105.20:8009/hls/502/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2",CCTV2
-https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8
+http://120.76.248.139/live/bfgd/4200000061.m3u8
+#EXTINF:-1 tvg-name="CCTV2",CCTV2
+http://1b6467f415.iok.la:9931/tsfile/live/1021_1.m3u8
 #EXTINF:-1 tvg-name="CCTV2",CCTV2
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225643/2/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3",CCTV3
@@ -1080,15 +1062,15 @@ http://www.erbao1981.top:8188/udp/239.76.253.153:9000
 #EXTINF:-1 tvg-name="CCTV3",CCTV3
 https://py.doube.eu.org/xinghuo?url=/CCTV-3-Variety-Show-Channel/918
 #EXTINF:-1 tvg-name="CCTV3",CCTV3
-http://58.57.40.22:9901/tsfile/live/1002_1.m3u8
+http://59.188.94.126:35455/bptv/10000100000000050000000003870746.m3u8
 #EXTINF:-1 tvg-name="CCTV3",CCTV3
-http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
+http://58.57.40.22:9901/tsfile/live/1002_1.m3u8
 #EXTINF:-1 tvg-name="CCTV3",CCTV3
 http://112.46.105.20:8009/hls/3/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3",CCTV3
 http://120.76.248.139/live/bfgd/4200000062.m3u8
 #EXTINF:-1 tvg-name="CCTV3",CCTV3
-https://piccpndali.v.myalicdn.com/audio/cctv3_2.m3u8
+http://1b6467f415.iok.la:9931/tsfile/live/1022_1.m3u8
 #EXTINF:-1 tvg-name="CCTV3",CCTV3
 http://[2409:8087:1a01:df::4041]:80/TVOD/88888888/224/3221225799/main.m3u8
 #EXTINF:-1 tvg-name="CCTV4",CCTV4
@@ -1128,13 +1110,13 @@ http://www.erbao1981.top:8188/udp/239.76.253.154:9000
 #EXTINF:-1 tvg-name="CCTV4",CCTV4
 http://112.46.105.20:8009/hls/4/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4",CCTV4
+http://120.76.248.139/live/bfgd/4200000063.m3u8
+#EXTINF:-1 tvg-name="CCTV4",CCTV4
 http://60.29.124.66:6080/hls/15/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4",CCTV4
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+http://58.19.43.46:9901/tsfile/live/1023_1.m3u8
 #EXTINF:-1 tvg-name="CCTV4",CCTV4
-https://piccpndali.v.myalicdn.com/audio/cctveurope_2.m3u8
-#EXTINF:-1 tvg-name="CCTV4",CCTV4
-https://piccpndali.v.myalicdn.com/audio/cctvamerica_2.m3u8
+http://113.57.111.4:1111/tsfile/live/1003_1.m3u8
 #EXTINF:-1 tvg-name="CCTV4-欧洲",CCTV4-欧洲
 http://www.189pan.cn:8008/udp/239.252.219.192:5140
 #EXTINF:-1 tvg-name="CCTV4-欧洲",CCTV4-欧洲
@@ -1190,15 +1172,15 @@ http://www.erbao1981.top:8188/udp/239.76.253.155:9000
 #EXTINF:-1 tvg-name="CCTV5",CCTV5
 https://py.doube.eu.org/xinghuo?url=/cctv-5-sports-channel/1255
 #EXTINF:-1 tvg-name="CCTV5",CCTV5
-http://59.188.94.126:35455/bptv/10000100000000050000000003870748.m3u8
-#EXTINF:-1 tvg-name="CCTV5",CCTV5
 http://58.57.40.22:9901/tsfile/live/1004_1.m3u8
-#EXTINF:-1 tvg-name="CCTV5",CCTV5
-http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 #EXTINF:-1 tvg-name="CCTV5",CCTV5
 http://112.46.105.20:8009/hls/503/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5",CCTV5
-http://120.76.248.139/live/bfgd/4200000064.m3u8
+http://58.19.43.46:9901/tsfile/live/1024_1.m3u8
+#EXTINF:-1 tvg-name="CCTV5",CCTV5
+http://61.138.128.226:19901/tsfile/live/0005_1.m3u8
+#EXTINF:-1 tvg-name="CCTV5",CCTV5
+http://218.3.138.25:1111/tsfile/live/1004_1.m3u8
 #EXTINF:-1 tvg-name="CCTV5",CCTV5
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5+",CCTV5+
@@ -1236,13 +1218,13 @@ https://py.doube.eu.org/xinghuo?url=/CCTV-5+-Sports-Events/1256
 #EXTINF:-1 tvg-name="CCTV5+",CCTV5+
 http://59.188.94.126:35455/bptv/10000100000000050000000003248330.m3u8
 #EXTINF:-1 tvg-name="CCTV5+",CCTV5+
-http://59.188.94.126:35455/bptv/10000100000000050000000003870759.m3u8
+http://58.57.40.22:9901/tsfile/live/1005_1.m3u8
 #EXTINF:-1 tvg-name="CCTV5+",CCTV5+
 http://120.76.248.139/live/bfgd/4200000246.m3u8
 #EXTINF:-1 tvg-name="CCTV5+",CCTV5+
-http://39.165.196.149:9003//hls/16/index.m3u8
+https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
 #EXTINF:-1 tvg-name="CCTV5+",CCTV5+
-http://218.89.240.144:59901/tsfile/live/0016_1.m3u8
+http://58.221.214.82:9901/tsfile/live/0016_1.m3u8
 #EXTINF:-1 tvg-name="CCTV6",CCTV6
 http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870749.m3u8
 #EXTINF:-1 tvg-name="CCTV6",CCTV6
@@ -1280,9 +1262,9 @@ http://58.57.40.22:9901/tsfile/live/1006_1.m3u8
 #EXTINF:-1 tvg-name="CCTV6",CCTV6
 http://112.46.105.20:8009/hls/6/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6",CCTV6
-http://60.29.124.66:6080/hls/17/index.m3u8
+http://171.118.162.212:9003//hls/7/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6",CCTV6
-http://58.19.43.46:9901/tsfile/live/1025_1.m3u8
+http://60.29.124.66:6080/hls/17/index.m3u8
 #EXTINF:-1 tvg-name="CCTV7",CCTV7
 http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870750.m3u8
 #EXTINF:-1 tvg-name="CCTV7",CCTV7
@@ -1312,15 +1294,15 @@ http://www.erbao1981.top:8188/udp/239.76.253.157:9000
 #EXTINF:-1 tvg-name="CCTV7",CCTV7
 https://py.doube.eu.org/xinghuo?url=/CCTV-7-Military-and-Agriculture-Channel/921
 #EXTINF:-1 tvg-name="CCTV7",CCTV7
-http://59.188.94.126:35455/bptv/10000100000000050000000003870750.m3u8
-#EXTINF:-1 tvg-name="CCTV7",CCTV7
 http://220.164.192.48:50085/tsfile/live/0008_1.m3u8
 #EXTINF:-1 tvg-name="CCTV7",CCTV7
 http://58.57.40.22:9901/tsfile/live/1007_1.m3u8
 #EXTINF:-1 tvg-name="CCTV7",CCTV7
-http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
-#EXTINF:-1 tvg-name="CCTV7",CCTV7
 http://112.46.105.20:8009/hls/504/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7",CCTV7
+http://120.76.248.139/live/bfgd/4200000127.m3u8
+#EXTINF:-1 tvg-name="CCTV7",CCTV7
+https://piccpndali.v.myalicdn.com/audio/cctv7_2.m3u8
 #EXTINF:-1 tvg-name="CCTV8",CCTV8
 http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870838.m3u8
 #EXTINF:-1 tvg-name="CCTV8",CCTV8
@@ -1352,15 +1334,15 @@ http://www.erbao1981.top:8188/udp/239.76.253.158:9000
 #EXTINF:-1 tvg-name="CCTV8",CCTV8
 https://py.doube.eu.org/xinghuo?url=/CCTV-8-TV-Drama-Channel/922
 #EXTINF:-1 tvg-name="CCTV8",CCTV8
-http://59.188.94.126:35455/bptv/10000100000000050000000003870838.m3u8
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
 #EXTINF:-1 tvg-name="CCTV8",CCTV8
 http://58.57.40.22:9901/tsfile/live/1008_1.m3u8
 #EXTINF:-1 tvg-name="CCTV8",CCTV8
 http://112.46.105.20:8009/hls/8/index.m3u8
 #EXTINF:-1 tvg-name="CCTV8",CCTV8
-http://120.76.248.139/live/bfgd/4200000066.m3u8
+http://113.57.111.4:1111/tsfile/live/1007_1.m3u8
 #EXTINF:-1 tvg-name="CCTV8",CCTV8
-http://60.29.124.66:6080/hls/19/index.m3u8
+http://58.220.219.14:9901/tsfile/live/0008_1.m3u8
 #EXTINF:-1 tvg-name="CCTV9",CCTV9
 http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870752.m3u8
 #EXTINF:-1 tvg-name="CCTV9",CCTV9
@@ -1396,11 +1378,11 @@ http://59.188.94.126:35455/bptv/10000100000000050000000003870752.m3u8
 #EXTINF:-1 tvg-name="CCTV9",CCTV9
 http://59.188.94.126:35455/bptv/10000100000000050000000005002664.m3u8
 #EXTINF:-1 tvg-name="CCTV9",CCTV9
-http://39.164.160.249:9901/tsfile/live/0009_1.m3u8
-#EXTINF:-1 tvg-name="CCTV9",CCTV9
 http://58.57.40.22:9901/tsfile/live/1009_1.m3u8
 #EXTINF:-1 tvg-name="CCTV9",CCTV9
 http://112.46.105.20:8009/hls/509/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9",CCTV9
+http://120.76.248.139/live/bfgd/4200000128.m3u8
 #EXTINF:-1 tvg-name="CCTV世界地理",CCTV世界地理
 http://www.189pan.cn:8008/udp/239.252.219.93:5140
 #EXTINF:-1 tvg-name="CCTV世界地理",CCTV世界地理
@@ -1415,24 +1397,26 @@ http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 http://222.169.41.80:9901/tsfile/live/1012_1.m3u8
 #EXTINF:-1 tvg-name="CCTV央视台球",CCTV央视台球
 http://36.129.204.117:9003//hls/71/index.m3u8
-#EXTINF:-1 tvg-name="CCTV央视台球",CCTV央视台球
-http://183.11.239.36:808/hls/73/index.m3u8
 #EXTINF:-1 tvg-name="CCTV央视文化精品",CCTV央视文化精品
 http://www.189pan.cn:8008/udp/239.252.219.81:5140
+#EXTINF:-1 tvg-name="CCTV女性时尚",CCTV女性时尚
+http://120.76.248.139/live/bfgd/4200000176.m3u8
 #EXTINF:-1 tvg-name="CCTV女性时尚",CCTV女性时尚
 http://111.61.236.247:9081/hls/59/index.m3u8
 #EXTINF:-1 tvg-name="CCTV怀旧剧场",CCTV怀旧剧场
 http://www.189pan.cn:8008/udp/239.252.219.90:5140
 #EXTINF:-1 tvg-name="CCTV怀旧剧场",CCTV怀旧剧场
 http://t8622699o8.vicp.fun:60024/tptv/G_NVXINGSS-CQ.m3u8
+#EXTINF:-1 tvg-name="CCTV怀旧剧场",CCTV怀旧剧场
+http://111.61.236.247:9081/hls/67/index.m3u8
+#EXTINF:-1 tvg-name="CCTV怀旧剧场",CCTV怀旧剧场
+http://120.76.248.139/live/bfgd/4200000224.m3u8
 #EXTINF:-1 tvg-name="CCTV杀人案件(韩国恐怖片)",CCTV杀人案件(韩国恐怖片)
 https://vip1.lz-cdn1.com/20230527/21048_9f507eb4/index.m3u8
 #EXTINF:-1 tvg-name="CCTV电视指南",CCTV电视指南
 http://www.189pan.cn:8008/udp/239.252.219.97:5140
 #EXTINF:-1 tvg-name="CCTV第一剧场",CCTV第一剧场
 http://www.189pan.cn:8008/udp/239.252.219.86:5140
-#EXTINF:-1 tvg-name="CCTV老故事",CCTV老故事
-http://nas.hssvm.com:8888/udp/225.1.1.188:5002
 #EXTINF:-1 tvg-name="CCTV风云剧场",CCTV风云剧场
 http://www.189pan.cn:8008/udp/239.252.219.89:5140
 #EXTINF:-1 tvg-name="CCTV风云足球",CCTV风云足球
@@ -1451,8 +1435,6 @@ http://120.238.94.10:9901/tsfile/live/1087_1.m3u8
 http://183.11.239.36:808/hls/133/index.m3u8
 #EXTINF:-1 tvg-name="CCTV风云音乐",CCTV风云音乐
 http://www.189pan.cn:8008/udp/239.252.219.87:5140
-#EXTINF:-1 tvg-name="CCTV高尔夫球",CCTV高尔夫球
-http://nas.hssvm.com:8888/udp/225.1.1.182:5002
 #EXTINF:-1 tvg-name="CCTV高尔夫网球",CCTV高尔夫网球
 http://www.189pan.cn:8008/udp/239.252.219.95:5140
 #EXTINF:-1 tvg-name="CETV1",CETV1
@@ -1474,9 +1456,9 @@ https://py.doube.eu.org/xinghuo?url=/CGTN/944
 #EXTINF:-1 tvg-name="CGTN",CGTN
 http://a21709.tv.netsite.cc/proxy/1162774257/1162774257.m3u8
 #EXTINF:-1 tvg-name="CGTN",CGTN
-http://iptv.huuc.edu.cn/hls/cgtnhd.m3u8
-#EXTINF:-1 tvg-name="CGTN",CGTN
 https://0472.org/hls/cgtn.m3u8
+#EXTINF:-1 tvg-name="CGTN",CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-name="CGTN俄语",CGTN俄语
 http://39.134.65.106/PLTV/88888888/224/3221226096/1.m3u8?$HLJYDIP 4M SD
 #EXTINF:-1 tvg-name="CGTN俄语",CGTN俄语
@@ -1560,15 +1542,15 @@ http://live.nctv.top/DYjsklis/migu.php?id=chcdzdy
 #EXTINF:-1 tvg-name="CHC动作电影",CHC动作电影
 http://www.erbao1981.top:8188/udp/239.76.245.243:1234
 #EXTINF:-1 tvg-name="CHC动作电影",CHC动作电影
-https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
-#EXTINF:-1 tvg-name="CHC动作电影",CHC动作电影
 http://113.64.146.6:2024/hls/17/index.m3u8
-#EXTINF:-1 tvg-name="CHC动作电影",CHC动作电影
-http://111.43.126.240:9003/hls/75/index.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影",CHC动作电影
 http://218.15.183.23:9901/tsfile/live/23039_1.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影",CHC动作电影
 http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影",CHC动作电影
+http://120.238.94.82:9901/tsfile/live/1052_1.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影",CHC动作电影
+http://39.135.133.167:80/PLTV/88888888/224/3221225555/1.m3u8
 #EXTINF:-1 tvg-name="CHC华诚影视",CHC华诚影视
 http://120.76.248.139/live/bfgd/4200000289.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院",CHC家庭影院
@@ -1584,7 +1566,7 @@ http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院",CHC家庭影院
 http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院",CHC家庭影院
-http://qjrhc.jydjd.top:2911/udp/224.1.100.149:11111
+http://nas.hssvm.com:8888/udp/225.1.1.213:5002
 #EXTINF:-1 tvg-name="CHC家庭影院",CHC家庭影院
 http://120.198.101.106:9901/tsfile/live/1051_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CHC家庭影院",CHC家庭影院
@@ -1663,6 +1645,8 @@ http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 #EXTINF:-1 tvg-name="CNR香港之声",CNR香港之声
 http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+#EXTINF:-1 tvg-name="CN卡通",CN卡通
+http://50.7.234.10:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A4898983648989836&tsum=bd109117d126916f203880b1f2063d5e
 #EXTINF:-1 tvg-name="CRI HIT FM (北京)",CRI HIT FM (北京)
 https://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
 #EXTINF:-1 tvg-name="CRI HIT FM (广州)",CRI HIT FM (广州)
@@ -1842,13 +1826,13 @@ https://vd2.bdstatic.com/mda-nd59vsq0r1e2j3g2/sc/cae_h264_delogo/164923073758290
 #EXTINF:-1 tvg-name="DJ舍不得又能怎样呢",DJ舍不得又能怎样呢
 https://vd2.bdstatic.com/mda-ncv1qd3acxskd46p/sc/cae_h264_delogo/1648720820032252958/mda-ncv1qd3acxskd46p.mp4
 #EXTINF:-1 tvg-name="DJ舞曲",DJ舞曲
-https://vd2.bdstatic.com/mda-nch73gktvfmgdrbd/sc/cae_h264_delogo/1647644537085447432/mda-nch73gktvfmgdrbd.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1648813542-0-0-4a2d27d50015d19f3ed5cf5fbc261f79&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=ced9e69a4f6154e91be590c1d5a488ab&logid=0942439256&vid=4192073541598205553&pt=0&appver=7.2.1.10&model=T7-5G10&osver=9&cr=2&abtest=peav_g52&sle=1&sl=1420&split=1235330&dt=1&nt=0&pe=0&prerender=0&kpdl=1&h265_m=-1&klogid=c770aa16cadb579d&kapid=1&psp=1&psk=68&pif=0_0_0_0&qtfc=65535&qtut=0&stg=none
-#EXTINF:-1 tvg-name="DJ舞曲",DJ舞曲
-https://vdse.bdstatic.com//8258cbe0dfd6738613fe9efd33a7a83f.mp4
+https://vd4.bdstatic.com/mda-idpg23napy9gsnxb/logo/sc/mda-idpg23napy9gsnxb.mp4
 #EXTINF:-1 tvg-name="DJ舞曲",DJ舞曲
 https://vd2.bdstatic.com/mda-ncp5ggtppe1c0gw0/720p/h264_delogo/1648094099072851708/mda-ncp5ggtppe1c0gw0.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1648813542-0-0-b75fb95e3bd44e8af5cc964483db1b1a&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=ced9e69a4f6154e91be590c1d5a488ab&logid=0942439256&vid=12262793352915624883&pt=0&appver=7.2.1.10&model=T7-5G10&osver=9&cr=2&abtest=peav_g52&sle=1&sl=2303&split=1993062&dt=0&nt=0&kpdl=1&h265_m=-1&klogid=0000000000000000&kapid=1&psp=1&psk=8&pif=0_0_0_0&qtfc=65535&qtut=0&stg=none
 #EXTINF:-1 tvg-name="DJ舞曲",DJ舞曲
-https://vd4.bdstatic.com/mda-idpg23napy9gsnxb/logo/sc/mda-idpg23napy9gsnxb.mp4
+https://vd2.bdstatic.com/mda-nch73gktvfmgdrbd/sc/cae_h264_delogo/1647644537085447432/mda-nch73gktvfmgdrbd.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1648813542-0-0-4a2d27d50015d19f3ed5cf5fbc261f79&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=ced9e69a4f6154e91be590c1d5a488ab&logid=0942439256&vid=4192073541598205553&pt=0&appver=7.2.1.10&model=T7-5G10&osver=9&cr=2&abtest=peav_g52&sle=1&sl=1420&split=1235330&dt=1&nt=0&pe=0&prerender=0&kpdl=1&h265_m=-1&klogid=c770aa16cadb579d&kapid=1&psp=1&psk=68&pif=0_0_0_0&qtfc=65535&qtut=0&stg=none
+#EXTINF:-1 tvg-name="DJ舞曲",DJ舞曲
+https://vdse.bdstatic.com//8258cbe0dfd6738613fe9efd33a7a83f.mp4
 #EXTINF:-1 tvg-name="DJ舞曲",DJ舞曲
 http://wb.xn--dkw.xn--6qq986b3xl:5244/d/%E5%A4%A9/og1.mp4?mda-nch73gktvfmgdrbd/sc/cae_h264_delogo/1647644537085447432/mda-nch73gktvfmgdrbd.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1648813542-0-0-4a2d27d50015d19f3ed5cf5fbc261f79&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=ced9e69a4f6154e91be590c1d5a488ab&logid=0942439256&vid=4192073541598205553&pt=0&appver=7.2.1.10&model=T7-5G10&osver=9&cr=2&abtest=peav_g52&sle=1&sl=1420&split=1235330&dt=1&nt=0&pe=0&prerender=0&kpdl=1&h265_m=-1&klogid=c770aa16cadb579d&kapid=1&psp=1&psk=68&pif=0_0_0_0&qtfc=65535&qtut=0&stg=none
 #EXTINF:-1 tvg-name="DJ舞曲《让我做你的眼睛》",DJ舞曲《让我做你的眼睛》
@@ -1923,8 +1907,6 @@ http://em.21dtv.com/songs/60027684.mkv
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-name="FPS2024(日本恐怖片)",FPS2024(日本恐怖片)
 https://v.cdnlz3.com/20240702/24407_783cb97c/index.m3u8
-#EXTINF:-1 tvg-name="FanpopTV",FanpopTV
-https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
 #EXTINF:-1 tvg-name="Fashion TV",Fashion TV
 https://py.doube.eu.org/xinghuo?url=/Fashion-TV/1218
 #EXTINF:-1 tvg-name="Fgm电影",Fgm电影
@@ -2151,6 +2133,8 @@ https://py.doube.eu.org/xinghuo?url=/Net-TV/967
 http://39.134.65.175/PLTV/88888888/224/3221225679/1.m3u8
 #EXTINF:-1 tvg-name="NewTV哒啵电竞",NewTV哒啵电竞
 http://39.134.64.87:6610/PLTV/88888888/224/3221225675/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 tvg-name="NewTV哒啵电竞",NewTV哒啵电竞
+http://yc.myds.me:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="NewTV欢乐剧场",NewTV欢乐剧场
 http://39.134.65.175/PLTV/88888888/224/3221225682/1.m3u8
 #EXTINF:-1 tvg-name="NewTV超级电影",NewTV超级电影
@@ -2962,11 +2946,11 @@ http://dsj.motem.top:8880/bptv/10000100000000050000000003887452.m3u8
 #EXTINF:-1 tvg-name="三沙卫视",三沙卫视
 http://61.138.128.226:19901/tsfile/live/1020_1.m3u8
 #EXTINF:-1 tvg-name="三沙卫视",三沙卫视
-http://119.36.148.115:59901/tsfile/live/1009_1.m3u8
-#EXTINF:-1 tvg-name="三沙卫视",三沙卫视
 https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 #EXTINF:-1 tvg-name="三沙卫视",三沙卫视
 http://118.212.71.109:11111/bptv/10000100000000050000000003887452.m3u8
+#EXTINF:-1 tvg-name="三沙卫视",三沙卫视
+http://112.123.210.46:85/tsfile/live/1035_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="三河综合",三河综合
 http://live.nctv.top/DYjsklis/hbtv1.php?id=sh1
 #EXTINF:-1 tvg-name="三生三幸",三生三幸
@@ -3104,17 +3088,13 @@ http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="上虞文化影院",上虞文化影院
 http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 #EXTINF:-1 tvg-name="上虞文化影院",上虞文化影院
-http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8zzhed
+http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed;http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8zzhed
 #EXTINF:-1 tvg-name="上虞新商都",上虞新商都
 http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="上虞新商都",上虞新商都
 http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
-#EXTINF:-1 tvg-name="上虞新商都",上虞新商都
-http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed\r\n
 #EXTINF:-1 tvg-name="上虞新闻综合",上虞新闻综合
 http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
-#EXTINF:-1 tvg-name="上虞新闻综合",上虞新闻综合
-http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl
 #EXTINF:-1 tvg-name="上虞综合",上虞综合
 http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed?
 #EXTINF:-1 tvg-name="上饶新闻综合",上饶新闻综合
@@ -3328,15 +3308,15 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-name="东南卫视",东南卫视
 http://a21709.tv.netsite.cc/proxy/698479958/698479958.m3u8
 #EXTINF:-1 tvg-name="东南卫视",东南卫视
-http://dsj.motem.top:8880/bptv/10000100000000050000000003873473.m3u8
-#EXTINF:-1 tvg-name="东南卫视",东南卫视
 http://117.169.124.37:6610/ysten-businessmobile/live/dongnanstv/yst.m3u8
 #EXTINF:-1 tvg-name="东南卫视",东南卫视
-http://182.37.169.94:352/tsfile/live/0137_1.m3u8
+http://58.57.40.22:9901/tsfile/live/1037_1.m3u8
+#EXTINF:-1 tvg-name="东南卫视",东南卫视
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 #EXTINF:-1 tvg-name="东南卫视",东南卫视
 http://113.64.146.94:2024/hls/84/index.m3u8
 #EXTINF:-1 tvg-name="东南卫视",东南卫视
-http://123.138.22.30:9901/tsfile/live/0137_1.m3u8
+http://58.19.43.46:9901/tsfile/live/1046_1.m3u8
 #EXTINF:-1 tvg-name="东南西北风DJ",东南西北风DJ
 https://vd2.bdstatic.com/mda-ncnfhdbt5mucyi3w/cae_h264_delogo/1648033513910900148/mda-ncnfhdbt5mucyi3w.mp4
 #EXTINF:-1 tvg-name="东台1套",东台1套
@@ -3416,13 +3396,13 @@ http://a21709.tv.netsite.cc/proxy/694881013/694881013.m3u8
 #EXTINF:-1 tvg-name="东方卫视",东方卫视
 https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
 #EXTINF:-1 tvg-name="东方卫视",东方卫视
-http://118.212.71.109:11111/bptv/10000100000000050000000003873462.m3u8
-#EXTINF:-1 tvg-name="东方卫视",东方卫视
-http://39.164.160.249:9901/tsfile/live/0107_1.m3u8
-#EXTINF:-1 tvg-name="东方卫视",东方卫视
 http://dsj.motem.top:8880/bptv/10000100000000050000000003873462.m3u8
 #EXTINF:-1 tvg-name="东方卫视",东方卫视
 http://58.57.40.22:9901/tsfile/live/1030_1.m3u8
+#EXTINF:-1 tvg-name="东方卫视",东方卫视
+http://42.48.17.230:808/hls/46/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视",东方卫视
+http://58.19.43.46:9901/tsfile/live/1035_1.m3u8
 #EXTINF:-1 tvg-name="东方巨龙",东方巨龙
 https://vip.ffzy-play6.com/20221117/7362_01e144e6/index.m3u8
 #EXTINF:-1 tvg-name="东方影视",东方影视
@@ -3452,11 +3432,11 @@ http://live.nctv.top/DYjsklis/bestv.php?id=dfcj
 #EXTINF:-1 tvg-name="东方财经",东方财经
 http://61.133.118.228:5001/douyu/9548279
 #EXTINF:-1 tvg-name="东方财经",东方财经
+http://wouu.net:9977/udp/239.93.1.165:5140
+#EXTINF:-1 tvg-name="东方财经",东方财经
 http://www.xzbn.site:35455/itv/5000000007000010003.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="东方财经",东方财经
 http://yc.myds.me:35455/itv/5000000007000010003.m3u8?cdn=bestzb
-#EXTINF:-1 tvg-name="东方财经",东方财经
-http://wouu.net:9977/udp/239.93.1.165:5140
 #EXTINF:-1 tvg-name="东方财经",东方财经
 http://qjrhc.jydjd.top:2911/udp/224.1.100.141:11111
 #EXTINF:-1 tvg-name="东昌综合",东昌综合
@@ -3471,6 +3451,8 @@ http://live4play.uk/livehttpplay?channel_id=20080
 http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
 #EXTINF:-1 tvg-name="东森电影",东森电影
 http://live4play.uk/livehttpplay?channel_id=20077
+#EXTINF:-1 tvg-name="东森电影",东森电影
+http://live4play.uk/livehttpplay?channel_id=20104
 #EXTINF:-1 tvg-name="东森电影",东森电影
 http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
 #EXTINF:-1 tvg-name="东森电影",东森电影
@@ -3529,8 +3511,6 @@ https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
 http://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
 #EXTINF:-1 tvg-name="东营综合",东营综合
 http://61.133.118.228:5001/yy/1354930954
-#EXTINF:-1 tvg-name="东阳影视生活",东阳影视生活
-http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 #EXTINF:-1 tvg-name="东阿综合",东阿综合
 http://live.nctv.top/DYjsklis/qilu.php?id=lcdezh
 #EXTINF:-1 tvg-name="丝黛芬妮(美国恐怖片)",丝黛芬妮(美国恐怖片)
@@ -3569,8 +3549,6 @@ https://v.cdnlz19.com/20240417/27787_d58690e4/index.m3u8
 https://v.cdnlz19.com/20240417/27788_8a8753f5/index.m3u8
 #EXTINF:-1 tvg-name="中俄列车大劫案(大陆动作片)",中俄列车大劫案(大陆动作片)
 https://v.cdnlz17.com/20231003/27496_9d7b809d/index.m3u8
-#EXTINF:-1 tvg-name="中华小当家",中华小当家
-http://www.douzhicloud.site:35455/huya/11342413
 #EXTINF:-1 tvg-name="中华美食",中华美食
 http://qjrhc.jydjd.top:2911/udp/224.1.100.138:11111
 #EXTINF:-1 tvg-name="中南海保镖",中南海保镖
@@ -3701,6 +3679,8 @@ http://live.nctv.top/DYjsklis/hbtv1.php?id=fn1
 https://jwliveqxzb.hebyun.com.cn/fengningzonghe/fengningzonghe.m3u8
 #EXTINF:-1 tvg-name="丰都综合",丰都综合
 http://live.nctv.top/DYjsklis/cqcdn.php?id=fengdu
+#EXTINF:-1 tvg-name="丰顺综合",丰顺综合
+http://1b6467f415.iok.la:9931/tsfile/live/1100_1.m3u8
 #EXTINF:-1 tvg-name="临沂农科",临沂农科
 https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
 #EXTINF:-1 tvg-name="临沭综合",临沭综合
@@ -3980,13 +3960,13 @@ http://a21709.tv.netsite.cc/proxy/599737477/599737477.m3u8
 #EXTINF:-1 tvg-name="云南卫视",云南卫视
 http://dsj.motem.top:8880/bptv/10000100000000050000000003887453.m3u8
 #EXTINF:-1 tvg-name="云南卫视",云南卫视
-http://39.164.160.249:9901/tsfile/live/0119_1.m3u8
-#EXTINF:-1 tvg-name="云南卫视",云南卫视
 http://58.57.40.22:9901/tsfile/live/1047_1.m3u8
 #EXTINF:-1 tvg-name="云南卫视",云南卫视
 http://113.64.146.94:2024/hls/81/index.m3u8
 #EXTINF:-1 tvg-name="云南卫视",云南卫视
-http://222.169.85.8:9901/tsfile/live/0119_1.m3u8
+https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
+#EXTINF:-1 tvg-name="云南卫视",云南卫视
+http://58.220.219.14:9901/tsfile/live/0119_1.m3u8
 #EXTINF:-1 tvg-name="云南大理崇圣寺三塔中景",云南大理崇圣寺三塔中景
 https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8
 #EXTINF:-1 tvg-name="云南大理崇圣寺三塔湖面",云南大理崇圣寺三塔湖面
@@ -4023,8 +4003,6 @@ https://gcalic.v.myalicdn.com/gc/ytszyf_1/index.m3u8
 http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?
 #EXTINF:-1 tvg-name="云和新闻综合",云和新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
-#EXTINF:-1 tvg-name="云和新闻综合",云和新闻综合
-http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="云朵、刀郎、孙露、张雨生等經典怀旧歌曲6首",云朵、刀郎、孙露、张雨生等經典怀旧歌曲6首
 https://vdse.bdstatic.com//fa0ed7ad8657cc4d13972c3d9aa5ddbf.mp4
 #EXTINF:-1 tvg-name="云朵、刀郎、孙露、张雨生等经典怀旧歌曲6首HD",云朵、刀郎、孙露、张雨生等经典怀旧歌曲6首HD
@@ -4544,8 +4522,6 @@ http://live.nctv.top/DYjsklis/jstv5.php?id=ymkt
 #EXTINF:-1 tvg-name="优漫卡通",优漫卡通
 http://live.nctv.top/DYjsklis/jstv.php?id=ymkt
 #EXTINF:-1 tvg-name="优漫卡通",优漫卡通
-http://111.43.126.240:9003/hls/74/index.m3u8
-#EXTINF:-1 tvg-name="优漫卡通",优漫卡通
 http://58.221.214.82:9901/tsfile/live/0008_2.m3u8
 #EXTINF:-1 tvg-name="优漫卡通",优漫卡通
 http://113.64.146.6:2024/hls/54/index.m3u8
@@ -4553,6 +4529,8 @@ http://113.64.146.6:2024/hls/54/index.m3u8
 http://110.53.218.182:9902/tsfile/live/1006_1.m3u8
 #EXTINF:-1 tvg-name="优漫卡通",优漫卡通
 http://113.64.146.94:2024/hls/54/index.m3u8
+#EXTINF:-1 tvg-name="优漫卡通",优漫卡通
+http://www.xzbn.site:35455/itv/1000000002000010063.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="传奇与蝴蝶(日本动作片)",传奇与蝴蝶(日本动作片)
 https://vip.lz-cdn3.com/20230512/18924_19c3213a/index.m3u8
 #EXTINF:-1 tvg-name="传奇剧场",传奇剧场
@@ -4615,8 +4593,6 @@ https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 #EXTINF:-1 tvg-name="余姚姚江文化",余姚姚江文化
 https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
-#EXTINF:-1 tvg-name="余姚姚江文化",余姚姚江文化
-http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8zzhed
 #EXTINF:-1 tvg-name="余姚新闻综合",余姚新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="余姚综合",余姚综合
@@ -4639,6 +4615,8 @@ http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed?
 http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?
 #EXTINF:-1 tvg-name="余杭未来E",余杭未来E
 http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
+#EXTINF:-1 tvg-name="余杭未来E",余杭未来E
+http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="余杭未来E频道",余杭未来E频道
 http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="余杭综合",余杭综合
@@ -4674,9 +4652,9 @@ http://113.65.7.94:8888/udp/239.253.43.53:5146
 #EXTINF:-1 tvg-name="佛山公共",佛山公共
 http://113.65.7.94:8888/udp/239.253.43.48:5146
 #EXTINF:-1 tvg-name="佛山公共",佛山公共
-http://113.109.250.108:9999/udp/239.253.43.53:5146
-#EXTINF:-1 tvg-name="佛山公共",佛山公共
 http://qjrhc.jydjd.top:2911/udp/224.1.100.134:11111
+#EXTINF:-1 tvg-name="佛山公共",佛山公共
+http://113.109.250.108:9999/udp/239.253.43.53:5146
 #EXTINF:-1 tvg-name="佛山南海",佛山南海
 http://113.117.107.10:8800/udp/239.253.43.54:5146
 #EXTINF:-1 tvg-name="佛山南海",佛山南海
@@ -4787,8 +4765,6 @@ http://39.134.65.106/PLTV/88888888/224/3221225993/1.m3u8?
 http://live.nctv.top/DYjsklis/huya.php?id=23734256
 #EXTINF:-1 tvg-name="使徒行者",使徒行者
 http://www.xzbn.site:35455/huya/23734256
-#EXTINF:-1 tvg-name="使徒行者",使徒行者
-http://www.douzhicloud.site:35455/huya/23734256
 #EXTINF:-1 tvg-name="例外(英国战争片)",例外(英国战争片)
 https://vip.lz-cdn3.com/20220912/13229_a36eeef6/index.m3u8
 #EXTINF:-1 tvg-name="侍女2016(越南恐怖片)",侍女2016(越南恐怖片)
@@ -4887,6 +4863,8 @@ https://v.cdnlz21.com/20241121/2465_8e17a28d/index.m3u8
 http://live.nctv.top/DYjsklis/huya.php?id=23734246
 #EXTINF:-1 tvg-name="倚天屠龙记",倚天屠龙记
 http://www.xzbn.site:35455/huya/23734246
+#EXTINF:-1 tvg-name="倚天屠龙记",倚天屠龙记
+http://www.douzhicloud.site:35455/huya/23734246
 #EXTINF:-1 tvg-name="倚天屠龙记1978【国语】(香港动作片)",倚天屠龙记1978【国语】(香港动作片)
 https://vip1.lz-cdn7.com/20230501/15732_d1fc6ed5/index.m3u8
 #EXTINF:-1 tvg-name="倚天屠龙记之魔教教主",倚天屠龙记之魔教教主
@@ -5293,8 +5271,6 @@ https://vip.lz-cdn3.com/20220722/9819_933e1269/index.m3u8
 http://live.nctv.top/DYjsklis/nmgtv.php?id=xa1
 #EXTINF:-1 tvg-name="兴海综合",兴海综合
 https://lived.dmqhyadmin.com/xhzhpd/sd/live.m3u8
-#EXTINF:-1 tvg-name="兴海综合",兴海综合
-http://lived.dmqhyadmin.com/xhzhpd/sd/live.m3u8
 #EXTINF:-1 tvg-name="兴隆影视",兴隆影视
 https://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="兴隆影视频道",兴隆影视频道
@@ -5344,15 +5320,15 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 #EXTINF:-1 tvg-name="兵团卫视",兵团卫视
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8?$HLJYD 1.5M SD
 #EXTINF:-1 tvg-name="兵团卫视",兵团卫视
+https://test5.btzx.com.cn/live/2023bt.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="兵团卫视",兵团卫视
+http://dsj.motem.top:8880/bptv/10000100000000050000000003887456.m3u8
+#EXTINF:-1 tvg-name="兵团卫视",兵团卫视
 http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1 tvg-name="兵团卫视",兵团卫视
-http://8.138.7.223/tv/btws.m3u8
-#EXTINF:-1 tvg-name="兵团卫视",兵团卫视
-http://218.89.240.144:59901/tsfile/live/0115_1.m3u8
+http://120.238.94.10:9901/tsfile/live/1080_1.m3u8
 #EXTINF:-1 tvg-name="兵团卫视",兵团卫视
 http://183.11.239.36:808/hls/7/index.m3u8
-#EXTINF:-1 tvg-name="兵团卫视",兵团卫视
-http://120.76.248.139/live/bfgd/4200000124.m3u8
 #EXTINF:-1 tvg-name="养杀人鬼的女人(日本恐怖片)",养杀人鬼的女人(日本恐怖片)
 https://vip.lz-cdn3.com/20220730/10323_67ab421e/index.m3u8
 #EXTINF:-1 tvg-name="养生堂",养生堂
@@ -5444,17 +5420,15 @@ http://a21709.tv.netsite.cc/proxy/1149350272/1149350272.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视",内蒙古卫视
 http://dsj.motem.top:8880/bptv/10000100000000050000000003887427.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视",内蒙古卫视
-http://8.138.7.223/tv/nmgws.m3u8
-#EXTINF:-1 tvg-name="内蒙古卫视",内蒙古卫视
 http://113.64.146.94:2024/hls/64/index.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视",内蒙古卫视
-http://183.66.15.146:60901/tsfile/live/0109_1.m3u8
+http://121.19.134.222:808/tsfile/live/0109_1.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视",内蒙古卫视
-http://121.33.239.242:9901/tsfile/live/0109_1.m3u8
+http://61.156.228.12:8154/tsfile/live/0109_1.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视",内蒙古卫视
+http://113.64.146.6:2024/hls/64/index.m3u8
 #EXTINF:-1 tvg-name="内蒙古呼伦贝尔哈萨尔大桥",内蒙古呼伦贝尔哈萨尔大桥
 https://gctxyc.liveplay.myqcloud.com/gc/ytshsx_1/index.m3u8
-#EXTINF:-1 tvg-name="内蒙古少儿",内蒙古少儿
-https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
 #EXTINF:-1 tvg-name="内蒙古少儿频道",内蒙古少儿频道
 http://live.nctv.top/DYjsklis/nmgtv.php?id=nmse
 #EXTINF:-1 tvg-name="内蒙古少儿频道",内蒙古少儿频道
@@ -5479,8 +5453,6 @@ http://live.nctv.top/DYjsklis/nmgtv.php?id=nmjjsh
 https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
 #EXTINF:-1 tvg-name="内蒙古经济生活",内蒙古经济生活
 http://a21709.tv.netsite.cc/proxy/1043888416/1043888416.m3u8
-#EXTINF:-1 tvg-name="内蒙古综合",内蒙古综合
-https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
 #EXTINF:-1 tvg-name="内蒙古蒙古语卫视",内蒙古蒙古语卫视
 http://live.nctv.top/DYjsklis/nmgtv.php?id=nmmyws
 #EXTINF:-1 tvg-name="内蒙古蒙古语文化",内蒙古蒙古语文化
@@ -5586,13 +5558,11 @@ http://gxlive.snrtv.com/nlws-SD.m3u8
 #EXTINF:-1 tvg-name="农林卫视",农林卫视
 http://112.46.85.60:8009/hls/27/index.m3u8
 #EXTINF:-1 tvg-name="农林卫视",农林卫视
-http://8.138.7.223/【公众号：榴芒电视】/农林卫视.m3u8
+http://124.116.183.146:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 tvg-name="农林卫视",农林卫视
+http://120.76.248.139/live/bfgd/4200000122.m3u8
 #EXTINF:-1 tvg-name="农林卫视",农林卫视
 http://www.xzbn.site:35455/itv/1000000005000266003.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-name="农林卫视",农林卫视
-http://124.116.183.146:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="农林卫视",农林卫视
-http://112.122.32.51:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="冠县综合",冠县综合
 http://live.nctv.top/DYjsklis/qilu.php?id=lcgxzh
 #EXTINF:-1 tvg-name="冥绝村(大陆恐怖片)",冥绝村(大陆恐怖片)
@@ -5828,11 +5798,11 @@ http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 #EXTINF:-1 tvg-name="凤凰卫视",凤凰卫视
 http://119.32.12.17:2901/udp/224.1.100.3:11111
 #EXTINF:-1 tvg-name="凤凰卫视",凤凰卫视
+http://qjrhc.jydjd.top:2911/udp/224.1.100.3:11111
+#EXTINF:-1 tvg-name="凤凰卫视",凤凰卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a2092354
 #EXTINF:-1 tvg-name="凤凰卫视",凤凰卫视
 http://120.198.101.106:9901/tsfile/live/1062_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="凤凰卫视",凤凰卫视
-http://qjrhc.jydjd.top:2911/udp/224.1.100.3:11111
 #EXTINF:-1 tvg-name="凤凰古城东关门",凤凰古城东关门
 https://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8
 #EXTINF:-1 tvg-name="凤凰古城南华山",凤凰古城南华山
@@ -6205,8 +6175,6 @@ https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300f830000bqvq3vcssiod1f1ac
 https://vd3.bdstatic.com/mda-mjn3rmcivntas8ez/hd/cae_h264_nowatermark/1635016788091110865/mda-mjn3rmcivntas8ez.mp4?pd=19&vt=1
 #EXTINF:-1 tvg-name="功夫",功夫
 https://vd3.bdstatic.com/mda-mjn3rmcivntas8ez/hd/cae_h264_nowatermark/1635016788091110865/mda-mjn3rmcivntas8ez.mp4
-#EXTINF:-1 tvg-name="功夫",功夫
-https://ukzy.ukubf4.com/20220407/j3bjFWpb/index.m3u8
 #EXTINF:-1 tvg-name="功夫2004(大陆动作片)",功夫2004(大陆动作片)
 https://vip.lzcdn2.com/20220319/64_943f0f68/index.m3u8
 #EXTINF:-1 tvg-name="功夫之王",功夫之王
@@ -6215,6 +6183,8 @@ https://cdn1.yzzy-tv-cdn.com/20220326/Fu3xA9TS/index.m3u8
 https://vip.lz-cdn3.com/20230719/20367_82488091/index.m3u8
 #EXTINF:-1 tvg-name="功夫瑜伽",功夫瑜伽
 https://vip.ffzy-play2.com/20221124/1291_468b2efb/index.m3u8
+#EXTINF:-1 tvg-name="功夫电影",功夫电影
+http://www.douzhicloud.site:35455/huya/11352941
 #EXTINF:-1 tvg-name="加尔维斯顿(美国动作片)",加尔维斯顿(美国动作片)
 https://vip1.lz-cdn1.com/20230806/21652_c0c70b45/index.m3u8
 #EXTINF:-1 tvg-name="加拿大·Global新闻",加拿大·Global新闻
@@ -6275,8 +6245,6 @@ http://183.237.95.108:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=0&authid=
 http://36.105.100.208:35455/itv/5000000011000031113.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="动漫秀场",动漫秀场
 http://vapi.91kds.cc/live1/jdtv2.m3u8?id=dmxchd&apiKey=73c963d13814ce7d0e4743c5e7d033cc
-#EXTINF:-1 tvg-name="动漫秀场",动漫秀场
-http://nas.hssvm.com:8888/udp/225.1.1.134:5002
 #EXTINF:-1 tvg-name="动漫秀场HD",动漫秀场HD
 http://live.nctv.top/DYjsklis/bestv.php?id=dmxc
 #EXTINF:-1 tvg-name="动物出击(大陆科幻片)",动物出击(大陆科幻片)
@@ -6458,13 +6426,13 @@ http://a21709.tv.netsite.cc/proxy/1773564112/1773564112.m3u8
 #EXTINF:-1 tvg-name="北京卫视",北京卫视
 http://dsj.motem.top:8880/bptv/10000100000000050000000003870776.m3u8
 #EXTINF:-1 tvg-name="北京卫视",北京卫视
-http://39.164.160.249:9901/tsfile/live/0122_1.m3u8
-#EXTINF:-1 tvg-name="北京卫视",北京卫视
 http://58.57.40.22:9901/tsfile/live/1032_1.m3u8
 #EXTINF:-1 tvg-name="北京卫视",北京卫视
 http://qtest-play.btime.cn/live/btv_sn_20170706_s41_20m.m3u8
 #EXTINF:-1 tvg-name="北京卫视",北京卫视
-http://124.116.183.146:9901/tsfile/live/0122_1.m3u8
+http://58.221.214.82:9901/tsfile/live/0122_1.m3u8
+#EXTINF:-1 tvg-name="北京卫视",北京卫视
+http://116.9.204.242:9901/tsfile/live/0122_1.m3u8
 #EXTINF:-1 tvg-name="北京卫视4K",北京卫视4K
 http://live.nctv.top/DYjsklis/bfgd.php?id=643
 #EXTINF:-1 tvg-name="北京古北水镇",北京古北水镇
@@ -6485,8 +6453,6 @@ https://gcalic.v.myalicdn.com/gc/syns01_1/index.m3u8
 http://live.nctv.top/DYjsklis/bjtv.php?id=bjys
 #EXTINF:-1 tvg-name="北京影视",北京影视
 http://124.205.11.205:91/live/BTVYShd-5M/live.m3u8
-#EXTINF:-1 tvg-name="北京影视",北京影视
-http://iptv.huuc.edu.cn/hls/btv4hd.m3u8
 #EXTINF:-1 tvg-name="北京文艺",北京文艺
 http://live.nctv.top/DYjsklis/bjtv.php?id=bjwy
 #EXTINF:-1 tvg-name="北京文艺",北京文艺
@@ -6498,6 +6464,8 @@ http://124.205.11.205:91/live/BTVXWhd-5M/live.m3u8
 #EXTINF:-1 tvg-name="北京新闻",北京新闻
 http://dsj.motem.top:8880/bptv/10000100000000050000000003870780.m3u8
 #EXTINF:-1 tvg-name="北京新闻",北京新闻
+http://yc.myds.me:35455/bptv/10000100000000050000000003870780.m3u8
+#EXTINF:-1 tvg-name="北京新闻",北京新闻
 http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 #EXTINF:-1 tvg-name="北京新闻",北京新闻
 https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
@@ -6505,8 +6473,6 @@ https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
 https://ls.qingting.fm/live/339/64k.m3u8
 #EXTINF:-1 tvg-name="北京新闻",北京新闻
 https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
-#EXTINF:-1 tvg-name="北京新闻",北京新闻
-http://yc.myds.me:35455/bptv/10000100000000050000000003870780.m3u8
 #EXTINF:-1 tvg-name="北京环球旅游",北京环球旅游
 http://120.76.248.139/live/bfgd/4200000147.m3u8
 #EXTINF:-1 tvg-name="北京生态环境频道",北京生态环境频道
@@ -6541,8 +6507,6 @@ http://39.134.65.106/PLTV/88888888/224/3221225670/1.m3u8?$HLJYDIP 4M FHD
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8?$HLJYD 4M FHD
 #EXTINF:-1 tvg-name="北京纪实科教",北京纪实科教
 http://live.nctv.top/DYjsklis/bestv.php?id=bjjskj
-#EXTINF:-1 tvg-name="北京纪实科教8K",北京纪实科教8K
-https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 #EXTINF:-1 tvg-name="北京财经",北京财经
 http://live.nctv.top/DYjsklis/bjtv.php?id=bjcj
 #EXTINF:-1 tvg-name="北京财经",北京财经
@@ -6856,8 +6820,6 @@ http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-name="南京少儿",南京少儿
 http://221.226.51.220:50080/newlive/live/hls/46/live.m3u8
 #EXTINF:-1 tvg-name="南京少儿",南京少儿
-http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
-#EXTINF:-1 tvg-name="南京少儿",南京少儿
 http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-name="南京少儿",南京少儿
 http://live.nbs.cn/channels/njtv/sepd/500k.m3u8?zjiangsd
@@ -6869,8 +6831,6 @@ http://live.nctv.top/DYjsklis/jstv5.php?id=nj1
 http://live.nctv.top/DYjsklis/jstv.php?id=nj1
 #EXTINF:-1 tvg-name="南京新闻综合",南京新闻综合
 http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
-#EXTINF:-1 tvg-name="南京新闻综合",南京新闻综合
-http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-name="南京玄武湖公园",南京玄武湖公园
 https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
 #EXTINF:-1 tvg-name="南京生活",南京生活
@@ -7082,9 +7042,9 @@ http://58.57.40.22:9901/tsfile/live/1060_1.m3u8
 #EXTINF:-1 tvg-name="卡酷少儿",卡酷少儿
 http://61.138.128.226:19901/tsfile/live/1017_1.m3u8
 #EXTINF:-1 tvg-name="卡酷少儿",卡酷少儿
-http://113.64.146.6:2024/hls/51/index.m3u8
-#EXTINF:-1 tvg-name="卡酷少儿",卡酷少儿
 http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿",卡酷少儿
+http://60.29.124.66:6080/hls/58/index.m3u8
 #EXTINF:-1 tvg-name="卡里加利博士的小屋(美国恐怖片)",卡里加利博士的小屋(美国恐怖片)
 https://vip1.lz-cdn1.com/20220403/819_9e97369e/index.m3u8
 #EXTINF:-1 tvg-name="卡里加里博士的小屋1920(德国恐怖片)",卡里加里博士的小屋1920(德国恐怖片)
@@ -7226,9 +7186,9 @@ http://220.164.192.48:50085/tsfile/live/1004_1.m3u8
 #EXTINF:-1 tvg-name="厦门卫视",厦门卫视
 https://live1b.kxm.xmtv.cn/xmtvbf/tvzb/live.m3u8
 #EXTINF:-1 tvg-name="厦门卫视",厦门卫视
-http://123.10.79.62:808/hls/69/index.m3u8
+http://123.132.233.194:352/tsfile/live/0119_1.m3u8
 #EXTINF:-1 tvg-name="厦门卫视",厦门卫视
-http://1b6467f415.iok.la:9931/tsfile/live/1093_1.m3u8
+http://3501776.xyz:35455/itv/1000000005000266006.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="厦门卫视",厦门卫视
 https://live1b.kxm.xmtv.cn/xmtvbf/playlist.m3u8
 #EXTINF:-1 tvg-name="厦门移动电视",厦门移动电视
@@ -7634,11 +7594,11 @@ http://dsj.motem.top:8880/bptv/10000100000000050000000004972569.m3u8
 #EXTINF:-1 tvg-name="吉林卫视",吉林卫视
 http://120.76.248.139/live/bfgd/4200000097.m3u8
 #EXTINF:-1 tvg-name="吉林卫视",吉林卫视
-http://42.48.17.230:808/hls/33/index.m3u8
+http://58.221.214.82:9901/tsfile/live/0116_1.m3u8
 #EXTINF:-1 tvg-name="吉林卫视",吉林卫视
-http://182.37.169.94:352/tsfile/live/0116_1.m3u8
+http://121.33.239.242:9901/tsfile/live/0017_1.m3u8
 #EXTINF:-1 tvg-name="吉林卫视",吉林卫视
-http://1b6467f415.iok.la:9931/tsfile/live/1076_1.m3u8
+http://58.57.40.22:9901/tsfile/live/1050_1.m3u8
 #EXTINF:-1 tvg-name="吉林卫视高清",吉林卫视高清
 http://a21709.tv.netsite.cc/proxy/1218816360/1218816360.m3u8
 #EXTINF:-1 tvg-name="吉林四平战役纪念馆",吉林四平战役纪念馆
@@ -7701,8 +7661,6 @@ https://rmplive.hljtv.com/live/tongjiang.m3u8
 https://v.cdnlz12.com/20240816/16450_7a6d1e31/index.m3u8
 #EXTINF:-1 tvg-name="名侦探柯南",名侦探柯南
 http://live.nctv.top/DYjsklis/huya.php?id=30080236
-#EXTINF:-1 tvg-name="名侦探柯南",名侦探柯南
-http://www.douzhicloud.site:35455/huya/30080236
 #EXTINF:-1 tvg-name="名媛望族-精彩港剧",名媛望族-精彩港剧
 http://6666666.mghost.site/1/yy2.php?id=1354932431
 #EXTINF:-1 tvg-name="名山综合",名山综合
@@ -7711,8 +7669,6 @@ https://m3u8channel-ms.yunxya.com:443/nmip-media/audiolive/audio100580/playlist.
 https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
 #EXTINF:-1 tvg-name="名模夜惊魂2024(美国恐怖片)",名模夜惊魂2024(美国恐怖片)
 https://v.cdnlz12.com/20240824/16586_541592ad/index.m3u8
-#EXTINF:-1 tvg-name="后天",后天
-https://m3u8.hmrvideo.com/play/0c8022a5af3d452698ff2f32d2a4a3de.m3u8
 #EXTINF:-1 tvg-name="后天国语(美国科幻片)",后天国语(美国科幻片)
 https://vip.lzcdn2.com/20221130/22819_07819c8a/index.m3u8
 #EXTINF:-1 tvg-name="后天英语(美国科幻片)",后天英语(美国科幻片)
@@ -8049,16 +8005,12 @@ https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zh
 https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/223/351/5105223351/media/5105223351_5206941130_56.mp4
 #EXTINF:-1 tvg-name="哇哦(美国恐怖片)",哇哦(美国恐怖片)
 https://vip1.lz-cdn1.com/20220819/14827_1a84eee4/index.m3u8
-#EXTINF:-1 tvg-name="哈利波特凤凰会的密令",哈利波特凤凰会的密令
-https://v1.fentvoss.com/sdv1/202308/19/kL6HzXQ7Xi2/video/index.m3u8
 #EXTINF:-1 tvg-name="哈利波特死神的圣物",哈利波特死神的圣物
 https://ikcdn01.ikzybf.com/20221105/DABRajDL/index.m3u8
 #EXTINF:-1 tvg-name="哈利波特消失的密室",哈利波特消失的密室
 https://v1.fentvoss.com/sdv1/202308/19/7pizD2d5YN2/video/index.m3u8
 #EXTINF:-1 tvg-name="哈利波特混血王子的背叛",哈利波特混血王子的背叛
 https://v1.fentvoss.com/sdv1/202308/19/jZ4qXuUYMH2/video/index.m3u8
-#EXTINF:-1 tvg-name="哈利波特火杯的考验",哈利波特火杯的考验
-https://ikcdn01.ikzybf.com/20221210/qYaADoTA/index.m3u8
 #EXTINF:-1 tvg-name="哈努曼和七个奥特曼(日本科幻片)",哈努曼和七个奥特曼(日本科幻片)
 https://v.cdnlz19.com/20240715/39550_99ecbe31/index.m3u8
 #EXTINF:-1 tvg-name="哈哈炫动",哈哈炫动
@@ -8104,8 +8056,6 @@ http://39.134.65.106/PLTV/88888888/224/3221226104/1.m3u8?$HLJYDIP 2.5M SD
 #EXTINF:-1 tvg-name="哈尔滨影视",哈尔滨影视
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?$HLJYD 1.5M SD
 #EXTINF:-1 tvg-name="哈尔滨影视",哈尔滨影视
-http://111.43.126.240:9003/hls/5/index.m3u8
-#EXTINF:-1 tvg-name="哈尔滨影视",哈尔滨影视
 http://stream.hrbtv.net/yspd/sd/live.m3u8
 #EXTINF:-1 tvg-name="哈尔滨影视",哈尔滨影视
 https://stream.hrbtv.net/yspd/playlist.m3u8
@@ -8138,13 +8088,13 @@ http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226526/inde
 #EXTINF:-1 tvg-name="哈尔滨生活",哈尔滨生活
 https://stream.hrbtv.net/shpd/playlist.m3u8
 #EXTINF:-1 tvg-name="哈尔滨生活",哈尔滨生活
-http://111.43.126.240:9003/hls/3/index.m3u8
-#EXTINF:-1 tvg-name="哈尔滨生活",哈尔滨生活
 http://stream.hrbtv.net/shpd/sd/live.m3u8
 #EXTINF:-1 tvg-name="哈尔滨生活",哈尔滨生活
 https://stream.hrbtv.net/shpd/sd/live.m3u8
 #EXTINF:-1 tvg-name="哈尔滨生活",哈尔滨生活
 http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
+#EXTINF:-1 tvg-name="哈尔滨生活",哈尔滨生活
+http://39.134.65.106/PLTV/88888888/224/3221226095/1.m3u8?
 #EXTINF:-1 tvg-name="哈尔滨资讯",哈尔滨资讯
 http://stream.hrbtv.net/zxpd/sd/live.m3u8
 #EXTINF:-1 tvg-name="哈尔滨都市咨询",哈尔滨都市咨询
@@ -8281,6 +8231,8 @@ https://vip.lz-cdn17.com/20230331/6341_cee60ebd/index.m3u8
 https://vip1.lz-cdn7.com/20230228/14625_6ad818e2/index.m3u8
 #EXTINF:-1 tvg-name="喜剧明星",喜剧明星
 https://vip.ffzy-play7.com/20230409/21692_463322cf/index.m3u8
+#EXTINF:-1 tvg-name="喜羊羊与灰太狼",喜羊羊与灰太狼
+http://www.douzhicloud.site:35455/huya/23865080
 #EXTINF:-1 tvg-name="喝的是酒想的是你",喝的是酒想的是你
 https://txmov2.a.kwimgs.com/upic/2022/05/30/05/BMjAyMjA1MzAwNTE2NDlfOTU2MzA3MDg4Xzc1NTc5MzcwMDk0XzJfMw==_b_B68b336177ca5844d50a0c9e475874f67.mp4?clientCacheKey=3xn9unx6ghsgx6k_b.mp4&tt=b&di=24710b76&bp=10000
 #EXTINF:-1 tvg-name="喧嚣(法国恐怖片)",喧嚣(法国恐怖片)
@@ -8330,15 +8282,15 @@ http://113.65.7.94:8888/udp/239.77.0.13:5146
 #EXTINF:-1 tvg-name="嘉佳卡通",嘉佳卡通
 http://113.65.7.94:8888/udp/239.77.1.15:5146
 #EXTINF:-1 tvg-name="嘉佳卡通",嘉佳卡通
-http://dsj.motem.top:8880/bptv/10000100000000050000000003887459.m3u8
-#EXTINF:-1 tvg-name="嘉佳卡通",嘉佳卡通
 http://61.138.128.226:19901/tsfile/live/1019_1.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通",嘉佳卡通
 http://183.11.239.36:808/hls/8/index.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通",嘉佳卡通
 http://113.64.146.6:2024/hls/50/index.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通",嘉佳卡通
-http://218.89.240.144:59901/tsfile/live/1003_1.m3u8
+http://113.64.146.94:2024/hls/50/index.m3u8
+#EXTINF:-1 tvg-name="嘉佳卡通",嘉佳卡通
+http://dsj.motem.top:8880/bptv/10000100000000050000000003887459.m3u8
 #EXTINF:-1 tvg-name="嘉兴公共",嘉兴公共
 http://play-sh13.quklive.com/live/1675149601192103.m3u8?auth_key=2028730429-9ab7f7f0267946e880ec46ce3d57ec9e-0-eb04d7f7e549054293604b04150cefa1
 #EXTINF:-1 tvg-name="嘉兴文化影视",嘉兴文化影视
@@ -8346,9 +8298,9 @@ http://play-sh13.quklive.com/live/1675149625220101.m3u8?auth_key=2028730374-3a60
 #EXTINF:-1 tvg-name="嘉兴新闻综合",嘉兴新闻综合
 http://tvfile.jyrmt.cn:80/nmip-media/channellive/channel104452/playlist.m3u8
 #EXTINF:-1 tvg-name="嘉兴新闻综合",嘉兴新闻综合
-http://play-sh13.quklive.com/live/1675942165226154.m3u8?auth_key=2028730261-e7db80d294b04dc9ab5c8136b4c88b74-0-f0795306faa59c7edb35860a8ae63528
-#EXTINF:-1 tvg-name="嘉兴新闻综合",嘉兴新闻综合
 https://tvfile.scjgtv.cn:443/nmip-media/channellive/channel104126/playlist.m3u8"
+#EXTINF:-1 tvg-name="嘉兴新闻综合",嘉兴新闻综合
+http://play-sh13.quklive.com/live/1675942165226154.m3u8?auth_key=2028730261-e7db80d294b04dc9ab5c8136b4c88b74-0-f0795306faa59c7edb35860a8ae63528
 #EXTINF:-1 tvg-name="嘉定",嘉定
 http://222.64.68.61:12028/udp/239.45.3.185:5140
 #EXTINF:-1 tvg-name="嘉定",嘉定
@@ -8458,13 +8410,13 @@ http://a21709.tv.netsite.cc/proxy/59757691/59757691.m3u8
 #EXTINF:-1 tvg-name="四川卫视",四川卫视
 http://dsj.motem.top:8880/bptv/10000100000000050000000003887274.m3u8
 #EXTINF:-1 tvg-name="四川卫视",四川卫视
-http://120.76.248.139/live/bfgd/4200000103.m3u8
+http://118.212.71.109:11111/bptv/10000100000000050000000003887274.m3u8
 #EXTINF:-1 tvg-name="四川卫视",四川卫视
 http://124.116.183.146:9901/tsfile/live/0123_1.m3u8
 #EXTINF:-1 tvg-name="四川卫视",四川卫视
-http://113.64.146.94:2024/hls/79/index.m3u8
+http://121.19.134.222:808/tsfile/live/1021_1.m3u8
 #EXTINF:-1 tvg-name="四川卫视",四川卫视
-http://58.220.219.14:9901/tsfile/live/0123_1.m3u8
+http://36.32.174.67:60080/newlive/live/hls/29/live.m3u8
 #EXTINF:-1 tvg-name="四川卫视2024花开天下国韵新年演唱会",四川卫视2024花开天下国韵新年演唱会
 https://cdn1.vip-vip-yzzy.com/20240101/10953_3f15684a/index.m3u8
 #EXTINF:-1 tvg-name="四川四姑娘山幺妹峰",四川四姑娘山幺妹峰
@@ -9549,6 +9501,8 @@ http://6666666.mghost.site/1/yy2.php?id=1354930979
 http://live.nctv.top/DYjsklis/huya.php?id=23728674
 #EXTINF:-1 tvg-name="大唐双龙传",大唐双龙传
 http://www.xzbn.site:35455/huya/23728674
+#EXTINF:-1 tvg-name="大唐双龙传",大唐双龙传
+http://www.douzhicloud.site:35455/huya/29465850
 #EXTINF:-1 tvg-name="大唐玄奘",大唐玄奘
 https://vip.ffzy-play7.com/20230306/17314_0230edb6/index.m3u8
 #EXTINF:-1 tvg-name="大地儿女【国语】(香港战争片)",大地儿女【国语】(香港战争片)
@@ -9599,8 +9553,6 @@ http://6666666.mghost.site/1/yy2.php?id=1354930891#http://www.xzbn.site:35455/yy
 http://live.nctv.top/DYjsklis/huya.php?id=23865161
 #EXTINF:-1 tvg-name="大时代",大时代
 http://www.xzbn.site:35455/huya/23865161
-#EXTINF:-1 tvg-name="大时代",大时代
-http://www.douzhicloud.site:35455/huya/23865161
 #EXTINF:-1 tvg-name="大明王朝",大明王朝
 http://6666666.mghost.site/1/yy2.php?id=1382736879
 #EXTINF:-1 tvg-name="大明锦衣之暗夜风云2019(大陆动作片)",大明锦衣之暗夜风云2019(大陆动作片)
@@ -9635,8 +9587,6 @@ http://113.65.7.94:8888/udp/239.77.0.215:5146
 http://113.65.7.94:8888/udp/239.77.0.9:5146
 #EXTINF:-1 tvg-name="大湾区卫视",大湾区卫视
 http://113.65.7.94:8888/udp/239.77.1.12:5146
-#EXTINF:-1 tvg-name="大湾区卫视",大湾区卫视
-http://183.11.239.36:808/hls/132/index.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视",大湾区卫视
 http://gmxw.7766.org:808/hls/132/index.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视",大湾区卫视
@@ -9822,25 +9772,19 @@ http://a21709.tv.netsite.cc/proxy/240376980/240376980.m3u8
 #EXTINF:-1 tvg-name="天津卫视",天津卫视
 http://dsj.motem.top:8880/bptv/10000100000000050000000003873466.m3u8
 #EXTINF:-1 tvg-name="天津卫视",天津卫视
-http://220.164.192.48:50085/tsfile/live/0130_1.m3u8
-#EXTINF:-1 tvg-name="天津卫视",天津卫视
-http://58.57.40.22:9901/tsfile/live/1034_1.m3u8
-#EXTINF:-1 tvg-name="天津卫视",天津卫视
-http://222.169.85.8:9901/tsfile/live/0135_1.m3u8
-#EXTINF:-1 tvg-name="天津卫视",天津卫视
 http://113.64.146.94:2024/hls/71/index.m3u8
 #EXTINF:-1 tvg-name="天津卫视",天津卫视
+http://58.210.168.86:10800/newlive/live/hls/33/live.m3u8
+#EXTINF:-1 tvg-name="天津卫视",天津卫视
+http://58.220.219.14:9901/tsfile/live/0135_1.m3u8
+#EXTINF:-1 tvg-name="天津卫视",天津卫视
+http://61.136.172.236:9901/tsfile/live/0135_1.m3u8
+#EXTINF:-1 tvg-name="天津卫视",天津卫视
 http://[2409:8087:1a01:df::4030]:80/TVOD/88888888/224/3221225972/main.m3u8
-#EXTINF:-1 tvg-name="天津文艺",天津文艺
-http://nas.hssvm.com:8888/udp/225.1.1.131:5002
-#EXTINF:-1 tvg-name="天津新闻",天津新闻
-http://nas.hssvm.com:8888/udp/225.1.1.130:5002
 #EXTINF:-1 tvg-name="天津滨海新城",天津滨海新城
 https://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8
 #EXTINF:-1 tvg-name="天津解放桥",天津解放桥
 https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
-#EXTINF:-1 tvg-name="天津都市",天津都市
-http://nas.hssvm.com:8888/udp/225.1.1.128:5002
 #EXTINF:-1 tvg-name="天涯石",天涯石
 https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 #EXTINF:-1 tvg-name="天涯鸟瞰",天涯鸟瞰
@@ -10289,6 +10233,8 @@ https://vip1.lz-cdn1.com/20230809/21707_00e7eca3/index.m3u8
 https://vdse.bdstatic.com//0c87c8977d0a33498fe7362d3c60c22c.mp4
 #EXTINF:-1 tvg-name="好消息2",好消息2
 https://py.doube.eu.org/xinghuo?url=/Good-TV-2/1083
+#EXTINF:-1 tvg-name="好莱坞电影",好莱坞电影
+http://108.181.20.197/livehttpplay?channel_id=20062
 #EXTINF:-1 tvg-name="好莱坞电影高",好莱坞电影高
 http://live4play.uk/livehttpplay?channel_id=20062
 #EXTINF:-1 tvg-name="好莱电影",好莱电影
@@ -10335,8 +10281,6 @@ http://6666666.mghost.site/1/yy2.php?id=1382745173
 http://live.nctv.top/DYjsklis/huya.php?id=23829543
 #EXTINF:-1 tvg-name="妙手仁心",妙手仁心
 http://www.xzbn.site:35455/huya/23829543
-#EXTINF:-1 tvg-name="妙手仁心",妙手仁心
-http://www.douzhicloud.site:35455/huya/29465853
 #EXTINF:-1 tvg-name="姐妹联谊会惊魂1983(美国恐怖片)",姐妹联谊会惊魂1983(美国恐怖片)
 https://vip1.lz-cdn7.com/20230318/14999_e4067f7a/index.m3u8
 #EXTINF:-1 tvg-name="姐妹联谊会惊魂2009(美国恐怖片)",姐妹联谊会惊魂2009(美国恐怖片)
@@ -10499,8 +10443,6 @@ https://vip.lzcdn2.com/20220423/4168_8e734a8a/index.m3u8
 https://vip.lzcdn2.com/20220326/749_280ea4ca/index.m3u8
 #EXTINF:-1 tvg-name="孽迷宫(美国恐怖片)",孽迷宫(美国恐怖片)
 https://vip.lzcdn2.com/20220503/5385_6a6347f1/index.m3u8
-#EXTINF:-1 tvg-name="宁化电视一套",宁化电视一套
-http://fjnhdb.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8?fujian
 #EXTINF:-1 tvg-name="宁可+孙维良-康定情歌(演唱会)",宁可+孙维良-康定情歌(演唱会)
 http://em.21dtv.com/songs/60083216.mkv
 #EXTINF:-1 tvg-name="宁夏卫视",宁夏卫视
@@ -10528,15 +10470,15 @@ http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/inde
 #EXTINF:-1 tvg-name="宁夏卫视",宁夏卫视
 http://a21709.tv.netsite.cc/proxy/842139022/842139022.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视",宁夏卫视
-http://dsj.motem.top:8880/bptv/10000100000000050000000003887433.m3u8
-#EXTINF:-1 tvg-name="宁夏卫视",宁夏卫视
 http://58.57.40.22:9901/tsfile/live/1054_1.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视",宁夏卫视
-http://222.169.85.8:9901/tsfile/live/0112_1.m3u8
+http://dsj.motem.top:8880/bptv/10000100000000050000000003887433.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视",宁夏卫视
 http://113.64.146.94:2024/hls/87/index.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视",宁夏卫视
 http://39.165.196.149:9003//hls/49/index.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视",宁夏卫视
+http://183.66.15.146:60901/tsfile/live/0112_1.m3u8
 #EXTINF:-1 tvg-name="宁夏将台堡",宁夏将台堡
 https://gctxyc.liveplay.myqcloud.com/gc/hlxsd_1/index.m3u8
 #EXTINF:-1 tvg-name="宁夏将台堡",宁夏将台堡
@@ -10587,6 +10529,8 @@ https://v.cdnlz19.com/20240930/48263_95c59b3a/index.m3u8
 https://vip1.lz-cdn7.com/20230216/14301_b66c097b/index.m3u8
 #EXTINF:-1 tvg-name="宇宙潮汐(科幻片)",宇宙潮汐(科幻片)
 https://vip.lz-cdn3.com/20230612/19512_fa8d14aa/index.m3u8
+#EXTINF:-1 tvg-name="宇宙科幻合集",宇宙科幻合集
+http://www.douzhicloud.site:35455/huya/11342428
 #EXTINF:-1 tvg-name="宇宙英雄之超银河传说(日本科幻片)",宇宙英雄之超银河传说(日本科幻片)
 https://vip.lz-cdn16.com/20230412/16450_1c61012a/index.m3u8
 #EXTINF:-1 tvg-name="宇宙追缉令【国语】(美国科幻片)",宇宙追缉令【国语】(美国科幻片)
@@ -10700,15 +10644,13 @@ http://39.164.160.249:9901/tsfile/live/0130_1.m3u8
 #EXTINF:-1 tvg-name="安徽卫视",安徽卫视
 http://124.116.183.146:9901/tsfile/live/0130_1.m3u8
 #EXTINF:-1 tvg-name="安徽卫视",安徽卫视
-http://61.136.172.236:9901/tsfile/live/0130_1.m3u8
+http://121.33.239.242:9901/tsfile/live/0130_1.m3u8
 #EXTINF:-1 tvg-name="安徽卫视",安徽卫视
-http://58.221.214.82:9901/tsfile/live/0130_1.m3u8
+http://58.19.43.46:9901/tsfile/live/1040_1.m3u8
 #EXTINF:-1 tvg-name="安徽合肥公共",安徽合肥公共
 http://api2.52tb.xyz/info?id=588&token=20230405tndmhg
 #EXTINF:-1 tvg-name="安徽合肥新闻",安徽合肥新闻
 http://api2.52tb.xyz/info?id=587&token=20230405tndmhg
-#EXTINF:-1 tvg-name="安徽固镇新闻",安徽固镇新闻
-http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd
 #EXTINF:-1 tvg-name="安徽国际",安徽国际
 http://203.205.191.53/live.ahsx.ahtv.cn/live/gjtv.m3u8
 #EXTINF:-1 tvg-name="安徽国际",安徽国际
@@ -10734,13 +10676,13 @@ http://203.205.191.53/live.ahsx.ahtv.cn/live/jjshtv.m3u8
 #EXTINF:-1 tvg-name="安徽经济生活",安徽经济生活
 http://112.122.32.110:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="安徽经济生活",安徽经济生活
-http://112.122.32.118:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="安徽经济生活",安徽经济生活
 http://112.122.32.119:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="安徽经济生活",安徽经济生活
 http://112.122.32.140:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="安徽经济生活",安徽经济生活
-http://112.122.32.141:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+http://112.122.32.151:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="安徽经济生活",安徽经济生活
+http://112.122.32.160:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="安徽综艺体育",安徽综艺体育
 http://203.205.191.53/live.ahsx.ahtv.cn/live/zytytv.m3u8
 #EXTINF:-1 tvg-name="安徽金寨县红军广场",安徽金寨县红军广场
@@ -10875,8 +10817,6 @@ https://v.cdnlz11.com/20231014/17751_d24f56d5/index.m3u8
 https://v.cdnlz11.com/20231015/17772_83a57fd8/index.m3u8
 #EXTINF:-1 tvg-name="审判恶魔(英国恐怖片)",审判恶魔(英国恐怖片)
 https://v.cdnlz3.com/20240107/22658_064aef20/index.m3u8
-#EXTINF:-1 tvg-name="审死官",审死官
-https://ukzy.ukubf4.com/20220407/OxgWrcNR/index.m3u8
 #EXTINF:-1 tvg-name="宣城综合",宣城综合
 http://203.205.191.53/live.ahsx.ahtv.cn/live/xctv.m3u8
 #EXTINF:-1 tvg-name="宣汉新闻综合",宣汉新闻综合
@@ -10927,8 +10867,6 @@ http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 #EXTINF:-1 tvg-name="家庭剧场",家庭剧场
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 tvg-name="家庭影院",家庭影院
-http://123.10.79.62:808/hls/99/index.m3u8
 #EXTINF:-1 tvg-name="家庭影院",家庭影院
 http://60.172.130.146:352/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="家庭教育(意大利/英国恐怖片)",家庭教育(意大利/英国恐怖片)
@@ -11107,6 +11045,8 @@ https://vip.lz-cdn3.com/20230718/20333_df5d1d0d/index.m3u8
 https://cdn1.yzzy-tv-cdn.com/20220326/ga3SHNAV/index.m3u8
 #EXTINF:-1 tvg-name="封神榜",封神榜
 http://6666666.mghost.site/1/yy2.php?id=1356043643#http://www.xzbn.site:35455/yy/1356043643
+#EXTINF:-1 tvg-name="封神榜",封神榜
+http://www.douzhicloud.site:35455/huya/29465849
 #EXTINF:-1 tvg-name="封神演义之斩仙飞刀(大陆动作片)",封神演义之斩仙飞刀(大陆动作片)
 https://v.cdnlz3.com/20231001/22100_0588712b/index.m3u8
 #EXTINF:-1 tvg-name="封神第一部：朝歌风云(大陆动作片)",封神第一部：朝歌风云(大陆动作片)
@@ -11117,8 +11057,6 @@ https://v1.cdnlz1.com/20231017/22896_930061ef/index.m3u8
 http://6666666.mghost.site/1/yy2.php?id=1354210357
 #EXTINF:-1 tvg-name="射雕英雄传",射雕英雄传
 http://cfss.cc/api/yy/1354210357.m3u8
-#EXTINF:-1 tvg-name="射雕英雄传",射雕英雄传
-http://www.douzhicloud.site:35455/huya/23824164
 #EXTINF:-1 tvg-name="射雕英雄传83版",射雕英雄传83版
 http://6666666.mghost.site/1/yy2.php?id=1354210357#https://lunbo.freetv.top/yy/1354210357
 #EXTINF:-1 tvg-name="射雕英雄传续集【国语】(香港动作片)",射雕英雄传续集【国语】(香港动作片)
@@ -11404,9 +11342,9 @@ http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 #EXTINF:-1 tvg-name="山东体育",山东体育
 http://58.58.111.222:808/hls/62/index.m3u8
 #EXTINF:-1 tvg-name="山东体育",山东体育
-http://124.128.73.58:9901/tsfile/live/1001_1.m3u8
-#EXTINF:-1 tvg-name="山东体育",山东体育
 http://61.156.228.12:8154/tsfile/live/1006_1.m3u8
+#EXTINF:-1 tvg-name="山东体育",山东体育
+http://222.173.108.238:352/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-name="山东农科",山东农科
 http://58.57.40.22:9901/tsfile/live/1022_1.m3u8
 #EXTINF:-1 tvg-name="山东卫视",山东卫视
@@ -11454,17 +11392,13 @@ http://a21709.tv.netsite.cc/proxy/95712545/95712545.m3u8
 #EXTINF:-1 tvg-name="山东卫视",山东卫视
 http://dsj.motem.top:8880/bptv/10000100000000050000000003873467.m3u8
 #EXTINF:-1 tvg-name="山东卫视",山东卫视
-http://39.164.160.249:9901/tsfile/live/0131_1.m3u8
+http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 #EXTINF:-1 tvg-name="山东卫视",山东卫视
-http://iptv.huuc.edu.cn/hls/sdhd.m3u8
+http://61.138.128.226:19901/tsfile/live/0131_1.m3u8
 #EXTINF:-1 tvg-name="山东卫视",山东卫视
-http://223.241.247.214:9901/tsfile/live/0131_1.m3u8
+http://113.64.146.6:2024/hls/72/index.m3u8
 #EXTINF:-1 tvg-name="山东卫视",山东卫视
-http://182.37.169.94:352/tsfile/live/0131_1.m3u8
-#EXTINF:-1 tvg-name="山东卫视",山东卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225484/2/index.m3u8
-#EXTINF:-1 tvg-name="山东卫视",山东卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225738/2/index.m3u8
+http://113.64.146.94:2024/hls/72/index.m3u8
 #EXTINF:-1 tvg-name="山东威海成山头",山东威海成山头
 https://gctxyc.liveplay.myqcloud.com/gc/drs01_1/index.m3u8
 #EXTINF:-1 tvg-name="山东少儿",山东少儿
@@ -11502,13 +11436,9 @@ http://58.57.40.22:9901/tsfile/live/1026_1.m3u8
 #EXTINF:-1 tvg-name="山东教育卫视",山东教育卫视
 http://120.76.248.139/live/bfgd/4200000112.m3u8
 #EXTINF:-1 tvg-name="山东教育卫视",山东教育卫视
-http://123.132.233.194:352/tsfile/live/1003_1.m3u8
-#EXTINF:-1 tvg-name="山东教育卫视",山东教育卫视
 http://wouu.net:9977/udp/239.93.1.196:5140
 #EXTINF:-1 tvg-name="山东文旅",山东文旅
 http://58.57.40.22:9901/tsfile/live/1023_1.m3u8
-#EXTINF:-1 tvg-name="山东文旅",山东文旅
-http://60.209.125.254:352/tsfile/live/1004_1.m3u8?ace
 #EXTINF:-1 tvg-name="山东文旅",山东文旅
 http://221.2.148.205:8154/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="山东新闻",山东新闻
@@ -11550,13 +11480,13 @@ http://api3.52tb.xyz/info?id=527&token=20221127jxwhhemby
 #EXTINF:-1 tvg-name="山东综艺",山东综艺
 http://58.57.40.22:9901/tsfile/live/1021_1.m3u8
 #EXTINF:-1 tvg-name="山东综艺",山东综艺
-http://124.128.73.58:9901/tsfile/live/1002_1.m3u8
-#EXTINF:-1 tvg-name="山东综艺",山东综艺
 http://123.132.233.194:352/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-name="山东综艺",山东综艺
 http://123.129.70.178:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1 tvg-name="山东综艺",山东综艺
 http://222.173.108.238:352/tsfile/live/1003_1.m3u8
+#EXTINF:-1 tvg-name="山东综艺",山东综艺
+http://221.2.148.205:8154/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="山东聊城凤庄村平菇种植基地",山东聊城凤庄村平菇种植基地
 https://gcalic.v.myalicdn.com/gc/cntv455-zbzg_1/index.m3u8
 #EXTINF:-1 tvg-name="山东青岛艾山天文台",山东青岛艾山天文台
@@ -11565,8 +11495,6 @@ https://gcalic.v.myalicdn.com/gc/jhs01_1/index.m3u8
 http://123.132.233.194:352/tsfile/live/1019_1.m3u8
 #EXTINF:-1 tvg-name="山东齐鲁",山东齐鲁
 http://61.156.228.12:8154/tsfile/live/1001_1.m3u8
-#EXTINF:-1 tvg-name="山东齐鲁",山东齐鲁
-http://124.128.73.58:9901/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-name="山东齐鲁",山东齐鲁
 http://221.2.148.205:8154/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="山东齐鲁",山东齐鲁
@@ -11614,13 +11542,11 @@ http://dsj.motem.top:8880/bptv/10000100000000050000000003887413.m3u8
 #EXTINF:-1 tvg-name="山西卫视",山西卫视
 http://42.48.17.230:808/hls/56/index.m3u8
 #EXTINF:-1 tvg-name="山西卫视",山西卫视
-http://123.10.79.62:808/hls/56/index.m3u8
-#EXTINF:-1 tvg-name="山西卫视",山西卫视
-http://222.169.85.8:9901/tsfile/live/0118_1.m3u8
-#EXTINF:-1 tvg-name="山西卫视",山西卫视
 http://113.64.146.94:2024/hls/63/index.m3u8
 #EXTINF:-1 tvg-name="山西卫视",山西卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225730/2/index.m3u8
+http://36.32.174.67:60080/newlive/live/hls/43/live.m3u8
+#EXTINF:-1 tvg-name="山西卫视",山西卫视
+http://58.19.43.46:9901/tsfile/live/1009_1.m3u8
 #EXTINF:-1 tvg-name="山西太原汾河畔",山西太原汾河畔
 https://gcalic.v.myalicdn.com/gc/pygc01_1/index.m3u8
 #EXTINF:-1 tvg-name="山西影视",山西影视
@@ -11739,8 +11665,6 @@ https://vip1.lz-cdn1.com/20220510/5124_017d9075/index.m3u8
 https://vip.lz-cdn3.com/20230825/21318_ed12a4ac/index.m3u8
 #EXTINF:-1 tvg-name="巩义新闻综合",巩义新闻综合
 http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8?zhend
-#EXTINF:-1 tvg-name="巩义新闻综合",巩义新闻综合
-http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8?zhend?
 #EXTINF:-1 tvg-name="巩义综合",巩义综合
 http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8
 #EXTINF:-1 tvg-name="巫溪综合",巫溪综合
@@ -11923,8 +11847,6 @@ http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
 http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
 #EXTINF:-1 tvg-name="平行森林(大陆科幻片)",平行森林(大陆科幻片)
 https://v.cdnlz12.com/20230910/10161_eb98c044/index.m3u8
-#EXTINF:-1 tvg-name="平遥新闻综合",平遥新闻综合
-https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd
 #EXTINF:-1 tvg-name="平阴综合",平阴综合
 http://live.nctv.top/DYjsklis/qilu.php?id=jnpyzh
 #EXTINF:-1 tvg-name="平顶山新闻综合",平顶山新闻综合
@@ -12086,11 +12008,11 @@ http://a21709.tv.netsite.cc/proxy/573869971/573869971.m3u8
 #EXTINF:-1 tvg-name="广东卫视",广东卫视
 http://dsj.motem.top:8880/bptv/10000100000000050000000003873459.m3u8
 #EXTINF:-1 tvg-name="广东卫视",广东卫视
-http://118.212.71.109:11111/bptv/10000100000000050000000003873459.m3u8
+http://120.76.248.139/live/bfgd/4200000092.m3u8
 #EXTINF:-1 tvg-name="广东卫视",广东卫视
-http://220.164.192.48:50085/tsfile/live/0139_1.m3u8
+http://113.57.111.4:1111/tsfile/live/1022_1.m3u8
 #EXTINF:-1 tvg-name="广东卫视",广东卫视
-http://39.164.160.249:9901/tsfile/live/0125_1.m3u8
+http://120.238.94.10:9901/tsfile/live/1008_1.m3u8
 #EXTINF:-1 tvg-name="广东卫视",广东卫视
 http://58.57.40.22:9901/tsfile/live/1039_1.m3u8
 #EXTINF:-1 tvg-name="广东小老虎(香港动作片)",广东小老虎(香港动作片)
@@ -12128,11 +12050,11 @@ http://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
 #EXTINF:-1 tvg-name="广东新闻",广东新闻
 http://113.64.146.6:2024/hls/37/index.m3u8
 #EXTINF:-1 tvg-name="广东新闻",广东新闻
-http://1b6467f415.iok.la:9931/tsfile/live/1012_1.m3u8
-#EXTINF:-1 tvg-name="广东新闻",广东新闻
 http://113.101.119.50:808/hls/106/index.m3u8
 #EXTINF:-1 tvg-name="广东新闻",广东新闻
-http://120.238.94.10:9901/tsfile/live/1010_1.m3u8
+https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
+#EXTINF:-1 tvg-name="广东新闻",广东新闻
+http://183.237.246.14:9931/tsfile/live/1012_1.m3u8
 #EXTINF:-1 tvg-name="广东民生",广东民生
 http://113.117.107.10:8800/udp/239.77.0.225:5146
 #EXTINF:-1 tvg-name="广东民生",广东民生
@@ -12144,13 +12066,13 @@ http://113.65.7.94:8888/udp/239.77.0.5:5146
 #EXTINF:-1 tvg-name="广东民生",广东民生
 http://183.11.239.36:808/hls/18/index.m3u8
 #EXTINF:-1 tvg-name="广东民生",广东民生
-http://qjrhc.jydjd.top:2911/udp/224.1.100.152:11111
+http://125.89.163.44:8888/udp/239.77.0.225:5146
 #EXTINF:-1 tvg-name="广东民生",广东民生
 http://113.109.250.108:9999/udp/239.77.0.225:5146
 #EXTINF:-1 tvg-name="广东民生",广东民生
 http://qjrhc.jydjd.top:2911/udp/224.1.100.4:11111
 #EXTINF:-1 tvg-name="广东民生",广东民生
-http://120.238.94.82:9901/tsfile/live/1011_1.m3u8?key=txiptv
+http://119.32.12.17:2901/udp/224.1.100.4:11111
 #EXTINF:-1 tvg-name="广东汕头市小公园",广东汕头市小公园
 https://gcalic.v.myalicdn.com/gc/bsszjs_1/index.m3u8
 #EXTINF:-1 tvg-name="广东深圳福田中央商务区",广东深圳福田中央商务区
@@ -12258,11 +12180,11 @@ http://113.65.7.94:8888/udp/239.253.43.73:5146
 #EXTINF:-1 tvg-name="广州影视",广州影视
 http://113.65.7.94:8888/udp/239.253.43.68:5146
 #EXTINF:-1 tvg-name="广州影视",广州影视
-http://125.89.163.44:8888/udp/239.253.43.73:5146
+http://113.109.250.108:9999/udp/239.253.43.73:5146
 #EXTINF:-1 tvg-name="广州影视",广州影视
 http://qjrhc.jydjd.top:2911/udp/224.1.100.88:11111
 #EXTINF:-1 tvg-name="广州影视",广州影视
-http://113.109.250.108:9999/udp/239.253.43.73:5146
+http://qjrhc.jydjd.top:2911/udp/224.1.100.87:11111
 #EXTINF:-1 tvg-name="广州影视",广州影视
 http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4
 #EXTINF:-1 tvg-name="广州影视",广州影视
@@ -12282,11 +12204,11 @@ http://qjrhc.jydjd.top:2911/udp/224.1.100.38:11111
 #EXTINF:-1 tvg-name="广州新闻",广州新闻
 http://113.109.250.108:9999/udp/239.253.43.72:5146
 #EXTINF:-1 tvg-name="广州新闻",广州新闻
-http://qjrhc.jydjd.top:2911/udp/224.1.100.37:11111
-#EXTINF:-1 tvg-name="广州新闻",广州新闻
 http://119.32.12.17:2901/udp/224.1.100.38:11111
 #EXTINF:-1 tvg-name="广州新闻",广州新闻
 http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
+#EXTINF:-1 tvg-name="广州新闻",广州新闻
+http://qjrhc.jydjd.top:2911/udp/224.1.100.37:11111
 #EXTINF:-1 tvg-name="广州法治",广州法治
 http://tencentplaygzrb01.gztv.com/live/fazhi.m3u8
 #EXTINF:-1 tvg-name="广州法治",广州法治
@@ -12298,15 +12220,15 @@ http://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=3e84cd8eba844b5dc2150612295
 #EXTINF:-1 tvg-name="广州竞赛",广州竞赛
 http://tencentplaygzrb01.gztv.com/live/jingsai.m3u8
 #EXTINF:-1 tvg-name="广州竞赛",广州竞赛
-https://tencentplaygzrb01.gztv.com/live/jingsai.m3u8
-#EXTINF:-1 tvg-name="广州竞赛",广州竞赛
 http://113.109.250.108:9999/udp/239.253.43.75:5146
 #EXTINF:-1 tvg-name="广州竞赛",广州竞赛
-http://119.32.12.17:2901/udp/224.1.100.105:11111
+http://qjrhc.jydjd.top:2911/udp/224.1.100.105:11111
 #EXTINF:-1 tvg-name="广州竞赛",广州竞赛
 http://qjrhc.jydjd.top:2911/udp/224.1.100.106:11111
 #EXTINF:-1 tvg-name="广州竞赛",广州竞赛
-http://qjrhc.jydjd.top:2911/udp/224.1.100.105:11111
+http://119.32.12.17:2901/udp/224.1.100.105:11111
+#EXTINF:-1 tvg-name="广州竞赛",广州竞赛
+https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca
 #EXTINF:-1 tvg-name="广州综合",广州综合
 http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 #EXTINF:-1 tvg-name="广州综合",广州综合
@@ -12318,9 +12240,9 @@ http://113.65.7.94:8888/udp/239.253.43.71:5146
 #EXTINF:-1 tvg-name="广州综合",广州综合
 http://113.65.7.94:8888/udp/239.253.43.66:5146
 #EXTINF:-1 tvg-name="广州综合",广州综合
-https://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
-#EXTINF:-1 tvg-name="广州综合",广州综合
 http://119.32.12.17:2901/udp/224.1.100.36:11111
+#EXTINF:-1 tvg-name="广州综合",广州综合
+http://113.109.250.108:9999/udp/239.253.43.71:5146
 #EXTINF:-1 tvg-name="广州综合",广州综合
 http://qjrhc.jydjd.top:2911/udp/224.1.100.35:11111
 #EXTINF:-1 tvg-name="广州综合",广州综合
@@ -12373,8 +12295,6 @@ http://58.57.40.22:9901/tsfile/live/1049_1.m3u8
 http://113.64.146.94:2024/hls/85/index.m3u8
 #EXTINF:-1 tvg-name="广西卫视",广西卫视
 http://58.210.168.86:10800/newlive/live/hls/27/live.m3u8
-#EXTINF:-1 tvg-name="广西卫视",广西卫视
-http://[2409:8087:1a01:df::4047]:80/TVOD/88888888/224/3221226091/main.m3u8
 #EXTINF:-1 tvg-name="广西新闻",广西新闻
 http://116.9.204.242:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1 tvg-name="广西桂林新闻",广西桂林新闻
@@ -12450,8 +12370,6 @@ http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/inde
 #EXTINF:-1 tvg-name="康巴卫视",康巴卫视
 http://live.nctv.top/DYjsklis/sctv.php?id=kbws
 #EXTINF:-1 tvg-name="康巴卫视",康巴卫视
-http://218.89.240.144:59901/tsfile/live/1010_1.m3u8
-#EXTINF:-1 tvg-name="康巴卫视",康巴卫视
 http://111.202.12.159:8080/kYGHWzA/1000/live.m3u8
 #EXTINF:-1 tvg-name="康巴卫视",康巴卫视
 http://111.202.12.159:8080/3zvkK28/1000/live.m3u8
@@ -12459,6 +12377,8 @@ http://111.202.12.159:8080/3zvkK28/1000/live.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225527/1.m3u8
 #EXTINF:-1 tvg-name="康巴卫视",康巴卫视
 http://39.134.65.166/PLTV/88888888/224/3221225527/1.m3u8
+#EXTINF:-1 tvg-name="康巴卫视",康巴卫视
+http://www.xzbn.site:35455/itv/1000000005000266002.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="康巴卫视",康巴卫视
 http://wouu.net:9977/udp/239.93.0.41:5140
 #EXTINF:-1 tvg-name="康巴卫视",康巴卫视
@@ -12516,15 +12436,15 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 #EXTINF:-1 tvg-name="延边卫视",延边卫视
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8?$HLJYD 1.5M SD
 #EXTINF:-1 tvg-name="延边卫视",延边卫视
-http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8
-#EXTINF:-1 tvg-name="延边卫视",延边卫视
-http://111.43.126.240:9003/hls/65/index.m3u8
+http://gmxw.7766.org:808/hls/15/index.m3u8
 #EXTINF:-1 tvg-name="延边卫视",延边卫视
 http://222.169.41.80:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1 tvg-name="延边卫视",延边卫视
 http://120.76.248.139/live/bfgd/4200000117.m3u8
 #EXTINF:-1 tvg-name="延边卫视",延边卫视
 http://satellitepull.cnr.cn/live/wxybws/playlist.m3u8
+#EXTINF:-1 tvg-name="延边卫视",延边卫视
+http://www.xzbn.site:35455/itv/1000000005000266008.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="延边频道",延边频道
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1 tvg-name="延迟2024(美国动作片)",延迟2024(美国动作片)
@@ -13136,13 +13056,11 @@ http://www.xzbn.site:35455/itv/5000000011000031206.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="快乐垂钓",快乐垂钓
 http://115.150.63.77:9902/tsfile/live/0001_42.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓",快乐垂钓
-http://222.173.108.238:352/tsfile/live/0118_1.m3u8
-#EXTINF:-1 tvg-name="快乐垂钓",快乐垂钓
 http://36.105.100.208:35455/itv/5000000011000031206.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="快乐垂钓",快乐垂钓
-http://wouu.net:9977/udp/239.93.1.151:5140
-#EXTINF:-1 tvg-name="快乐垂钓",快乐垂钓
 http://nas.hssvm.com:8888/udp/225.1.2.18:5002
+#EXTINF:-1 tvg-name="快乐垂钓",快乐垂钓
+http://wouu.net:9977/udp/239.93.1.151:5140
 #EXTINF:-1 tvg-name="快乐时光2019(以色列/美国/意大利恐怖片)",快乐时光2019(以色列/美国/意大利恐怖片)
 https://vip1.lz-cdn1.com/20230517/21010_5233bbbf/index.m3u8
 #EXTINF:-1 tvg-name="快乐购",快乐购
@@ -14207,8 +14125,6 @@ https://vip1.lz-cdn1.com/20230809/21719_05deeb46/index.m3u8
 http://live.nctv.top/DYjsklis/huya.php?id=23903196
 #EXTINF:-1 tvg-name="扫黄先锋",扫黄先锋
 http://www.xzbn.site:35455/huya/23903196
-#EXTINF:-1 tvg-name="扫黄先锋",扫黄先锋
-http://www.douzhicloud.site:35455/huya/29465855
 #EXTINF:-1 tvg-name="扫黑·决不放弃2024(大陆动作片)",扫黑·决不放弃2024(大陆动作片)
 https://v.cdnlz21.com/20240630/778_d97184f1/index.m3u8
 #EXTINF:-1 tvg-name="扫黑行动之黄金(大陆动作片)",扫黑行动之黄金(大陆动作片)
@@ -14677,6 +14593,8 @@ http://www.douzhicloud.site:35455/douyu/323876
 http://www.douzhicloud.site:35455/douyu/122402
 #EXTINF:-1 tvg-name="斗鱼港剧",斗鱼港剧
 http://www.douzhicloud.site:35455/douyu/5061550
+#EXTINF:-1 tvg-name="斗鱼漫威电影",斗鱼漫威电影
+http://www.douzhicloud.site:35455/douyu/6140589
 #EXTINF:-1 tvg-name="斗鱼电影",斗鱼电影
 http://www.douzhicloud.site:35455/douyu/6079455
 #EXTINF:-1 tvg-name="斗鱼电影1",斗鱼电影1
@@ -14925,8 +14843,6 @@ http://live.nctv.top/DYjsklis/douyu.php?id=9285904
 http://live.nctv.top/DYjsklis/dy.php?id=9285904
 #EXTINF:-1 tvg-name="斗鱼电视剧9",斗鱼电视剧9
 http://www.xzbn.site:35455/douyu/9285904
-#EXTINF:-1 tvg-name="斗鱼科幻电影",斗鱼科幻电影
-http://www.douzhicloud.site:35455/douyu/9651304
 #EXTINF:-1 tvg-name="斗鱼经典电影",斗鱼经典电影
 http://www.douzhicloud.site:35455/douyu/96577
 #EXTINF:-1 tvg-name="斗鱼音乐MV",斗鱼音乐MV
@@ -15037,8 +14953,6 @@ http://live4play.uk/livehttpplay?channel_id=10132
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-name="新加坡司令(美国恐怖片)",新加坡司令(美国恐怖片)
 https://vip.lz-cdn17.com/20230708/22715_be9178c4/index.m3u8
-#EXTINF:-1 tvg-name="新动漫",新动漫
-http://nas.hssvm.com:8888/udp/225.1.1.216:5002
 #EXTINF:-1 tvg-name="新县综合",新县综合
 http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8
 #EXTINF:-1 tvg-name="新县综合",新县综合
@@ -15158,13 +15072,13 @@ http://a21709.tv.netsite.cc/proxy/86832656/86832656.m3u8
 #EXTINF:-1 tvg-name="新疆卫视",新疆卫视
 http://dsj.motem.top:8880/bptv/10000100000000050000000003887448.m3u8
 #EXTINF:-1 tvg-name="新疆卫视",新疆卫视
-http://39.164.160.249:9901/tsfile/live/0110_1.m3u8
+http://58.57.40.22:9901/tsfile/live/1055_1.m3u8
 #EXTINF:-1 tvg-name="新疆卫视",新疆卫视
 http://222.169.85.8:9901/tsfile/live/0110_1.m3u8
 #EXTINF:-1 tvg-name="新疆卫视",新疆卫视
-http://123.10.79.62:808/hls/63/index.m3u8
+http://42.48.17.230:808/hls/104/index.m3u8
 #EXTINF:-1 tvg-name="新疆卫视",新疆卫视
-http://58.220.219.14:9901/tsfile/live/0120_6.m3u8
+http://113.64.146.94:2024/hls/89/index.m3u8
 #EXTINF:-1 tvg-name="新疆喀什达瓦昆景区",新疆喀什达瓦昆景区
 https://gctxyc.liveplay.myqcloud.com/gc/cntv524-zbzg_1/index.m3u8
 #EXTINF:-1 tvg-name="新疆喀什达瓦昆景区",新疆喀什达瓦昆景区
@@ -15398,6 +15312,8 @@ http://stream.thmz.com/wxtv2/sd/live.m3u8
 #EXTINF:-1 tvg-name="无锡娱乐",无锡娱乐
 https://stream.thmz.com/wxtv2/playlist.m3u8
 #EXTINF:-1 tvg-name="无锡娱乐",无锡娱乐
+http://stream.thmz.com/wxtv2/playlist.m3u8?_upt=5ff4061f1706166872
+#EXTINF:-1 tvg-name="无锡娱乐",无锡娱乐
 http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=acffe97a1704940314
 #EXTINF:-1 tvg-name="无锡娱乐频道",无锡娱乐频道
 http://a21709.tv.netsite.cc/proxy/461270403/461270403.m3u8
@@ -15425,8 +15341,6 @@ http://stream.thmz.com/wxtv4/playlist.m3u8
 http://stream.thmz.com/wxtv4/sd/live.m3u8?zjiangsd
 #EXTINF:-1 tvg-name="无锡生活",无锡生活
 https://stream.thmz.com/wxtv4/playlist.m3u8
-#EXTINF:-1 tvg-name="无锡生活",无锡生活
-http://stream.thmz.com/wxtv4/playlist.m3u8?_upt=8c51357c1707362770
 #EXTINF:-1 tvg-name="无锡生活频道",无锡生活频道
 http://a21709.tv.netsite.cc/proxy/995802232/995802232.m3u8
 #EXTINF:-1 tvg-name="无锡经济",无锡经济
@@ -15443,6 +15357,8 @@ http://stream.thmz.com/wxtv3/sd/live.m3u8
 http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd
 #EXTINF:-1 tvg-name="无锡都市资讯",无锡都市资讯
 http://stream.thmz.com/wxtv3/playlist.m3u8
+#EXTINF:-1 tvg-name="无锡都市资讯",无锡都市资讯
+http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=1758133b1706166861
 #EXTINF:-1 tvg-name="无锡都市资讯",无锡都市资讯
 http://stream.thmz.com/wxtv3/sd/live.m3u8?_upt=978cd8731706199708
 #EXTINF:-1 tvg-name="无锡都市资讯频道",无锡都市资讯频道
@@ -15541,8 +15457,6 @@ https://vip1.lz-cdn7.com/20230128/13848_eb8f3dad/index.m3u8
 https://vip.lz-cdn3.com/20220828/12148_58c25e0a/index.m3u8
 #EXTINF:-1 tvg-name="旺苍新闻综合",旺苍新闻综合
 http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8
-#EXTINF:-1 tvg-name="旺苍新闻综合",旺苍新闻综合
-http://live.spccmc.com:90/live/spxwzh.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 #EXTINF:-1 tvg-name="旺角卡门",旺角卡门
 https://vip.ffzy-play1.com/20221018/469_ab458c38/index.m3u8
 #EXTINF:-1 tvg-name="旺角风云(香港动作片)",旺角风云(香港动作片)
@@ -15611,6 +15525,8 @@ https://py.doube.eu.org/xinghuo?url=/TVB-Pearl/989
 http://6666666.mghost.site/1/yy2.php?id=1354931498
 #EXTINF:-1 tvg-name="易门综合",易门综合
 https://zb-live.ynurl.com/yimen/3b75a2f9-7941-46b7-992d-a9796fbca5fe.m3u8
+#EXTINF:-1 tvg-name="星光影视",星光影视
+http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 #EXTINF:-1 tvg-name="星光影院",星光影院
 http://live.nctv.top/DYjsklis/bestv.php?id=xgyy
 #EXTINF:-1 tvg-name="星光继承者：公主反叛联盟2024(美国动作片)",星光继承者：公主反叛联盟2024(美国动作片)
@@ -16369,6 +16285,8 @@ http://live.nctv.top/DYjsklis/huya.php?id=11342390
 http://www.52sw.top:678/play/huya.php?id=11342390
 #EXTINF:-1 tvg-name="李连杰",李连杰
 http://www.xzbn.site:35455/huya/11342390
+#EXTINF:-1 tvg-name="李连杰电影",李连杰电影
+http://www.douzhicloud.site:35455/huya/11342390
 #EXTINF:-1 tvg-name="杏林医院(台湾恐怖片)",杏林医院(台湾恐怖片)
 https://vip.lz-cdn3.com/20220704/8748_46a8e5bc/index.m3u8
 #EXTINF:-1 tvg-name="杜尔伯特综合",杜尔伯特综合
@@ -16826,8 +16744,6 @@ http://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8
 #EXTINF:-1 tvg-name="梨园",梨园
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225581/2/index.m3u8
 #EXTINF:-1 tvg-name="梨园频道",梨园频道
-http://101.23.150.109:9901/tsfile/live/1014_1.m3u8
-#EXTINF:-1 tvg-name="梨园频道",梨园频道
 http://61.163.181.78:9901/tsfile/live/1006_1.m3u8
 #EXTINF:-1 tvg-name="梨园频道",梨园频道
 http://live.dxhmt.cn:9081/tv/11122-1.m3u8
@@ -16835,6 +16751,8 @@ http://live.dxhmt.cn:9081/tv/11122-1.m3u8
 http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
 #EXTINF:-1 tvg-name="梨园频道",梨园频道
 https://vdse.bdstatic.com//5787b4fd8574dafb0362d30820022447.mp4?
+#EXTINF:-1 tvg-name="梨园频道",梨园频道
+http://112.122.33.124:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="梵蒂冈录像带(美国恐怖片)",梵蒂冈录像带(美国恐怖片)
 https://v.cdnlz3.com/20240103/22597_c293e01f/index.m3u8
 #EXTINF:-1 tvg-name="棋盘斩2024(日本动作片)",棋盘斩2024(日本动作片)
@@ -16863,6 +16781,8 @@ https://satellitepull.cnr.cn/live/wx32hubctyygb/playlist.m3u8
 http://live.nctv.top/DYjsklis/huya.php?id=23740156
 #EXTINF:-1 tvg-name="楚汉骄雄",楚汉骄雄
 http://www.xzbn.site:35455/huya/23740156
+#EXTINF:-1 tvg-name="楚汉骄雄",楚汉骄雄
+http://www.douzhicloud.site:35455/huya/29465854
 #EXTINF:-1 tvg-name="楚留香1977【国语】(香港动作片)",楚留香1977【国语】(香港动作片)
 https://vip1.lz-cdn7.com/20230209/14060_6278787e/index.m3u8
 #EXTINF:-1 tvg-name="楚留香1977【粤语】(香港动作片)",楚留香1977【粤语】(香港动作片)
@@ -16991,6 +16911,8 @@ https://vip1.lz-cdn1.com/20220418/2370_7ac30919/index.m3u8
 http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="武义新闻综合",武义新闻综合
 http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
+#EXTINF:-1 tvg-name="武义新闻综合",武义新闻综合
+http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed\r\n
 #EXTINF:-1 tvg-name="武乡新闻综合",武乡新闻综合
 http://60.220.198.84:81/0.m3u8
 #EXTINF:-1 tvg-name="武乡新闻综合",武乡新闻综合
@@ -17085,8 +17007,6 @@ http://stream.appwuhan.com/4tzb/sd/live.m3u8
 http://stream.appwuhan.com/sepdzb/sd/live.m3u8
 #EXTINF:-1 tvg-name="武汉音乐广播",武汉音乐广播
 http://stream.appwuhan.com/yypdzb/sd/live.m3u8
-#EXTINF:-1 tvg-name="武清综合",武清综合
-https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 #EXTINF:-1 tvg-name="武状元铁桥三(香港动作片)",武状元铁桥三(香港动作片)
 https://vip.lz-cdn3.com/share/cef86bd9ff0b73e7f5fc08c34b643a8b
 #EXTINF:-1 tvg-name="武神赵子龙2023(大陆动作片)",武神赵子龙2023(大陆动作片)
@@ -17493,8 +17413,6 @@ http://yc.myds.me:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
 http://39.134.65.106/PLTV/88888888/224/3221225713/1.m3u8?$HLJYDIP 8M FHD
 #EXTINF:-1 tvg-name="求索纪录",求索纪录
 http://www.xzbn.site:35455/itv/2000000004000000010.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-name="求索纪录",求索纪录
-http://60.2.190.206:4000/udp/239.253.93.236:6414
 #EXTINF:-1 tvg-name="汉中新闻综合",汉中新闻综合
 http://live.nctv.top/DYjsklis/qly.php?id=6065
 #EXTINF:-1 tvg-name="汉城大劫案(韩国动作片)",汉城大劫案(韩国动作片)
@@ -17531,8 +17449,6 @@ http://113.65.7.94:8888/udp/239.253.43.47:5146
 http://113.65.7.94:8888/udp/239.253.43.44:5146
 #EXTINF:-1 tvg-name="汕头经济",汕头经济
 http://113.109.250.108:9999/udp/239.77.1.131:5146
-#EXTINF:-1 tvg-name="汕头经济",汕头经济
-http://125.89.163.44:8888/udp/239.77.1.131:5146
 #EXTINF:-1 tvg-name="汕头经济生活",汕头经济生活
 http://113.117.107.10:8800/udp/239.77.1.131:5146
 #EXTINF:-1 tvg-name="汕头经济生活",汕头经济生活
@@ -17563,8 +17479,6 @@ http://113.64.146.94:2024/hls/4/index.m3u8
 http://113.64.146.6:2024/hls/4/index.m3u8
 #EXTINF:-1 tvg-name="汕头综合",汕头综合
 http://113.109.250.108:9999/udp/239.77.1.130:5146
-#EXTINF:-1 tvg-name="汕头综合",汕头综合
-http://125.89.163.44:8888/udp/239.77.1.130:5146
 #EXTINF:-1 tvg-name="汕尾文化生活",汕尾文化生活
 http://113.117.107.10:8800/udp/239.77.0.187:5146
 #EXTINF:-1 tvg-name="汕尾文化生活",汕尾文化生活
@@ -17704,11 +17618,11 @@ http://dsj.motem.top:8880/bptv/10000100000000050000000003873461.m3u8
 #EXTINF:-1 tvg-name="江苏卫视",江苏卫视
 http://39.164.160.249:9901/tsfile/live/0127_1.m3u8
 #EXTINF:-1 tvg-name="江苏卫视",江苏卫视
-http://223.105.252.8/PLTV/4/224/3221228099/index.m3u8
-#EXTINF:-1 tvg-name="江苏卫视",江苏卫视
 http://58.57.40.22:9901/tsfile/live/1031_1.m3u8
 #EXTINF:-1 tvg-name="江苏卫视",江苏卫视
 http://120.76.248.139/live/bfgd/4200000085.m3u8
+#EXTINF:-1 tvg-name="江苏卫视",江苏卫视
+https://svipsvip.ffzyread1.com/20250101/34720_0d5e4b60/index.m3u8
 #EXTINF:-1 tvg-name="江苏启东圆陀角",江苏启东圆陀角
 https://gcalic.v.myalicdn.com/gc/taishan07_1/index.m3u8
 #EXTINF:-1 tvg-name="江苏国际",江苏国际
@@ -17846,11 +17760,13 @@ http://dsj.motem.top:8880/bptv/10000100000000050000000004796511.m3u8
 #EXTINF:-1 tvg-name="江西卫视",江西卫视
 http://39.164.160.249:9901/tsfile/live/0138_1.m3u8
 #EXTINF:-1 tvg-name="江西卫视",江西卫视
+http://58.57.40.22:9901/tsfile/live/1043_1.m3u8
+#EXTINF:-1 tvg-name="江西卫视",江西卫视
+http://120.76.248.139/live/bfgd/4200000098.m3u8
+#EXTINF:-1 tvg-name="江西卫视",江西卫视
 http://58.210.168.86:10800/newlive/live/hls/34/live.m3u8
 #EXTINF:-1 tvg-name="江西卫视",江西卫视
-http://58.221.214.82:9901/tsfile/live/0138_1.m3u8
-#EXTINF:-1 tvg-name="江西卫视",江西卫视
-http://113.57.111.4:1111/tsfile/live/1028_1.m3u8
+http://[2409:8087:1a01:df::4027]:80/TVOD/88888888/224/3221225935/main.m3u8
 #EXTINF:-1 tvg-name="江西卫视",江西卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225492/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="江西少儿",江西少儿
@@ -18000,8 +17916,6 @@ http://113.65.7.94:8888/udp/239.77.0.202:5146
 #EXTINF:-1 tvg-name="江门侨乡生活",江门侨乡生活
 http://113.65.7.94:8888/udp/239.77.0.196:5146
 #EXTINF:-1 tvg-name="江门侨乡生活",江门侨乡生活
-http://125.89.163.44:8888/udp/239.77.0.202:5146
-#EXTINF:-1 tvg-name="江门侨乡生活",江门侨乡生活
 http://113.109.250.108:9999/udp/239.77.0.202:5146
 #EXTINF:-1 tvg-name="江门教育",江门教育
 http://113.117.107.10:8800/udp/239.77.0.203:5146
@@ -18021,8 +17935,6 @@ http://113.65.7.94:8888/udp/239.77.0.201:5146
 http://113.65.7.94:8888/udp/239.77.0.195:5146
 #EXTINF:-1 tvg-name="江门综合",江门综合
 http://113.109.250.108:9999/udp/239.77.0.201:5146
-#EXTINF:-1 tvg-name="江门综合",江门综合
-http://125.89.163.44:8888/udp/239.77.0.201:5146
 #EXTINF:-1 tvg-name="江阴新闻综合",江阴新闻综合
 http://live.nctv.top/DYjsklis/jstv5.php?id=wxjy
 #EXTINF:-1 tvg-name="江阴新闻综合",江阴新闻综合
@@ -18166,11 +18078,11 @@ http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel13004/
 #EXTINF:-1 tvg-name="河北农民",河北农民
 https://radio.pull.hebtv.com/live/hebnczx.m3u8
 #EXTINF:-1 tvg-name="河北农民",河北农民
-http://ls.qingting.fm/live/1650.m3u8
-#EXTINF:-1 tvg-name="河北农民",河北农民
 http://101.23.150.109:9901/tsfile/live/1005_1.m3u8
 #EXTINF:-1 tvg-name="河北农民",河北农民
 http://121.19.134.222:808/tsfile/live/1005_1.m3u8
+#EXTINF:-1 tvg-name="河北农民",河北农民
+http://ls.qingting.fm/live/1650.m3u8
 #EXTINF:-1 tvg-name="河北农民",河北农民
 https://ls.qingting.fm/live/1650/64k.m3u8
 #EXTINF:-1 tvg-name="河北农民频道",河北农民频道
@@ -18214,9 +18126,9 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-name="河北卫视",河北卫视
 http://a21709.tv.netsite.cc/proxy/1385861493/1385861493.m3u8
 #EXTINF:-1 tvg-name="河北卫视",河北卫视
-http://dsj.motem.top:8880/bptv/10000100000000050000000003873460.m3u8
-#EXTINF:-1 tvg-name="河北卫视",河北卫视
 http://118.212.71.109:11111/bptv/10000100000000050000000003873460.m3u8
+#EXTINF:-1 tvg-name="河北卫视",河北卫视
+http://dsj.motem.top:8880/bptv/10000100000000050000000003873460.m3u8
 #EXTINF:-1 tvg-name="河北卫视",河北卫视
 http://39.164.160.249:9901/tsfile/live/0117_1.m3u8
 #EXTINF:-1 tvg-name="河北卫视",河北卫视
@@ -18225,12 +18137,6 @@ http://58.57.40.22:9901/tsfile/live/1044_1.m3u8
 http://120.76.248.139/live/bfgd/4200000108.m3u8
 #EXTINF:-1 tvg-name="河北卫视",河北卫视
 http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3d44740039027301acf8341d7361ab59
-#EXTINF:-1 tvg-name="河北卫视",河北卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225610/2/index.m3u8
-#EXTINF:-1 tvg-name="河北卫视",河北卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225732/2/index.m3u8
-#EXTINF:-1 tvg-name="河北卫视",河北卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225610/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="河北少儿",河北少儿
 http://live.nctv.top/DYjsklis/hbtv.php?id=sekj
 #EXTINF:-1 tvg-name="河北少儿",河北少儿
@@ -18366,13 +18272,13 @@ http://a21709.tv.netsite.cc/proxy/251465659/251465659.m3u8
 #EXTINF:-1 tvg-name="河南卫视",河南卫视
 http://dsj.motem.top:8880/bptv/10000100000000050000000003887270.m3u8
 #EXTINF:-1 tvg-name="河南卫视",河南卫视
-http://118.212.71.109:11111/bptv/10000100000000050000000003887270.m3u8
-#EXTINF:-1 tvg-name="河南卫视",河南卫视
 http://39.164.160.249:9901/tsfile/live/0139_1.m3u8
 #EXTINF:-1 tvg-name="河南卫视",河南卫视
-http://220.164.192.48:50085/tsfile/live/0116_1.m3u8
-#EXTINF:-1 tvg-name="河南卫视",河南卫视
 http://58.57.40.22:9901/tsfile/live/1048_1.m3u8
+#EXTINF:-1 tvg-name="河南卫视",河南卫视
+http://120.76.248.139/live/bfgd/4200000339.m3u8
+#EXTINF:-1 tvg-name="河南卫视",河南卫视
+http://39.165.196.149:9003//hls/18/index.m3u8
 #EXTINF:-1 tvg-name="河南卫视",河南卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225611/2/index.m3u8
 #EXTINF:-1 tvg-name="河南卫视",河南卫视
@@ -18430,11 +18336,7 @@ http://live.nctv.top/DYjsklis/hntv.php?id=hnms
 #EXTINF:-1 tvg-name="河南民生",河南民生
 http://116.162.6.191/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41102/index.m3u8
 #EXTINF:-1 tvg-name="河南民生",河南民生
-http://123.10.79.62:808/hls/19/index.m3u8
-#EXTINF:-1 tvg-name="河南民生",河南民生
 http://v4d.xiepeiru.top:1123/iptv/hm/HeNanMinSheng
-#EXTINF:-1 tvg-name="河南民生",河南民生
-http://221.13.235.5:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="河南民生",河南民生
 http://61.163.181.78:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="河南民生频道",河南民生频道
@@ -18480,15 +18382,13 @@ http://live.nctv.top/DYjsklis/hntv.php?id=hnds
 #EXTINF:-1 tvg-name="河南都市",河南都市
 http://116.162.6.191/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41101/index.m3u8
 #EXTINF:-1 tvg-name="河南都市",河南都市
-http://123.10.79.62:808/hls/18/index.m3u8
-#EXTINF:-1 tvg-name="河南都市",河南都市
 http://61.163.181.78:9901/tsfile/live/1004_1.m3u8
 #EXTINF:-1 tvg-name="河南都市",河南都市
 http://zzssw01.55555.io:9901/tsfile/live/1002_1.m3u8
 #EXTINF:-1 tvg-name="河南都市",河南都市
-http://v4d.xiepeiru.top:1123/iptv/hm/HeNanDuShi
+http://www.huakangyaoye.cn:8800/udp/225.1.2.56:10330
 #EXTINF:-1 tvg-name="河南都市",河南都市
-http://221.13.235.5:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+http://v4d.xiepeiru.top:1123/iptv/hm/HeNanDuShi
 #EXTINF:-1 tvg-name="河南都市频道",河南都市频道
 http://a21709.tv.netsite.cc/proxy/1492902938/1492902938.m3u8
 #EXTINF:-1 tvg-name="河南鄢陵综合",河南鄢陵综合
@@ -18508,6 +18408,8 @@ https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 #EXTINF:-1 tvg-name="河源公共",河源公共
 http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 #EXTINF:-1 tvg-name="河源公共",河源公共
+http://1b6467f415.iok.la:9931/tsfile/live/1079_1.m3u8
+#EXTINF:-1 tvg-name="河源公共",河源公共
 http://113.109.250.108:9999/udp/239.253.43.214:5146
 #EXTINF:-1 tvg-name="河源公共",河源公共
 http://125.89.163.44:8888/udp/239.253.43.214:5146
@@ -18524,9 +18426,9 @@ https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 tvg-name="河源综合",河源综合
 http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 tvg-name="河源综合",河源综合
-http://113.109.250.108:9999/udp/239.253.43.213:5146
-#EXTINF:-1 tvg-name="河源综合",河源综合
 https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?_upt=f767206b1671099007
+#EXTINF:-1 tvg-name="河源综合",河源综合
+http://113.109.250.108:9999/udp/239.253.43.213:5146
 #EXTINF:-1 tvg-name="河神·诡水怪谈(大陆动作片)",河神·诡水怪谈(大陆动作片)
 https://vip.lz-cdn12.com/20230621/8302_f58ccbc8/index.m3u8
 #EXTINF:-1 tvg-name="河童之子2025(美国恐怖片)",河童之子2025(美国恐怖片)
@@ -18737,6 +18639,8 @@ https://v1.cdnlz1.com/20231009/22556_01b62f35/index.m3u8
 http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8?zzhed?
 #EXTINF:-1 tvg-name="洞头综合",洞头综合
 http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
+#EXTINF:-1 tvg-name="洞头综合",洞头综合
+http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="津南一套",津南一套
 http://61.147.106.103/play.jinnantv.top/live/JNTV1.m3u8?ztianjd&wsSession=4e59297ef5846f4a7cf02eb3-172672213891355&wsIPSercert=6d426cba8b106cdec9147b1e2a9ace7c&wsiphost=local&wsBindIP=1
 #EXTINF:-1 tvg-name="津南一套",津南一套
@@ -18821,20 +18725,12 @@ https://hd.lz-cdn18.com/20230414/1866_7d8603d9/index.m3u8
 https://vip1.lz-cdn7.com/20230411/15309_e7ad0990/index.m3u8
 #EXTINF:-1 tvg-name="济公游记",济公游记
 http://6666666.mghost.site/1/yy2.php?id=1355265814#http://43.138.170.29:35455/yy/1355265814
-#EXTINF:-1 tvg-name="济南影视",济南影视
-http://124.128.73.58:9901/tsfile/live/1005_1.m3u8
-#EXTINF:-1 tvg-name="济南影视",济南影视
-http://124.128.73.58:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="济南战役1979(大陆战争片)",济南战役1979(大陆战争片)
 https://vip.lzcdn2.com/20220423/4196_340cd943/index.m3u8
 #EXTINF:-1 tvg-name="济南新闻综合",济南新闻综合
 http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8?shandd
 #EXTINF:-1 tvg-name="济南综合",济南综合
 https://quehuamtyoutlive.ijntv.cn/qsrog5/0szz7q.m3u8
-#EXTINF:-1 tvg-name="济南综合",济南综合
-http://124.128.73.58:9901/tsfile/live/1003_1.m3u8
-#EXTINF:-1 tvg-name="济南综合",济南综合
-http://124.128.73.58:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="济南都市",济南都市
 http://124.128.73.58:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="济源一套",济源一套
@@ -18940,13 +18836,15 @@ http://a21709.tv.netsite.cc/proxy/2059640241/2059640241.m3u8
 #EXTINF:-1 tvg-name="浙江卫视",浙江卫视
 http://dsj.motem.top:8880/bptv/10000100000000050000000003873464.m3u8
 #EXTINF:-1 tvg-name="浙江卫视",浙江卫视
-http://iptv.huuc.edu.cn/hls/zjhd.m3u8
-#EXTINF:-1 tvg-name="浙江卫视",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江卫视",浙江卫视
 http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 #EXTINF:-1 tvg-name="浙江卫视",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江卫视",浙江卫视
+http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江卫视",浙江卫视
+http://[2409:8087:1a01:df::4043]:80/TVOD/88888888/224/3221225959/main.m3u8
 #EXTINF:-1 tvg-name="浙江台州三门核电站",浙江台州三门核电站
 https://gctxyc.liveplay.myqcloud.com/gc/hsptgz_1/index.m3u8
 #EXTINF:-1 tvg-name="浙江国际",浙江国际
@@ -19204,15 +19102,15 @@ http://a21709.tv.netsite.cc/proxy/200969914/200969914.m3u8
 #EXTINF:-1 tvg-name="海南卫视",海南卫视
 http://a21709.tv.netsite.cc/proxy/2019508840/2019508840.m3u8
 #EXTINF:-1 tvg-name="海南卫视",海南卫视
-http://118.212.71.109:11111/bptv/10000100000000050000000004796877.m3u8
-#EXTINF:-1 tvg-name="海南卫视",海南卫视
 http://dsj.motem.top:8880/bptv/10000100000000050000000004796877.m3u8
 #EXTINF:-1 tvg-name="海南卫视",海南卫视
-http://220.164.192.48:50085/tsfile/live/1003_1.m3u8
-#EXTINF:-1 tvg-name="海南卫视",海南卫视
-http://58.57.40.22:9901/tsfile/live/1000_1.m3u8
-#EXTINF:-1 tvg-name="海南卫视",海南卫视
 http://120.76.248.139/live/bfgd/4200000473.m3u8
+#EXTINF:-1 tvg-name="海南卫视",海南卫视
+https://livelyws.chinamcache.com/lyws/zb03.m3u8
+#EXTINF:-1 tvg-name="海南卫视",海南卫视
+http://112.132.10.54:9901/tsfile/live/1023_1.m3u8
+#EXTINF:-1 tvg-name="海南卫视",海南卫视
+http://113.57.111.4:1111/tsfile/live/1031_1.m3u8
 #EXTINF:-1 tvg-name="海南少儿",海南少儿
 http://vapi.91kds.cc/live1/hitv.m3u8?id=hiqs&apiKey=2079b631b519ec17da0bc09844eb8419
 #EXTINF:-1 tvg-name="海南文旅",海南文旅
@@ -19394,9 +19292,9 @@ http://thhomes.cn:4000/udp/239.3.1.250:8001
 #EXTINF:-1 tvg-name="淘电影",淘电影
 http://dsj.motem.top:8880/bptv/10000100000000050000000003887498.m3u8
 #EXTINF:-1 tvg-name="淘电影",淘电影
-http://118.212.71.109:11111/bptv/10000100000000050000000003887498.m3u8
-#EXTINF:-1 tvg-name="淘电影",淘电影
 http://yc.myds.me:35455/bptv/10000100000000050000000003887498.m3u8
+#EXTINF:-1 tvg-name="淘电影",淘电影
+http://118.212.71.109:11111/bptv/10000100000000050000000003887498.m3u8
 #EXTINF:-1 tvg-name="淘精彩",淘精彩
 http://thhomes.cn:4000/udp/239.3.1.178:8001
 #EXTINF:-1 tvg-name="淡季2021(美国恐怖片)",淡季2021(美国恐怖片)
@@ -19516,15 +19414,15 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-name="深圳卫视",深圳卫视
 http://a21709.tv.netsite.cc/proxy/457534194/457534194.m3u8
 #EXTINF:-1 tvg-name="深圳卫视",深圳卫视
+http://dsj.motem.top:8880/bptv/10000100000000050000000003873474.m3u8
+#EXTINF:-1 tvg-name="深圳卫视",深圳卫视
 http://118.212.71.109:11111/bptv/10000100000000050000000003873474.m3u8
 #EXTINF:-1 tvg-name="深圳卫视",深圳卫视
-http://iptv.huuc.edu.cn/hls/szhd.m3u8
+http://58.57.40.22:9901/tsfile/live/1036_1.m3u8
 #EXTINF:-1 tvg-name="深圳卫视",深圳卫视
 http://113.64.146.94:2024/hls/74/index.m3u8
 #EXTINF:-1 tvg-name="深圳卫视",深圳卫视
-http://222.169.85.8:9901/tsfile/live/0126_1.m3u8
-#EXTINF:-1 tvg-name="深圳卫视",深圳卫视
-http://223.241.247.214:9901/tsfile/live/1012_1.m3u8
+http://113.57.111.4:1111/tsfile/live/1023_1.m3u8
 #EXTINF:-1 tvg-name="深圳娱乐频道",深圳娱乐频道
 http://113.117.107.10:8800/udp/239.77.1.243:5146
 #EXTINF:-1 tvg-name="深圳娱乐频道",深圳娱乐频道
@@ -19739,8 +19637,6 @@ https://vip.lz-cdn3.com/20230221/17823_16eda6fb/index.m3u8
 https://vip1.lz-cdn1.com/20220422/3003_6069e62f/index.m3u8
 #EXTINF:-1 tvg-name="温县综合",温县综合
 http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8?zhend
-#EXTINF:-1 tvg-name="温县综合",温县综合
-http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8?zhend?
 #EXTINF:-1 tvg-name="温彻斯特(美国恐怖片)",温彻斯特(美国恐怖片)
 https://vip.lz-cdn3.com/20220725/10025_a16f833e/index.m3u8
 #EXTINF:-1 tvg-name="温德米尔儿童(英国战争片)",温德米尔儿童(英国战争片)
@@ -19840,19 +19736,17 @@ http://www.erbao1981.top:8188/udp/239.76.253.132:9000
 #EXTINF:-1 tvg-name="游戏风云",游戏风云
 http://www.xzbn.site:35455/itv/5000000011000031114.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="游戏风云",游戏风云
-http://wouu.net:9977/udp/239.93.0.136:5140
-#EXTINF:-1 tvg-name="游戏风云",游戏风云
 http://3501776.xyz:35455/itv/5000000011000031114.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="游戏风云",游戏风云
 http://36.105.100.208:35455/itv/5000000011000031114.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="游戏风云",游戏风云
 http://vapi.91kds.cc/live1/jdtv2.m3u8?id=yxfyhd&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 #EXTINF:-1 tvg-name="游戏风云",游戏风云
+http://wouu.net:9977/udp/239.93.0.136:5140
+#EXTINF:-1 tvg-name="游戏风云",游戏风云
 http://nas.hssvm.com:8888/udp/225.1.1.135:5002
 #EXTINF:-1 tvg-name="游牧战神(法国战争片)",游牧战神(法国战争片)
 https://v.cdnlz3.com/20240114/22763_47078246/index.m3u8
-#EXTINF:-1 tvg-name="湖北公共",湖北公共
-http://119.36.148.115:59901/tsfile/live/1007_1.m3u8
 #EXTINF:-1 tvg-name="湖北公共",湖北公共
 http://113.56.95.69:53765/tsfile/live/1002_1.m3u8
 #EXTINF:-1 tvg-name="湖北公共新闻",湖北公共新闻
@@ -19914,15 +19808,15 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-name="湖北卫视",湖北卫视
 http://a21709.tv.netsite.cc/proxy/209398845/209398845.m3u8
 #EXTINF:-1 tvg-name="湖北卫视",湖北卫视
-http://dsj.motem.top:8880/bptv/10000100000000050000000003873465.m3u8
-#EXTINF:-1 tvg-name="湖北卫视",湖北卫视
 http://58.57.40.22:9901/tsfile/live/1038_1.m3u8
 #EXTINF:-1 tvg-name="湖北卫视",湖北卫视
 http://120.76.248.139/live/bfgd/4200000102.m3u8
 #EXTINF:-1 tvg-name="湖北卫视",湖北卫视
-http://113.64.146.94:2024/hls/75/index.m3u8
+http://58.210.168.86:10800/newlive/live/hls/35/live.m3u8
 #EXTINF:-1 tvg-name="湖北卫视",湖北卫视
-http://39.165.196.149:9003//hls/40/index.m3u8
+http://58.19.43.46:9901/tsfile/live/1044_1.m3u8
+#EXTINF:-1 tvg-name="湖北卫视",湖北卫视
+http://61.156.228.12:8154/tsfile/live/0132_1.m3u8
 #EXTINF:-1 tvg-name="湖北垄上",湖北垄上
 http://www.zyhfm.com:8088/rtp/239.69.1.43:9898
 #EXTINF:-1 tvg-name="湖北垄上",湖北垄上
@@ -19933,8 +19827,6 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072463c333/index.m
 http://58.19.43.46:9901/tsfile/live/1015_1.m3u8
 #EXTINF:-1 tvg-name="湖北垄上",湖北垄上
 http://113.56.95.69:53765/tsfile/live/1001_1.m3u8
-#EXTINF:-1 tvg-name="湖北垄上",湖北垄上
-http://119.36.148.115:59901/tsfile/live/1006_1.m3u8
 #EXTINF:-1 tvg-name="湖北影视",湖北影视
 http://www.zyhfm.com:8088/rtp/239.69.1.204:10866
 #EXTINF:-1 tvg-name="湖北影视",湖北影视
@@ -19984,8 +19876,6 @@ http://113.56.95.69:53765/tsfile/live/0019_1.m3u8
 #EXTINF:-1 tvg-name="湖北经视",湖北经视
 http://113.57.93.165:9900/tsfile/live/1017_1.m3u8
 #EXTINF:-1 tvg-name="湖北经视",湖北经视
-http://119.36.148.115:59901/tsfile/live/1004_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="湖北经视",湖北经视
 http://113.57.93.165:9900/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="湖北综合",湖北综合
 http://www.zyhfm.com:8088/rtp/239.69.1.42:9892
@@ -19995,8 +19885,6 @@ http://home.sylaigym.top:8887/rtp/239.69.1.42:9892
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I
 #EXTINF:-1 tvg-name="湖北综合",湖北综合
 http://113.56.95.69:53765/tsfile/live/1000_1.m3u8
-#EXTINF:-1 tvg-name="湖北综合",湖北综合
-http://119.36.148.115:59901/tsfile/live/1005_1.m3u8
 #EXTINF:-1 tvg-name="湖北综合",湖北综合
 http://58.19.133.144:9901
 #EXTINF:-1 tvg-name="湖北荆门新闻综合",湖北荆门新闻综合
@@ -20098,9 +19986,9 @@ http://dsj.motem.top:8880/bptv/10000100000000050000000003873458.m3u8
 #EXTINF:-1 tvg-name="湖南卫视",湖南卫视
 http://39.164.160.249:9901/tsfile/live/0128_1.m3u8
 #EXTINF:-1 tvg-name="湖南卫视",湖南卫视
-http://58.57.40.22:9901/tsfile/live/1028_1.m3u8
-#EXTINF:-1 tvg-name="湖南卫视",湖南卫视
 http://120.76.248.139/live/bfgd/4200000086.m3u8
+#EXTINF:-1 tvg-name="湖南卫视",湖南卫视
+http://58.220.219.14:9901/tsfile/live/0128_1.m3u8
 #EXTINF:-1 tvg-name="湖南卫视F",湖南卫视F
 http://58.46.176.16:8888/udp/239.76.253.100:9000
 #EXTINF:-1 tvg-name="湖南卫视F",湖南卫视F
@@ -20148,13 +20036,13 @@ http://a21709.tv.netsite.cc/proxy/884645401/884645401.m3u8
 #EXTINF:-1 tvg-name="湖南娱乐",湖南娱乐
 http://112.123.211.190:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="湖南娱乐",湖南娱乐
-http://116.128.242.83:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="湖南娱乐",湖南娱乐
-http://112.123.208.178:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+http://112.122.32.110:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="湖南娱乐",湖南娱乐
 http://112.123.209.103:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="湖南娱乐",湖南娱乐
 http://112.122.33.188:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="湖南娱乐",湖南娱乐
+http://112.122.33.132:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="湖南张家界大峡谷",湖南张家界大峡谷
 https://gcalic.v.myalicdn.com/gc/hsxkssqdzrqj_1/index.m3u8
 #EXTINF:-1 tvg-name="湖南张家界天门山云梦仙顶",湖南张家界天门山云梦仙顶
@@ -20226,8 +20114,6 @@ http://www.erbao1981.top:8188/udp/239.76.253.106:9000
 #EXTINF:-1 tvg-name="湖南电影",湖南电影
 http://www.erbao1981.top:8188/udp/239.76.252.119:9000
 #EXTINF:-1 tvg-name="湖南电影",湖南电影
-http://116.128.242.83:9901/tsfile/live/1009_1.m3u8
-#EXTINF:-1 tvg-name="湖南电影",湖南电影
 http://110.53.52.63:8888/newlive/live/hls/50/live.m3u8?txiptv&playlive
 #EXTINF:-1 tvg-name="湖南电视剧",湖南电视剧
 http://58.46.176.16:8888/udp/239.76.246.108:1234
@@ -20247,8 +20133,6 @@ http://www.erbao1981.top:8188/udp/239.76.246.108:1234
 http://www.erbao1981.top:8188/udp/239.76.253.108:9000
 #EXTINF:-1 tvg-name="湖南电视剧",湖南电视剧
 http://www.erbao1981.top:8188/udp/239.76.252.118:9000
-#EXTINF:-1 tvg-name="湖南电视剧",湖南电视剧
-http://116.128.242.83:9901/tsfile/live/0120_1.m3u8
 #EXTINF:-1 tvg-name="湖南电视剧",湖南电视剧
 http://116.128.242.83:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="湖南经视",湖南经视
@@ -20276,11 +20160,11 @@ http://110.53.218.182:9902/tsfile/live/1004_1.m3u8
 #EXTINF:-1 tvg-name="湖南经视",湖南经视
 http://116.128.242.83:9901/tsfile/live/0131_1.m3u8
 #EXTINF:-1 tvg-name="湖南经视",湖南经视
-http://112.123.209.43:85/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="湖南经视",湖南经视
 http://112.123.209.152:85/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="湖南经视",湖南经视
-http://112.123.210.101:85/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+http://112.122.33.247:85/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="湖南经视",湖南经视
+http://112.122.33.128:85/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="湖南郴州仰天湖",湖南郴州仰天湖
 https://gctxyc.liveplay.myqcloud.com/gc/cntv451-zbzg_1/index.m3u8
 #EXTINF:-1 tvg-name="湖南都市",湖南都市
@@ -20307,8 +20191,6 @@ http://www.erbao1981.top:8188/udp/239.76.252.117:9000
 http://a21709.tv.netsite.cc/proxy/1116439121/1116439121.m3u8
 #EXTINF:-1 tvg-name="湖南都市",湖南都市
 http://110.53.218.182:9902/tsfile/live/0127_1.m3u8
-#EXTINF:-1 tvg-name="湖南都市",湖南都市
-http://116.128.242.83:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="湖南都市",湖南都市
 http://116.128.243.121:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="湖南金鹰纪实",湖南金鹰纪实
@@ -20408,8 +20290,6 @@ https://lishui-tv-hls.cm.jstv.com/lishui-tv/lsxwzh.m3u8
 #EXTINF:-1 tvg-name="滁州公共",滁州公共
 http://live.cztv.cc:85/live/ggpd.m3u8
 #EXTINF:-1 tvg-name="滁州公共",滁州公共
-http://live.cztv.cc:85/live/ggpd.m3u8?zanhd#http://live.cztv.cc:85/live/ggpd.m3u8
-#EXTINF:-1 tvg-name="滁州公共",滁州公共
 http://live.cztv.cc:85/live/ggpd.m3u8?zanhd
 #EXTINF:-1 tvg-name="滁州公共频道",滁州公共频道
 http://live.cztv.cc:85/live/ggpd.m3u8
@@ -20471,6 +20351,8 @@ https://v.lzcdn25.com/20250301/30_b39bd083/index.m3u8
 https://v.cdnlz20.com/20240421/4120_3dea99c7/index.m3u8
 #EXTINF:-1 tvg-name="漫画解说",漫画解说
 http://6666666.mghost.site/1/yy2.php?id=1382735568
+#EXTINF:-1 tvg-name="漫画解说",漫画解说
+http://61.133.118.228:5001/yy/1382735568
 #EXTINF:-1 tvg-name="漫长的黑夜(美国恐怖片)",漫长的黑夜(美国恐怖片)
 https://vip1.lz-cdn1.com/20220331/694_ddc0116f/index.m3u8
 #EXTINF:-1 tvg-name="漯河新闻综合",漯河新闻综合
@@ -20766,15 +20648,13 @@ https://vip.lz-cdn17.com/20230421/9428_8f746515/index.m3u8
 #EXTINF:-1 tvg-name="炎神战队轰音者：10周年的汽车大奖赛(日本动作片)",炎神战队轰音者：10周年的汽车大奖赛(日本动作片)
 https://vip.lz-cdn17.com/20230421/9426_ed051359/index.m3u8
 #EXTINF:-1 tvg-name="炫动卡通",炫动卡通
-http://111.43.126.240:9003/hls/72/index.m3u8
-#EXTINF:-1 tvg-name="炫动卡通",炫动卡通
-http://113.64.146.6:2024/hls/53/index.m3u8
-#EXTINF:-1 tvg-name="炫动卡通",炫动卡通
 http://218.15.183.23:9901/tsfile/live/23042_1.m3u8
 #EXTINF:-1 tvg-name="炫动卡通",炫动卡通
 http://113.64.146.94:2024/hls/53/index.m3u8
 #EXTINF:-1 tvg-name="炫动卡通",炫动卡通
-http://nas.hssvm.com:8888/udp/225.1.1.62:5002
+http://wouu.net:9977/udp/239.93.0.173:5140
+#EXTINF:-1 tvg-name="炫动卡通",炫动卡通
+http://120.198.95.220:9901/tsfile/live/1034_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="炫舞未来",炫舞未来
 http://39.134.65.106/PLTV/88888888/224/3221225646/1.m3u8?$HLJYDIP 4M FHD
 #EXTINF:-1 tvg-name="炫舞未来",炫舞未来
@@ -21459,8 +21339,6 @@ https://vip.lz-cdn17.com/20230418/8999_7d708b9c/index.m3u8
 https://vip.lz-cdn17.com/20230418/9000_0d7766ce/index.m3u8
 #EXTINF:-1 tvg-name="猫和老鼠",猫和老鼠
 http://live.nctv.top/DYjsklis/huya.php?id=11352879
-#EXTINF:-1 tvg-name="猫和老鼠",猫和老鼠
-http://www.douzhicloud.site:35455/huya/11352879
 #EXTINF:-1 tvg-name="猫女2004(美国动作片)",猫女2004(美国动作片)
 https://v.cdnlz11.com/20231201/18493_ad4e14e2/index.m3u8
 #EXTINF:-1 tvg-name="猫妖2017(加拿大恐怖片)",猫妖2017(加拿大恐怖片)
@@ -21689,6 +21567,8 @@ http://live.nctv.top/DYjsklis/huya.php?id=11352935
 http://www.52sw.top:678/play/huya.php?id=11352935
 #EXTINF:-1 tvg-name="甄子丹",甄子丹
 http://www.xzbn.site:35455/huya/11352935
+#EXTINF:-1 tvg-name="甄子丹电影",甄子丹电影
+http://www.douzhicloud.site:35455/huya/11352935
 #EXTINF:-1 tvg-name="甘南县综合",甘南县综合
 https://rmplive.hljtv.com/live/gannan.m3u8
 #EXTINF:-1 tvg-name="甘南综合",甘南综合
@@ -21736,13 +21616,13 @@ http://a21709.tv.netsite.cc/proxy/1209404373/1209404373.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视",甘肃卫视
 http://dsj.motem.top:8880/bptv/10000100000000050000000003887450.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视",甘肃卫视
-http://220.164.192.48:50085/tsfile/live/0141_1.m3u8
+http://118.212.71.109:11111/bptv/10000100000000050000000003887450.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视",甘肃卫视
 http://58.57.40.22:9901/tsfile/live/1056_1.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视",甘肃卫视
 http://120.76.248.139/live/bfgd/4200000119.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视",甘肃卫视
-http://123.10.79.62:808/hls/58/index.m3u8
+http://39.165.196.149:9003//hls/52/index.m3u8
 #EXTINF:-1 tvg-name="甘肃嘉峪关关城景区",甘肃嘉峪关关城景区
 https://gcalic.v.myalicdn.com/gc/dxssyt_1/index.m3u8
 #EXTINF:-1 tvg-name="甘肃少儿频道",甘肃少儿频道
@@ -21864,15 +21744,13 @@ http://www.erbao1981.top:8188/udp/239.76.253.223:9000
 #EXTINF:-1 tvg-name="生活时尚",生活时尚
 http://www.xzbn.site:35455/itv/5000000002000019634.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="生活时尚",生活时尚
-http://146.56.165.66:7788/TVOD/5000000002000019634/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="生活时尚",生活时尚
 http://115.150.63.77:9902/tsfile/live/0001_45.m3u8
 #EXTINF:-1 tvg-name="生活时尚",生活时尚
-http://wouu.net:9977/udp/239.93.0.106:5140
+http://nas.hssvm.com:8888/udp/225.1.1.143:5002
 #EXTINF:-1 tvg-name="生活时尚",生活时尚
 http://wouu.net:9977/udp/239.93.42.29:5140
 #EXTINF:-1 tvg-name="生活时尚",生活时尚
-http://nas.hssvm.com:8888/udp/225.1.1.143:5002
+http://wouu.net:9977/udp/239.93.0.106:5140
 #EXTINF:-1 tvg-name="生物钟(美国恐怖片)",生物钟(美国恐怖片)
 https://vip.lzcdn2.com/20230428/25707_b373bd11/index.m3u8
 #EXTINF:-1 tvg-name="生财有道",生财有道
@@ -22181,12 +22059,10 @@ http://www.xzbn.site:35455/huya/11336719
 https://ukzyvod3.ukubf5.com/20230615/f62WRA4Q/index.m3u8
 #EXTINF:-1 tvg-name="电影医者来时路",电影医者来时路
 https://cdn12.yzzy-tv-cdn.com/20230220/19780_22a40f1d/index.m3u8
-#EXTINF:-1 tvg-name="电影喜剧专场",电影喜剧专场
-http://www.douzhicloud.site:35455/huya/11602044
+#EXTINF:-1 tvg-name="电影周星星",电影周星星
+http://www.douzhicloud.site:35455/huya/11336587
 #EXTINF:-1 tvg-name="电影大卫贝肯倒霉特工熊",电影大卫贝肯倒霉特工熊
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
-#EXTINF:-1 tvg-name="电影大海怪",电影大海怪
-https://ukzyvod3.ukubf5.com/20230416/SMQI1Hjn/index.m3u8
 #EXTINF:-1 tvg-name="电影大片",电影大片
 http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_738_720P_t10/c57_fast_738_720P_t10.m3u8?d
 #EXTINF:-1 tvg-name="电影审查员(英国恐怖片)",电影审查员(英国恐怖片)
@@ -22195,26 +22071,18 @@ https://vip1.lz-cdn10.com/20220413/1365_1ec16ee7/index.m3u8
 https://ukzyvod3.ukubf5.com/20230528/AFk3qX8j/index.m3u8
 #EXTINF:-1 tvg-name="电影彩戏师之云机现世",电影彩戏师之云机现世
 https://hot.qoqkkhy.com/20230328/IDCvE2sO/index.m3u8
-#EXTINF:-1 tvg-name="电影怪兽",电影怪兽
-http://www.douzhicloud.site:35455/huya/21059577
-#EXTINF:-1 tvg-name="电影搞笑恐怖",电影搞笑恐怖
-http://www.douzhicloud.site:35455/huya/11601960
 #EXTINF:-1 tvg-name="电影昆仑境",电影昆仑境
 https://cdn15.yzzy-tv-cdn.com/20230610/15317_9ea0d662/index.m3u8
 #EXTINF:-1 tvg-name="电影昆塔反转星球",电影昆塔反转星球
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
 #EXTINF:-1 tvg-name="电影曼谷风云",电影曼谷风云
 https://cdn16.yzzy-tv-cdn.com/20230620/10364_a7afa251/index.m3u8
-#EXTINF:-1 tvg-name="电影梅根",电影梅根
-https://hot.qoqkkhy.com/20230125/PfuPsLWM/index.m3u8
 #EXTINF:-1 tvg-name="电影棉花糖和云朵妈妈",电影棉花糖和云朵妈妈
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
 #EXTINF:-1 tvg-name="电影民俗怪闻录之诡戏班",电影民俗怪闻录之诡戏班
 https://hot.qoqkkhy.com/20230321/AQK1BdPm/index.m3u8
 #EXTINF:-1 tvg-name="电影流浪地球2",电影流浪地球2
 https://cdn10.yzzy-tv-cdn.com/20230124/23895_527527bc/index.m3u8
-#EXTINF:-1 tvg-name="电影消失的她",电影消失的她
-https://hot.qoqkkhy.com/20230626/GTnlQoCn/index.m3u8
 #EXTINF:-1 tvg-name="电影熊出没变形记",电影熊出没变形记
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
 #EXTINF:-1 tvg-name="电影爱欲四部曲2",电影爱欲四部曲2
@@ -22231,10 +22099,6 @@ https://cdn13.yzzy-tv-cdn.com/20230322/18321_a967b574/index.m3u8
 https://cdn15.yzzy-tv-cdn.com/20230326/4049_1b286d2c/index.m3u8
 #EXTINF:-1 tvg-name="电影辣警狂花第3部",电影辣警狂花第3部
 https://cdn15.yzzy-tv-cdn.com/20230329/4852_2724c586/index.m3u8
-#EXTINF:-1 tvg-name="电影高能反转",电影高能反转
-http://www.douzhicloud.site:35455/huya/11352887
-#EXTINF:-1 tvg-name="电影黄河巨蛇事件",电影黄河巨蛇事件
-https://hot.qoqkkhy.com/20230216/LmKVNmwS/index.m3u8
 #EXTINF:-1 tvg-name="电梯游戏(美国恐怖片)",电梯游戏(美国恐怖片)
 https://v.cdnlz11.com/20231105/18137_effd00a6/index.m3u8
 #EXTINF:-1 tvg-name="电梯里的恶魔(美国恐怖片)",电梯里的恶魔(美国恐怖片)
@@ -22993,8 +22857,6 @@ http://live.nctv.top/DYjsklis/qilu.php?id=ytfszh
 http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 #EXTINF:-1 tvg-name="福州生活",福州生活
 http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
-#EXTINF:-1 tvg-name="福州生活",福州生活
-http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 #EXTINF:-1 tvg-name="福州综合",福州综合
 http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 #EXTINF:-1 tvg-name="福州音乐广播",福州音乐广播
@@ -23027,8 +22889,6 @@ http://120.41.67.140:18888/rtp/239.61.2.9:8048
 http://e2.woc.iiiya.cn:28888/rtp/239.61.2.9:8048
 #EXTINF:-1 tvg-name="福建少儿",福建少儿
 http://live.nctv.top/DYjsklis/bestv.php?id=fjse
-#EXTINF:-1 tvg-name="福建少儿",福建少儿
-http://110.81.206.138:49231/tsfile/live/23030_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="福建少儿频道",福建少儿频道
 http://a21709.tv.netsite.cc/proxy/253585251/253585251.m3u8
 #EXTINF:-1 tvg-name="福建教育",福建教育
@@ -23055,8 +22915,6 @@ http://110.80.17.38:9901/tsfile/live/0122_1.m3u8
 https://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
 #EXTINF:-1 tvg-name="福建新闻",福建新闻
 http://110.80.17.38:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="福建新闻",福建新闻
-http://110.81.206.138:49231/tsfile/live/23025_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="福建新闻频道",福建新闻频道
 http://a21709.tv.netsite.cc/proxy/199601741/199601741.m3u8
 #EXTINF:-1 tvg-name="福建旅游",福建旅游
@@ -23097,8 +22955,6 @@ http://e2.woc.iiiya.cn:28888/rtp/239.61.2.5:8024
 http://live.nctv.top/DYjsklis/bestv.php?id=fjdsj
 #EXTINF:-1 tvg-name="福建电视剧",福建电视剧
 http://a21709.tv.netsite.cc/proxy/1180178372/1180178372.m3u8
-#EXTINF:-1 tvg-name="福建电视剧",福建电视剧
-http://110.81.206.138:49231/tsfile/live/23026_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="福建福安赛岐镇象环葡萄园",福建福安赛岐镇象环葡萄园
 https://gctxyc.liveplay.myqcloud.com/gc/cntv402-zbzg_1/index.m3u8
 #EXTINF:-1 tvg-name="福建福安赛岐镇象环葡萄园",福建福安赛岐镇象环葡萄园
@@ -23125,8 +22981,6 @@ http://e2.woc.iiiya.cn:28888/rtp/239.61.3.4:9542
 http://live.nctv.top/DYjsklis/bestv.php?id=fjzh
 #EXTINF:-1 tvg-name="福建综合",福建综合
 https://p2.vzan.com/slowlive/485365200293316089/live.m3u8
-#EXTINF:-1 tvg-name="福建综合",福建综合
-http://110.81.206.138:49231/tsfile/live/23023_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="福建综合频道",福建综合频道
 http://a21709.tv.netsite.cc/proxy/269896449/269896449.m3u8
 #EXTINF:-1 tvg-name="福建莆田湄洲妈祖祖庙",福建莆田湄洲妈祖祖庙
@@ -23337,8 +23191,6 @@ https://vip.ffzy-play6.com/20221128/9213_05050bb8/index.m3u8
 http://live.nctv.top/DYjsklis/huya.php?id=23865058
 #EXTINF:-1 tvg-name="笑看风云",笑看风云
 http://www.xzbn.site:35455/huya/23865058
-#EXTINF:-1 tvg-name="笑看风云",笑看风云
-http://www.douzhicloud.site:35455/huya/29465858
 #EXTINF:-1 tvg-name="笔仙(大陆恐怖片)",笔仙(大陆恐怖片)
 https://vip1.lz-cdn1.com/20220420/2645_821a21a8/index.m3u8
 #EXTINF:-1 tvg-name="笔仙(韩国恐怖片)",笔仙(韩国恐怖片)
@@ -23541,6 +23393,8 @@ https://vip.lz-cdn3.com/20230314/18101_d253958e/index.m3u8
 https://v.cdnlz19.com/20240414/27267_a73d4c60/index.m3u8
 #EXTINF:-1 tvg-name="米老鼠的捕鼠夹2024(美国恐怖片)",米老鼠的捕鼠夹2024(美国恐怖片)
 https://v.cdnlz12.com/20240807/16234_caa5b877/index.m3u8
+#EXTINF:-1 tvg-name="米虫影院",米虫影院
+http://www.douzhicloud.site:35455/douyu/315457
 #EXTINF:-1 tvg-name="类人体(美国科幻片)",类人体(美国科幻片)
 https://v.cdnlz3.com/20240104/22607_095c93c4/index.m3u8
 #EXTINF:-1 tvg-name="类人猿行动(捷克/英国/美国/法国战争片)",类人猿行动(捷克/英国/美国/法国战争片)
@@ -23576,9 +23430,9 @@ https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a
 #EXTINF:-1 tvg-name="精品体育",精品体育
 https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
 #EXTINF:-1 tvg-name="精品体育",精品体育
-http://111.43.126.240:9003/hls/89/index.m3u8
-#EXTINF:-1 tvg-name="精品体育",精品体育
 http://39.135.133.155:80/PLTV/88888888/224/3221225526/1.m3u8
+#EXTINF:-1 tvg-name="精品体育",精品体育
+http://146.56.165.66:7788/TVOD/2000000003000000021/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="精品体育",精品体育
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225709/2/index.m3u8
 #EXTINF:-1 tvg-name="精品大剧",精品大剧
@@ -23891,10 +23745,6 @@ https://vd2.bdstatic.com/mda-mju7bud6vwuub0nq/hd/cae_h264_nowatermark/1635484907
 http://6666666.mghost.site/1/yy2.php?id=1354936238
 #EXTINF:-1 tvg-name="经典传奇",经典传奇
 http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1036_720P_t10/c60_fast_1036_720P_t10.m3u8?d
-#EXTINF:-1 tvg-name="经典动漫",经典动漫
-http://43.138.0.72:35455/yy/24180320
-#EXTINF:-1 tvg-name="经典动漫",经典动漫
-http://61.133.118.228:5001/yy/24180320
 #EXTINF:-1 tvg-name="经典动画",经典动画
 http://live.nctv.top/DYjsklis/douyu.php?id=1174353
 #EXTINF:-1 tvg-name="经典动画",经典动画
@@ -23908,11 +23758,11 @@ http://live.nctv.top/DYjsklis/dy.php?id=6091425
 #EXTINF:-1 tvg-name="经典影视台",经典影视台
 http://www.xzbn.site:35455/douyu/6091425
 #EXTINF:-1 tvg-name="经典电影",经典电影
-http://123.10.79.62:808/hls/79/index.m3u8
-#EXTINF:-1 tvg-name="经典电影",经典电影
 http://61.163.181.78:9901/tsfile/live/1059_1.m3u8
 #EXTINF:-1 tvg-name="经典电影",经典电影
 http://120.238.94.10:9901/tsfile/live/1040_1.m3u8
+#EXTINF:-1 tvg-name="经典电影",经典电影
+http://61.133.118.228:5001/yy/1356363815
 #EXTINF:-1 tvg-name="经典电影",经典电影
 http://wouu.net:9977/udp/239.93.0.57:9024
 #EXTINF:-1 tvg-name="经典电影",经典电影
@@ -24227,8 +24077,6 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-name="美丽中国说",美丽中国说
 http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
-#EXTINF:-1 tvg-name="美丽云南",美丽云南
-https://www.ynbit.com:1937/cyds-mlyn/livestream/playlist.m3u8?zyund
 #EXTINF:-1 tvg-name="美丽的格桑花",美丽的格桑花
 https://alimov2.a.kwimgs.com/upic/2022/05/17/09/BMjAyMjA1MTcwOTU0MTBfOTU2MzA3MDg4Xzc0NjA5NTgxMzQzXzJfMw==_b_B0748e8cac06098e9e1527cd77f1b034e.mp4?clientCacheKey=3xqknj6pcai9z9m_b.mp4&tt=b&di=24710860&bp=10000
 #EXTINF:-1 tvg-name="美亚C+",美亚C+
@@ -24703,6 +24551,8 @@ http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7dc
 http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
 #EXTINF:-1 tvg-name="航海王",航海王
 http://live.nctv.top/DYjsklis/huya.php?id=16913382
+#EXTINF:-1 tvg-name="航海王",航海王
+http://www.douzhicloud.site:35455/huya/16913382
 #EXTINF:-1 tvg-name="航班蛇患(美国动作片)",航班蛇患(美国动作片)
 https://vip1.lz-cdn7.com/20230223/14475_cab2d072/index.m3u8
 #EXTINF:-1 tvg-name="艾什(美国动作片)",艾什(美国动作片)
@@ -24890,9 +24740,9 @@ https://vip1.lz-cdn7.com/20230411/15301_64c1550f/index.m3u8
 #EXTINF:-1 tvg-name="英雄本色3：夕阳之歌【粤语】(香港动作片)",英雄本色3：夕阳之歌【粤语】(香港动作片)
 https://vip1.lz-cdn7.com/20230411/15302_abc7c33b/index.m3u8
 #EXTINF:-1 tvg-name="英雄泪",英雄泪
-https://vd3.bdstatic.com/mda-ncnp6tm56ngrxbis/360p/h264_delogo/1648055585617071282/mda-ncnp6tm56ngrxbis.mp4
-#EXTINF:-1 tvg-name="英雄泪",英雄泪
 https://vd3.bdstatic.com/mda-pjpquybu39vxxx2y/hd/cae_h264/1698238201770022195/mda-pjpquybu39vxxx2y.mp4
+#EXTINF:-1 tvg-name="英雄泪",英雄泪
+https://vd3.bdstatic.com/mda-ncnp6tm56ngrxbis/360p/h264_delogo/1648055585617071282/mda-ncnp6tm56ngrxbis.mp4
 #EXTINF:-1 tvg-name="英雄泪2011(大陆战争片)",英雄泪2011(大陆战争片)
 https://vip.lzcdn2.com/20220421/4103_d35c3972/index.m3u8
 #EXTINF:-1 tvg-name="英雄连2020(大陆战争片)",英雄连2020(大陆战争片)
@@ -24921,8 +24771,6 @@ http://113.65.7.94:8888/udp/239.77.0.206:5146
 http://113.65.7.94:8888/udp/239.77.0.204:5146
 #EXTINF:-1 tvg-name="茂名综合",茂名综合
 http://113.109.250.108:9999/udp/239.77.0.206:5146
-#EXTINF:-1 tvg-name="茂名综合",茂名综合
-http://125.89.163.44:8888/udp/239.77.0.206:5146
 #EXTINF:-1 tvg-name="范晓萱-情人的眼泪(演唱会)",范晓萱-情人的眼泪(演唱会)
 http://em.21dtv.com/songs/60035194.mkv
 #EXTINF:-1 tvg-name="茅山学堂1986【国语】(香港恐怖片)",茅山学堂1986【国语】(香港恐怖片)
@@ -25127,8 +24975,6 @@ http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed?
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="萧山新闻综合",萧山新闻综合
 https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-#EXTINF:-1 tvg-name="萧山新闻综合",萧山新闻综合
-http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl
 #EXTINF:-1 tvg-name="萧山生活",萧山生活
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed?
 #EXTINF:-1 tvg-name="萧山生活",萧山生活
@@ -25491,8 +25337,6 @@ https://vip.lzcdn2.com/20220425/4435_d481cb3c/index.m3u8
 https://vip1.lz-cdn7.com/20230409/15248_5dd3f986/index.m3u8
 #EXTINF:-1 tvg-name="蜡笔小新",蜡笔小新
 http://live.nctv.top/DYjsklis/huya.php?id=11352970
-#EXTINF:-1 tvg-name="蜡笔小新",蜡笔小新
-http://www.douzhicloud.site:35455/bilibili/30837590
 #EXTINF:-1 tvg-name="蜿蜒(法国恐怖片)",蜿蜒(法国恐怖片)
 https://vip1.lz-cdn10.com/20220420/1453_0bfd7c1f/index.m3u8
 #EXTINF:-1 tvg-name="蝎尾谋杀案1971(意大利/西班牙恐怖片)",蝎尾谋杀案1971(意大利/西班牙恐怖片)
@@ -25723,6 +25567,8 @@ http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
 #EXTINF:-1 tvg-name="衢江新闻综合",衢江新闻综合
 http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
+#EXTINF:-1 tvg-name="衢江新闻综合",衢江新闻综合
+http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed;http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8zzhed;http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
 #EXTINF:-1 tvg-name="衣橱(韩国恐怖片)",衣橱(韩国恐怖片)
 https://vip.lzcdn2.com/20220605/8503_3ca9df3d/index.m3u8
 #EXTINF:-1 tvg-name="表白",表白
@@ -25853,8 +25699,8 @@ http://live.nctv.top/DYjsklis/dy.php?id=3700024
 http://www.xzbn.site:35455/douyu/3700024
 #EXTINF:-1 tvg-name="西游记",西游记
 http://6666666.mghost.site/1/yy2.php?id=8953746#http://43.138.170.29:35455/douyu/8953746
-#EXTINF:-1 tvg-name="西游记1",西游记1
-http://www.douzhicloud.site:35455/huya/23728660
+#EXTINF:-1 tvg-name="西游记2",西游记2
+http://www.douzhicloud.site:35455/huya/29465859
 #EXTINF:-1 tvg-name="西游记后传",西游记后传
 http://6666666.mghost.site/1/yy2.php?id=1382736846
 #EXTINF:-1 tvg-name="西游降魔篇",西游降魔篇
@@ -25902,11 +25748,11 @@ http://118.212.71.109:11111/bptv/10000100000000050000000003887434.m3u8
 #EXTINF:-1 tvg-name="西藏卫视",西藏卫视
 http://dsj.motem.top:8880/bptv/10000100000000050000000003887434.m3u8
 #EXTINF:-1 tvg-name="西藏卫视",西藏卫视
-http://182.37.169.94:352/tsfile/live/0111_1.m3u8
-#EXTINF:-1 tvg-name="西藏卫视",西藏卫视
 http://113.64.146.94:2024/hls/88/index.m3u8
 #EXTINF:-1 tvg-name="西藏卫视",西藏卫视
-http://221.2.148.205:8154/tsfile/live/0111_1.m3u8
+http://61.138.128.226:19901/tsfile/live/0111_1.m3u8
+#EXTINF:-1 tvg-name="西藏卫视",西藏卫视
+http://113.64.146.6:2024/hls/88/index.m3u8
 #EXTINF:-1 tvg-name="西藏卫视",西藏卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225723/2/index.m3u8
 #EXTINF:-1 tvg-name="西藏林芝墨脱县",西藏林芝墨脱县
@@ -26434,13 +26280,15 @@ http://a21709.tv.netsite.cc/proxy/1494390345/1494390345.m3u8
 #EXTINF:-1 tvg-name="贵州卫视",贵州卫视
 http://dsj.motem.top:8880/bptv/10000100000000050000000003873471.m3u8
 #EXTINF:-1 tvg-name="贵州卫视",贵州卫视
-http://39.164.160.249:9901/tsfile/live/0120_1.m3u8
-#EXTINF:-1 tvg-name="贵州卫视",贵州卫视
 http://58.57.40.22:9901/tsfile/live/1042_1.m3u8
 #EXTINF:-1 tvg-name="贵州卫视",贵州卫视
 http://120.76.248.139/live/bfgd/4200000101.m3u8
 #EXTINF:-1 tvg-name="贵州卫视",贵州卫视
 http://113.64.146.94:2024/hls/78/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视",贵州卫视
+http://39.165.196.149:9003//hls/47/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视",贵州卫视
+http://[2409:8087:1a01:df::4030]:80/TVOD/88888888/224/3221225974/main.m3u8
 #EXTINF:-1 tvg-name="贵州卫视",贵州卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225483/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="贵州大众生活",贵州大众生活
@@ -26509,6 +26357,8 @@ https://vip.lz-cdn3.com/20230319/18182_eba29318/index.m3u8
 http://em.21dtv.com/songs/60019104.mkv
 #EXTINF:-1 tvg-name="费翔-故乡的云(演唱会)",费翔-故乡的云(演唱会)
 http://em.21dtv.com/songs/60019102.mkv
+#EXTINF:-1 tvg-name="贺岁电影",贺岁电影
+http://www.douzhicloud.site:35455/huya/11601986
 #EXTINF:-1 tvg-name="贺州综合",贺州综合
 http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
 #EXTINF:-1 tvg-name="贺州综合",贺州综合
@@ -26772,8 +26622,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-name="超级体育",超级体育
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-name="超级体育",超级体育
-http://111.43.126.240:9003/hls/86/index.m3u8
-#EXTINF:-1 tvg-name="超级体育",超级体育
 http://yc.myds.me:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="超级体育",超级体育
 http://39.134.65.106/PLTV/88888888/224/3221225635/1.m3u8?
@@ -26804,8 +26652,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 tvg-name="超级电影",超级电影
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 tvg-name="超级电影",超级电影
-http://111.43.126.240:9003/hls/85/index.m3u8
-#EXTINF:-1 tvg-name="超级电影",超级电影
 http://39.135.133.154:80/PLTV/88888888/224/3221225644/1.m3u8
 #EXTINF:-1 tvg-name="超级电影",超级电影
 http://39.135.133.155:80/PLTV/88888888/224/3221225644/1.m3u8
@@ -26834,8 +26680,6 @@ http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225714/index.m3u8
 #EXTINF:-1 tvg-name="超级综艺",超级综艺
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 #EXTINF:-1 tvg-name="超级综艺",超级综艺
-http://111.43.126.240:9003/hls/87/index.m3u8
-#EXTINF:-1 tvg-name="超级综艺",超级综艺
 http://39.134.65.73:80/PLTV/88888888/224/3221225550/1.m3u8
 #EXTINF:-1 tvg-name="超级综艺",超级综艺
 http://39.135.133.157:80/PLTV/88888888/224/3221225550/1.m3u8
@@ -26843,6 +26687,8 @@ http://39.135.133.157:80/PLTV/88888888/224/3221225550/1.m3u8
 http://39.135.133.157:80/PLTV/88888888/224/3221225642/1.m3u8
 #EXTINF:-1 tvg-name="超级综艺",超级综艺
 http://39.135.133.174:80/PLTV/88888888/224/3221225550/1.m3u8
+#EXTINF:-1 tvg-name="超级综艺",超级综艺
+http://39.134.65.106/PLTV/88888888/224/3221225642/1.m3u8?
 #EXTINF:-1 tvg-name="超级英雄2018(印度动作片)",超级英雄2018(印度动作片)
 https://vip.lz-cdn3.com/20230618/19693_780ad95a/index.m3u8
 #EXTINF:-1 tvg-name="超级英雄系列电影",超级英雄系列电影
@@ -27058,15 +26904,15 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-name="辽宁卫视",辽宁卫视
 http://a21709.tv.netsite.cc/proxy/463441117/463441117.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视",辽宁卫视
+http://dsj.motem.top:8880/bptv/10000100000000050000000003873468.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视",辽宁卫视
 http://118.212.71.109:11111/bptv/10000100000000050000000003873468.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视",辽宁卫视
-http://dsj.motem.top:8880/bptv/10000100000000050000000003873468.m3u8
+http://39.164.160.249:9901/tsfile/live/0121_1.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视",辽宁卫视
 http://58.57.40.22:9901/tsfile/live/1035_1.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视",辽宁卫视
 http://120.76.248.139/live/bfgd/4200000058.m3u8
-#EXTINF:-1 tvg-name="辽宁卫视",辽宁卫视
-http://39.164.160.249:9901/tsfile/live/0121_1.m3u8
 #EXTINF:-1 tvg-name="辽宁大连星海广场",辽宁大连星海广场
 https://gcalic.v.myalicdn.com/gc/hhdxg01_1/index.m3u8
 #EXTINF:-1 tvg-name="辽宁小品",辽宁小品
@@ -27736,13 +27582,13 @@ http://a21709.tv.netsite.cc/proxy/562106987/562106987.m3u8
 #EXTINF:-1 tvg-name="重庆卫视",重庆卫视
 http://dsj.motem.top:8880/bptv/10000100000000050000000004796458.m3u8
 #EXTINF:-1 tvg-name="重庆卫视",重庆卫视
-http://123.10.79.62:808/hls/50/index.m3u8
+http://58.57.40.22:9901/tsfile/live/0142_1.m3u8
 #EXTINF:-1 tvg-name="重庆卫视",重庆卫视
 http://124.116.183.146:9901/tsfile/live/0142_1.m3u8
 #EXTINF:-1 tvg-name="重庆卫视",重庆卫视
 http://113.57.111.4:1111/tsfile/live/1030_1.m3u8
 #EXTINF:-1 tvg-name="重庆卫视",重庆卫视
-http://110.80.17.38:9901/tsfile/live/0142_1.m3u8
+http://58.19.43.46:9901/tsfile/live/1042_1.m3u8
 #EXTINF:-1 tvg-name="重庆少儿",重庆少儿
 http://124.162.241.83:10018/udp/225.0.4.191:7980
 #EXTINF:-1 tvg-name="重庆少儿",重庆少儿
@@ -27799,8 +27645,6 @@ http://live.nctv.top/DYjsklis/cqcdn.php?id=cqqm
 http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 #EXTINF:-1 tvg-name="重庆汽摩",重庆汽摩
 http://183.230.184.51:65500/tntv1.m3u8?zzhongqd
-#EXTINF:-1 tvg-name="重庆汽摩",重庆汽摩
-http://218.89.240.144:59901/tsfile/live/1010_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="重庆璧山综合",重庆璧山综合
 http://222.179.42.129:8181/hls1.m3u8?zzhongqd
 #EXTINF:-1 tvg-name="重庆石柱华溪村",重庆石柱华溪村
@@ -27883,6 +27727,8 @@ https://vd2.bdstatic.com/mda-ncp47pjrm7kqjfwq/720p/h264_delogo/16480911879926553
 https://vd3.bdstatic.com/mda-mm68k5z0h1qjm8n0/sc/cae_h264/1638980550463660240/mda-mm68k5z0h1qjm8n0.mp4
 #EXTINF:-1 tvg-name="野茱萸(大陆战争片)",野茱萸(大陆战争片)
 https://vip1.lz-cdn1.com/20220418/2621_ea4dd86a/index.m3u8
+#EXTINF:-1 tvg-name="野蛮亲家",野蛮亲家
+http://www.douzhicloud.site:35455/huya/23863796
 #EXTINF:-1 tvg-name="野蛮人2022(美国恐怖片)",野蛮人2022(美国恐怖片)
 https://vip1.lz-cdn1.com/20221026/17774_5b7c4706/index.m3u8
 #EXTINF:-1 tvg-name="野蛮的骄傲(马来西亚动作片)",野蛮的骄傲(马来西亚动作片)
@@ -27937,14 +27783,14 @@ http://live.ynurl.com/video/s10041-JPTV/index.m3u8
 http://live.ynurl.com/video/s10041-JPTV/index.m3u8?zyund
 #EXTINF:-1 tvg-name="金庸武侠",金庸武侠
 http://live.nctv.top/DYjsklis/huya.php?id=11342435
+#EXTINF:-1 tvg-name="金庸武侠",金庸武侠
+http://www.douzhicloud.site:35455/huya/11342435
 #EXTINF:-1 tvg-name="金志文-没那么简单",金志文-没那么简单
 http://em.21dtv.com/songs/60070909.mkv
 #EXTINF:-1 tvg-name="金枝欲孽",金枝欲孽
 http://live.nctv.top/DYjsklis/huya.php?id=23865036
 #EXTINF:-1 tvg-name="金枝欲孽",金枝欲孽
 http://www.xzbn.site:35455/huya/23865036
-#EXTINF:-1 tvg-name="金枝欲孽",金枝欲孽
-http://www.douzhicloud.site:35455/huya/29465847
 #EXTINF:-1 tvg-name="金橘(爱沙尼亚/格鲁吉亚战争片)",金橘(爱沙尼亚/格鲁吉亚战争片)
 https://vip.lzcdn2.com/20220425/4561_4871b25e/index.m3u8
 #EXTINF:-1 tvg-name="金湖新闻综合",金湖新闻综合
@@ -27966,8 +27812,6 @@ http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/32212258/index.m3u8
 #EXTINF:-1 tvg-name="金牌综艺",金牌综艺
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 #EXTINF:-1 tvg-name="金牌综艺",金牌综艺
-http://111.43.126.240:9003/hls/90/index.m3u8
-#EXTINF:-1 tvg-name="金牌综艺",金牌综艺
 http://39.134.65.175/PLTV/88888888/224/3221225525/1.m3u8
 #EXTINF:-1 tvg-name="金牌综艺",金牌综艺
 http://39.134.65.73:80/PLTV/88888888/224/3221225525/1.m3u8
@@ -27975,6 +27819,8 @@ http://39.134.65.73:80/PLTV/88888888/224/3221225525/1.m3u8
 http://39.135.133.154:80/PLTV/88888888/224/3221225525/1.m3u8
 #EXTINF:-1 tvg-name="金牌综艺",金牌综艺
 http://39.135.133.154:80/TVOD/88888888/224/3221225525/main.m3u8
+#EXTINF:-1 tvg-name="金牌综艺",金牌综艺
+http://39.135.133.155:80/TVOD/88888888/224/3221225525/main.m3u8
 #EXTINF:-1 tvg-name="金牌调解",金牌调解
 http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1039_720P_t10/c59_fast_1039_720P_t10.m3u8?d
 #EXTINF:-1 tvg-name="金牛电视台",金牛电视台
@@ -28032,10 +27878,6 @@ http://www.erbao1981.top:8188/udp/239.76.252.120:9000
 #EXTINF:-1 tvg-name="金鹰卡通",金鹰卡通
 http://a21709.tv.netsite.cc/proxy/1947104640/1947104640.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通",金鹰卡通
-http://nas.hssvm.com:8888/udp/225.1.2.236:5002
-#EXTINF:-1 tvg-name="金鹰卡通",金鹰卡通
-http://dsj.motem.top:8880/bptv/10000100000000050000000004796942.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通",金鹰卡通
 http://58.57.40.22:9901/tsfile/live/1059_1.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通",金鹰卡通
 http://61.138.128.226:19901/tsfile/live/1018_1.m3u8
@@ -28043,6 +27885,8 @@ http://61.138.128.226:19901/tsfile/live/1018_1.m3u8
 http://222.173.108.238:352/tsfile/live/1014_1.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通",金鹰卡通
 http://58.19.43.46:9901/tsfile/live/1000_1.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通",金鹰卡通
+http://120.238.94.10:9901/tsfile/live/1036_1.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实",金鹰纪实
 http://live.nctv.top/DYjsklis/bestv.php?id=jyjs
 #EXTINF:-1 tvg-name="金鹰纪实",金鹰纪实
@@ -28070,13 +27914,13 @@ http://www.xzbn.site:35455/itv/5000000011000031203.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="金鹰纪实",金鹰纪实
 http://58.57.40.22:9901/tsfile/live/1070_1.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实",金鹰纪实
-http://120.238.94.10:9901/tsfile/live/1059_1.m3u8
-#EXTINF:-1 tvg-name="金鹰纪实",金鹰纪实
-http://123.10.79.62:808/hls/72/index.m3u8
-#EXTINF:-1 tvg-name="金鹰纪实",金鹰纪实
-http://121.19.134.222:808/tsfile/live/1037_1.m3u8
-#EXTINF:-1 tvg-name="金鹰纪实",金鹰纪实
 http://1b6467f415.iok.la:9931/tsfile/live/1078_1.m3u8
+#EXTINF:-1 tvg-name="金鹰纪实",金鹰纪实
+http://183.11.239.36:808/hls/171/index.m3u8
+#EXTINF:-1 tvg-name="金鹰纪实",金鹰纪实
+http://61.138.128.226:19901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 tvg-name="金鹰纪实",金鹰纪实
+http://wouu.net:9977/udp/239.93.0.130:5140
 #EXTINF:-1 tvg-name="金鹰纪实",金鹰纪实
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225595/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="釜山行2：半岛(韩国恐怖片)",釜山行2：半岛(韩国恐怖片)
@@ -28905,8 +28749,6 @@ http://124.116.183.146:9901/tsfile/live/1000_1.m3u8
 http://123.138.22.30:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1 tvg-name="陕西2套",陕西2套
 http://124.116.183.146:9901/tsfile/live/1001_1.m3u8
-#EXTINF:-1 tvg-name="陕西3套",陕西3套
-http://124.116.183.146:9901/tsfile/live/1002_1.m3u8
 #EXTINF:-1 tvg-name="陕西6套",陕西6套
 http://112.46.85.60:8009/hls/23/index.m3u8
 #EXTINF:-1 tvg-name="陕西一套",陕西一套
@@ -28996,13 +28838,13 @@ http://a21709.tv.netsite.cc/proxy/917851306/917851306.m3u8
 #EXTINF:-1 tvg-name="陕西卫视",陕西卫视
 http://dsj.motem.top:8880/bptv/10000100000000050000000003887404.m3u8
 #EXTINF:-1 tvg-name="陕西卫视",陕西卫视
-http://39.164.160.249:9901/tsfile/live/0136_1.m3u8
-#EXTINF:-1 tvg-name="陕西卫视",陕西卫视
-http://182.37.169.94:352/tsfile/live/0136_1.m3u8
-#EXTINF:-1 tvg-name="陕西卫视",陕西卫视
-http://222.169.85.8:9901/tsfile/live/0136_1.m3u8
-#EXTINF:-1 tvg-name="陕西卫视",陕西卫视
 http://123.138.22.30:9901/tsfile/live/0019_1.m3u8
+#EXTINF:-1 tvg-name="陕西卫视",陕西卫视
+http://36.32.174.67:60080/newlive/live/hls/44/live.m3u8
+#EXTINF:-1 tvg-name="陕西卫视",陕西卫视
+http://120.238.94.10:9901/tsfile/live/1070_1.m3u8
+#EXTINF:-1 tvg-name="陕西卫视",陕西卫视
+http://113.64.146.94:2024/hls/62/index.m3u8
 #EXTINF:-1 tvg-name="陕西卫视",陕西卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225729/2/index.m3u8
 #EXTINF:-1 tvg-name="陕西四套",陕西四套
@@ -29033,8 +28875,6 @@ http://gxlive.snrtv.com/sx1-SD.m3u8
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/index.m3u8
 #EXTINF:-1 tvg-name="陕西新闻资讯",陕西新闻资讯
 http://a21709.tv.netsite.cc/proxy/1595881474/1595881474.m3u8
-#EXTINF:-1 tvg-name="陕西新闻资讯",陕西新闻资讯
-http://124.116.183.146:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="陕西榆林杨家沟革命旧址",陕西榆林杨家沟革命旧址
 https://gctxyc.liveplay.myqcloud.com/gc/bgws7_1_md.m3u8
 #EXTINF:-1 tvg-name="陕西榆林神木市大柳塔镇",陕西榆林神木市大柳塔镇
@@ -29113,8 +28953,6 @@ http://gxlive.snrtv.com/sx2-SD.m3u8
 http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/index.m3u8
 #EXTINF:-1 tvg-name="陕西都市青春",陕西都市青春
 http://a21709.tv.netsite.cc/proxy/391844543/391844543.m3u8
-#EXTINF:-1 tvg-name="陕西都市青春",陕西都市青春
-http://124.116.183.146:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="陕西银龄频道",陕西银龄频道
 http://live.nctv.top/DYjsklis/sxtv.php?id=1129
 #EXTINF:-1 tvg-name="除了你",除了你
@@ -29402,7 +29240,7 @@ http://a21709.tv.netsite.cc/proxy/1164716104/1164716104.m3u8
 #EXTINF:-1 tvg-name="青海卫视",青海卫视
 http://a21709.tv.netsite.cc/proxy/1152127449/1152127449.m3u8
 #EXTINF:-1 tvg-name="青海卫视",青海卫视
-http://118.212.71.109:11111/bptv/10000100000000050000000003887430.m3u8
+http://dsj.motem.top:8880/bptv/10000100000000050000000003887430.m3u8
 #EXTINF:-1 tvg-name="青海卫视",青海卫视
 http://58.57.40.22:9901/tsfile/live/1057_1.m3u8
 #EXTINF:-1 tvg-name="青海卫视",青海卫视
@@ -29675,10 +29513,6 @@ http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 #EXTINF:-1 tvg-name="韩国女团dj",韩国女团dj
 https://vd3.bdstatic.com/mda-mknba5i60je0d2dn/sc/cae_h264/1637654844357830568/mda-mknba5i60je0d2dn.mp4
-#EXTINF:-1 tvg-name="韩国电影1",韩国电影1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-#EXTINF:-1 tvg-name="韩国电影2",韩国电影2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 #EXTINF:-1 tvg-name="韩国美女",韩国美女
 https://txmov2.a.kwimgs.com/upic/2021/04/03/20/BMjAyMTA0MDMyMDU0MzZfMTE1MjQ3MDA5XzQ3MTYzMjMyNzQ3XzJfMw==_b_B51f045ff769a1d0d0c35c1e3bed6e970.mp4
 #EXTINF:-1 tvg-name="韩塞尔与葛雷特(韩国恐怖片)",韩塞尔与葛雷特(韩国恐怖片)
@@ -29863,8 +29697,6 @@ https://vip.lz-cdn3.com/20220919/13848_fa0a86ca/index.m3u8
 https://vip.lzcdn2.com/20220429/4888_4f57b80c/index.m3u8
 #EXTINF:-1 tvg-name="食尸人1982(美国恐怖片)",食尸人1982(美国恐怖片)
 https://vip1.lz-cdn7.com/20230316/14953_06dc61b8/index.m3u8
-#EXTINF:-1 tvg-name="食神",食神
-https://ukzy.ukubf4.com/20220407/dtaM5NLB/index.m3u8
 #EXTINF:-1 tvg-name="食罪人(美国动作片)",食罪人(美国动作片)
 https://v1.cdnlz1.com/20231109/23508_17b46b74/index.m3u8
 #EXTINF:-1 tvg-name="食脑人(美国恐怖片)",食脑人(美国恐怖片)
@@ -30319,8 +30151,6 @@ https://v.cdnlz2.com/20240423/30415_846a8632/index.m3u8
 https://v.cdnlz17.com/20231014/29602_b3017746/index.m3u8
 #EXTINF:-1 tvg-name="鬼舞村:诅咒起源2024(印度尼西亚恐怖片)",鬼舞村:诅咒起源2024(印度尼西亚恐怖片)
 https://v.cdnlz12.com/20240803/16183_1e798c28/index.m3u8
-#EXTINF:-1 tvg-name="鬼舞村诅咒起源",鬼舞村诅咒起源
-https://v12.tlkqc.com/wjv12/202408/04/UJGTrrEASp84/video/index.m3u8
 #EXTINF:-1 tvg-name="鬼船2001(美国恐怖片)",鬼船2001(美国恐怖片)
 https://vip.lz-cdn16.com/20230406/15683_2cc36028/index.m3u8
 #EXTINF:-1 tvg-name="鬼计【粤语】(香港恐怖片)",鬼计【粤语】(香港恐怖片)
@@ -30491,18 +30321,10 @@ https://vip.lzcdn2.com/20220412/3116_cdaa0f9d/index.m3u8
 http://6666666.mghost.site/1/yy2.php?id=1382735544
 #EXTINF:-1 tvg-name="魔幻爆米花(美国恐怖片)",魔幻爆米花(美国恐怖片)
 https://vip1.lz-cdn1.com/20220512/5308_4e221877/index.m3u8
-#EXTINF:-1 tvg-name="魔戒三部曲王者再临",魔戒三部曲王者再临
-https://api.heimuer.app/play/bd885bde48d742068df66e382a8db7a7.m3u8
 #EXTINF:-1 tvg-name="魔戒二部曲双城奇谋",魔戒二部曲双城奇谋
 https://vip.ffzy-play7.com/20221127/7286_672b6ffa/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="魔戒二部曲双城奇谋",魔戒二部曲双城奇谋
-https://api.heimuer.app/play/4c017a32d1a7478696e4b78d95774ccc.m3u8
-#EXTINF:-1 tvg-name="魔戒首部曲魔戒现身",魔戒首部曲魔戒现身
-https://vip.kuaikan-cdn4.com/20240220/k2bjbEoB/898kb/hls/index.m3u8
 #EXTINF:-1 tvg-name="魔戒首部曲魔戒现身",魔戒首部曲魔戒现身
 https://vip.ffzy-play7.com/20230411/22167_a385d245/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="魔戒首部曲魔戒现身",魔戒首部曲魔戒现身
-https://api.heimuer.app/play/d10849d4be514bfeb5de7b6ff8bdfb5a.m3u8
 #EXTINF:-1 tvg-name="魔战【国语】(香港恐怖片)",魔战【国语】(香港恐怖片)
 https://vip.lzcdn2.com/20220406/2257_68159718/index.m3u8
 #EXTINF:-1 tvg-name="魔灵2021(美国恐怖片)",魔灵2021(美国恐怖片)
@@ -30773,6 +30595,8 @@ http://www.xzbn.site:35455/douyu/12128227
 http://6666666.mghost.site/1/yy2.php?id=28265277#http://www.xzbn.site:35455/huya/23865080#http://www.xzbn.site:35455/yy/28265277#https://lunbo.freetv.top/yy/1382736920
 #EXTINF:-1 tvg-name="鹿鼎记-周星驰版",鹿鼎记-周星驰版
 http://6666666.mghost.site/1/yy2.php?id=1354658049
+#EXTINF:-1 tvg-name="鹿鼎记2之神龙教",鹿鼎记2之神龙教
+https://ukzy.ukubf4.com/20220404/gfSdtuvX/index.m3u8
 #EXTINF:-1 tvg-name="鹿鼎记小春版",鹿鼎记小春版
 http://live.nctv.top/DYjsklis/huya.php?id=23865080
 #EXTINF:-1 tvg-name="鹿鼎记小春版",鹿鼎记小春版
@@ -30883,6 +30707,8 @@ https://vip.lzcdn2.com/20220425/4551_4b329275/index.m3u8
 https://v1.cdnlz1.com/20231010/22581_712ae73d/index.m3u8
 #EXTINF:-1 tvg-name="黄河遥",黄河遥
 https://vip.ffzy-play7.com/20221117/5148_d5633e82/index.m3u8
+#EXTINF:-1 tvg-name="黄渤电影",黄渤电影
+http://www.douzhicloud.site:35455/huya/11352876
 #EXTINF:-1 tvg-name="黄琦珊-一样的月光",黄琦珊-一样的月光
 http://em.21dtv.com/songs/60053818.mkv
 #EXTINF:-1 tvg-name="黄石的孩子(澳大利亚/中国大陆/德国战争片)",黄石的孩子(澳大利亚/中国大陆/德国战争片)
@@ -31138,8 +30964,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 tvg-name="黑莓动画",黑莓动画
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 tvg-name="黑莓动画",黑莓动画
-http://111.43.126.240:9003/hls/100/index.m3u8
-#EXTINF:-1 tvg-name="黑莓动画",黑莓动画
 http://www.xzbn.site:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="黑莓动画",黑莓动画
 http://api2.52tb.xyz/info?id=173&token=20230218qkyjia
@@ -31156,8 +30980,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-name="黑莓电影",黑莓电影
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-name="黑莓电影",黑莓电影
-http://111.43.126.240:9003/hls/99/index.m3u8
-#EXTINF:-1 tvg-name="黑莓电影",黑莓电影
 https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8
 #EXTINF:-1 tvg-name="黑莓电影",黑莓电影
 http://146.56.165.66:7788/TVOD/2000000003000000001/hnbblive/index.m3u8
@@ -31166,9 +30988,11 @@ http://www.xzbn.site:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="黑莓电影",黑莓电影
 http://36.105.100.208:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="黑莓电影",黑莓电影
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225769/2/index.m3u8
+http://www.zhch682022.cn:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="黑莓电影",黑莓电影
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225764/2/index.m3u8
+#EXTINF:-1 tvg-name="黑莓电影",黑莓电影
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225769/2/index.m3u8
 #EXTINF:-1 tvg-name="黑蝎(美国恐怖片)",黑蝎(美国恐怖片)
 https://vip1.lz-cdn1.com/20220506/4670_24890859/index.m3u8
 #EXTINF:-1 tvg-name="黑袋行动2025(英国动作片)",黑袋行动2025(英国动作片)
@@ -31288,19 +31112,19 @@ http://a21709.tv.netsite.cc/proxy/1993445467/1993445467.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视",黑龙江卫视
 http://dsj.motem.top:8880/bptv/10000100000000050000000003873470.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视",黑龙江卫视
-http://39.164.160.249:9901/tsfile/live/0143_1.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视",黑龙江卫视
 http://58.57.40.22:9901/tsfile/live/1040_1.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视",黑龙江卫视
-http://iptv.huuc.edu.cn/hls/hljhd.m3u8
+http://113.64.146.94:2024/hls/77/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视",黑龙江卫视
-http://123.10.79.62:808/hls/45/index.m3u8
+http://223.241.247.214:9901/tsfile/live/0143_1.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视",黑龙江卫视
+http://39.165.196.149:9003//hls/41/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视",黑龙江卫视
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225690/2/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视",黑龙江卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225586/2/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视",黑龙江卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225736/2/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视",黑龙江卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225690/2/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视_原双鸭山公共",黑龙江卫视_原双鸭山公共
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226532/index.m3u8?$HLJYD 4M FHD
 #EXTINF:-1 tvg-name="黑龙江卫视_原双鸭山公共",黑龙江卫视_原双鸭山公共
@@ -31338,8 +31162,6 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-name="黑龙江少儿",黑龙江少儿
 https://ls.qingting.fm/live/4972/64k.m3u8
 #EXTINF:-1 tvg-name="黑龙江少儿",黑龙江少儿
-http://112.99.193.34:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="黑龙江少儿",黑龙江少儿
 http://39.134.65.106/PLTV/88888888/224/3221225979/1.m3u8?
 #EXTINF:-1 tvg-name="黑龙江少儿",黑龙江少儿
 http://39.134.65.106/PLTV/88888888/224/3221226002/1.m3u8?
@@ -31366,10 +31188,6 @@ http://[2409:8087:1a01:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-name="黑龙江影视",黑龙江影视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
 #EXTINF:-1 tvg-name="黑龙江影视",黑龙江影视
-http://111.43.126.240:9003/hls/7/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江影视",黑龙江影视
-http://112.99.193.34:9901/tsfile/live/1025_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-name="黑龙江影视",黑龙江影视
 http://39.134.65.106/PLTV/88888888/224/3221225971/1.m3u8?
 #EXTINF:-1 tvg-name="黑龙江影视",黑龙江影视
 http://39.134.65.106/PLTV/88888888/224/3221225973/1.m3u8?
@@ -31395,8 +31213,6 @@ http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225965/index.m3u8
 http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
 #EXTINF:-1 tvg-name="黑龙江文体",黑龙江文体
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
-#EXTINF:-1 tvg-name="黑龙江文体",黑龙江文体
-http://112.99.193.34:9901/tsfile/live/1022_1.m3u8?
 #EXTINF:-1 tvg-name="黑龙江文体",黑龙江文体
 http://39.134.65.106/PLTV/88888888/224/3221225965/1.m3u8?
 #EXTINF:-1 tvg-name="黑龙江文体",黑龙江文体
@@ -31433,8 +31249,6 @@ https://ls.qingting.fm/live/4974/64k.m3u8
 http://satellitepull.cnr.cn/live/wx32hljxwgb/playlist.m3u8
 #EXTINF:-1 tvg-name="黑龙江新闻法治",黑龙江新闻法治
 https://satellitepull.cnr.cn/live/wx32hljxwgb/playlist.m3u8
-#EXTINF:-1 tvg-name="黑龙江新闻法治",黑龙江新闻法治
-http://112.99.193.34:9901/tsfile/live/1028_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="黑龙江都市",黑龙江都市
 http://39.134.65.106/PLTV/88888888/224/3221225969/1.m3u8?$HLJYDIP 8M FHD
 #EXTINF:-1 tvg-name="黑龙江都市",黑龙江都市
@@ -31457,10 +31271,6 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/1.m3u8
 #EXTINF:-1 tvg-name="黑龙江都市",黑龙江都市
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
-#EXTINF:-1 tvg-name="黑龙江都市",黑龙江都市
-http://111.43.126.240:9003/hls/9/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江都市",黑龙江都市
-http://112.99.193.34:9901/tsfile/live/1027_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="黑龙江都市",黑龙江都市
 http://39.134.65.106/PLTV/88888888/224/3221225969/1.m3u8?
 #EXTINF:-1 tvg-name="黑龙江都市",黑龙江都市
