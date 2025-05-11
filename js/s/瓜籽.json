@@ -1,6 +1,9 @@
 {
- "简介": "剧情介绍:+text-indent: 28px;margin-top: 10px;\">&&</div>",
- "播放链接": "https://www.guaziys.com/Play/+/Play/&&/",
- "分类url": "https://www.guaziys.com/Show/{cateId}-{area}--{class}-----{catePg}---{year}/",
+ "简介": "简介：</strong>&&</p>",
+ "图片": "data-src=\"&&\"",
+ "播放链接": "href=\"&&\"",
+ "二次播放链接": "data-video-url=\"&&\"",
+ "线路标题": "<div class=\"playerxq\">&&</h2>",
+ "分类url": "http://www.guaziyingyuan.com/Show/{cateId}-{area}--{class}-----{catePg}---{year}/",
  "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
 }

@@ -25,15 +25,15 @@ https://clun.top/api.json
 ```
 
 ```不知
-https://clun.top/js/aa.json
+https://clun.top/aa.json
 ```
 
 ```拾光
-https://clun.top/js/svip.json
+https://clun.top/svip.json
 ```
 
 ```真心
-https://clun.top/js/FongMi.json
+https://clun.top/FongMi.json
 ```
 
 </details>

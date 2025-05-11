@@ -1,17 +1,18 @@
 {
-// "请求头": "电脑",
+ "请求头": "电脑",
  "主页url": "https://www.keke1.app/",
  "标题": "class=\"v-item-title\">&&</div>",
  "副标题": "<span>&&<",
  "图片": "https+://vres1.ipvav.cn/vod1/+data-original=\"/vod1/&&\"",
  "数组": "<div class=\"module-item&&</a>",
  "链接": "href=\"&&\"",
-// "搜索二次截取": "<div class=\"search-result-list&&pagenation-box fs-margin-section",
+ "搜索二次截取": "<div class=\"form-box&&pagenation-box fs-margin-section",
  "搜索数组": "<div&&</div>",
- "搜索url": "https://www.keke1.app/search?os=pc&k={wd}",
+ "搜索请求头参数": "User-Agent$MOBILE_UA",
+ "搜索url": "'https://www.keke1.app/search?os=pc&k={wd}&t='<input&&value=\"&&\"/>",
  "搜索图片": "https+://vres1.ipvav.cn/vod1/+data-original=\"/vod1/&&\"",
  "搜索标题": "class=\"title\">&&</",
- "线路标题": "class=\"source-item-label\">&&</span>[不包含:4K(高峰不卡)]",
+ "线路标题": "class=\"source-item-label\">&&</span>[不包含:高峰不卡]",
  "分类": "电影$1#电视剧$2#动漫$3#综艺$4#短剧$6",
  "分类url": "https://www.keke1.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}.html"
 }

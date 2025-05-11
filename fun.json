@@ -6,6 +6,61 @@
    "api": "https://www.jingpinx.com/api.php/provide/vod/",
    "ext": "proxy"
   }, {
+   "key": "py_51吸瓜",
+   "name": "51吸瓜(T3)",
+   "type": 3,
+   "api": "./py//51吸瓜.py"
+  }, {
+   "key": "py_DSYS",
+   "name": "DSYS(T3)",
+   "type": 3,
+   "api": "https://gh.clun.top/raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/adult/DSYS.py"
+  }, {
+   "key": "py_Miss",
+   "name": "Miss(T3)",
+   "type": 3,
+   "api": "https://gh.clun.top/raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/adult/Miss.py"
+  }, {
+   "key": "py_Phb",
+   "name": "Phb(T3)",
+   "type": 3,
+   "api": "https://gh.clun.top/raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/adult/Phb.py"
+  }, {
+   "key": "py_Xhm",
+   "name": "Xhm(T3)",
+   "type": 3,
+   "api": "https://gh.clun.top/raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/adult/Xhm.py"
+  }, {
+   "key": "py_Xvd",
+   "name": "Xvd(T3)",
+   "type": 3,
+   "api": "https://gh.clun.top/raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/adult/Xvd.py"
+  }, {
+   "key": "py_lav",
+   "name": "lav(T3)",
+   "type": 3,
+   "api": "https://gh.clun.top/raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/adult/lavAPP.py"
+  }, {
+   "key": "py_推特",
+   "name": "推特(T3)",
+   "type": 3,
+   "api": "https://gh.clun.top/raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/adult/推特APP.py"
+  }, {
+   "key": "py_浴火社",
+   "name": "浴火社(T3)",
+   "type": 3,
+   "api": "https://gh.clun.top/raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/adult/浴火社APP.py"
+  }, {
+   "key": "py_花都",
+   "name": "花都(T3)",
+   "type": 3,
+   "api": "https://gh.clun.top/raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/adult/花都.py"
+  }, {
+   "key": "py_香蕉",
+   "name": "香蕉(T3)",
+   "type": 3,
+   "api": "https://gh.clun.top/raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/adult/香蕉.py"
+  }, {
    "key": "AIvin",
    "name": "AIvin",
    "type": 0,
@@ -55,6 +110,26 @@
    "filterable": 1,
    "jar": "https://gh.clun.top/raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
   }, {
+   "key": "百万破解AV",
+   "name": "百万破解",
+   "type": 3,
+   "api": "csp_XBPQ",
+   "jar": "./jar/XBPQ.jar",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 1,
+   "filterable": 1,
+   "timeout": 120,
+   "ext": "./js/ss/百万.json"
+  }, {
+   "key": "pronlulu",
+   "name": "pronlulu",
+   "type": 3,
+   "api": "csp_XBPQ",
+   "timeout": 120,
+   "jar": "./lib/XBPQ.jar",
+   "ext": "./js/ss/pronlulu.json"
+  }, {
    "key": "玩偶",
    "name": "玩偶姐姐",
    "type": 3,
@@ -96,15 +171,6 @@
    "filterable": 1,
    "ext": "https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb3d0QlVrR3NRUExwRmRvQzB6bUdZek5GN1Ry.txt",
    "jar": "https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb3d0QlVrR3NRUExsQzF4dE9XemY5dFFjYVIt.jar"
-  }, {
-   "key": "麻豆视频",
-   "name": "麻豆视频",
-   "type": 1,
-   "api": "https://91md.me/api.php/provide/vod/",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "proxy"
   }, {
    "key": "lav",
    "name": "lav",
@@ -159,6 +225,15 @@
    "quickSearch": 1,
    "filterable": 0,
    "changeable": 0,
+   "ext": "proxy"
+  }, {
+   "key": "麻豆视频",
+   "name": "麻豆视频",
+   "type": 1,
+   "api": "https://91md.me/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
    "ext": "proxy"
   }, {
    "key": "淫水机资源站",
@@ -275,6 +350,26 @@
    "changeable": 1,
    "filterable": 0,
    "timeout": 60
+  }, {
+   "key": "kissavtv.com",
+   "name": "kissav",
+   "type": 3,
+   "changeable": 1,
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "api": "csp_XBPQ",
+   "jar": "./lib/XBPQ.jar",
+   "ext": "./js/ss/kisd.json"
+  }, {
+   "key": "奥斯卡",
+   "name": "奥斯卡资源",
+   "type": 1,
+   "api": "https://aosikazy.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "proxy"
   }, {
    "key": "白嫖",
    "name": "白嫖采集",

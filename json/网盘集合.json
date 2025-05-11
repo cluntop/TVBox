@@ -1,0 +1,4654 @@
+[
+  {
+    "share_index": "个人网盘",
+    "share_name": "115盘",
+    "share_id": "self",
+    "share_type":"115"
+  },
+  {
+    "share_index": "豆瓣",
+    "share_name": "TOP250电影_1.67TB",
+    "share_id": "swz93883nhj",
+    "share_pwd": "sa53",
+    "share_type": "115"
+  },
+  {
+    "share_index": "豆瓣",
+    "share_name": "TOP250电影_12.65Tb",
+    "share_id": "swz8h1h33xj",
+    "share_pwd": "0000",
+    "share_type": "115"
+  },
+  {
+    "share_index": "演唱会",
+    "share_name": "演唱会原盘_820T",
+    "share_id": "swz18wn3zh9",
+    "share_pwd": "yf61",
+    "share_type": "115"
+  },
+  {
+    "share_index": "演唱会",
+    "share_name": "演唱会_蓝光原盘22TB",
+    "share_id": "sw6udf93wcx",
+    "share_pwd": "na63",
+    "share_type": "115"
+  },
+  {
+    "share_index": "演唱会",
+    "share_name": "演唱会_重编码6TB",
+    "share_id": "swzg9pt3wye",
+    "share_pwd": "c899",
+    "share_type": "115"
+  },
+  {
+    "share_index": "演唱会",
+    "share_name": "1080P港台演唱会【2.55T】",
+    "share_id": "swz6sow3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "演唱会",
+    "share_name": "演唱会【13T】",
+    "share_id": "swz6si63fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "REMUX",
+    "share_name": "2267部2160p_remux_FGT_101.32TB",
+    "share_id": "swz9yva3hi8",
+    "share_pwd": "m332",
+    "share_type": "115"
+  },
+  {
+    "share_index": "REMUX",
+    "share_name": "4K_REMUX_774部_41.16T",
+    "share_id": "sw6e6ij3flt",
+    "share_pwd": "t055",
+    "share_type": "115"
+  },
+  {
+    "share_index": "REMUX",
+    "share_name": "4K_REMUX电影2257部",
+    "share_id": "swz6gd93fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "REMUX",
+    "share_name": "969部部欧美4K原盘电影_45.03T",
+    "share_id": "swzn5913wzq",
+    "share_pwd": "nbc5",
+    "share_type": "115"
+  },
+  {
+    "share_index": "REMUX",
+    "share_name": "无损REMUX电影_101.32TB",
+    "share_id": "swzzmu33hi8",
+    "share_pwd": "i5e0",
+    "share_type": "115"
+  },
+  {
+    "share_index": "原盘",
+    "share_name": "蓝光原盘_666.3Pb",
+    "share_id": "sw68b0u3hhq",
+    "share_pwd": "gd41",
+    "share_type": "115"
+  },
+  {
+    "share_index": "原盘",
+    "share_name": "蓝光原盘_646T_合集",
+    "share_id": "swz6gp53fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "原盘",
+    "share_name": "sGNB特效字幕原盘_313部_21.18T",
+    "share_id": "sw620dv3wzn",
+    "share_pwd": "e536",
+    "share_type": "115"
+  },
+  {
+    "share_index": "原盘",
+    "share_name": "sGNB特效字幕原盘_315部_21.52T",
+    "share_id": "sw6u87633jp",
+    "share_pwd": "u527",
+    "share_type": "115"
+  },
+  {
+    "share_index": "原盘",
+    "share_name": "UHD原盘iso_145.3TB",
+    "share_id": "swhbs4r3zh9",
+    "share_pwd": "ec38",
+    "share_type": "115"
+  },
+  {
+    "share_index": "原盘",
+    "share_name": "4K原盘_16.94T",
+    "share_id": "sw6e6i13flt",
+    "share_pwd": "f794",
+    "share_type": "115"
+  },
+  {
+    "share_index": "原盘",
+    "share_name": "CMCT迷你蓝光原盘_2.81T",
+    "share_id": "sw3uax136w4",
+    "share_pwd": "eea6",
+    "share_type": "115"
+  },
+  {
+    "share_index": "原盘",
+    "share_name": "港片蓝光原盘669部_16.3T",
+    "share_id": "sw69nao3h3b",
+    "share_pwd": "a548",
+    "share_type": "115"
+  },
+  {
+    "share_index": "原盘",
+    "share_name": "剧集原盘_23.3T",
+    "share_id": "swnmisp3wxf",
+    "share_pwd": "i1c6",
+    "share_type": "115"
+  },
+  {
+    "share_index": "原盘",
+    "share_name": "动漫原盘_40.49T",
+    "share_id": "swznmd03nc7",
+    "share_pwd": "p897",
+    "share_type": "115"
+  },
+  {
+    "share_index": "原盘",
+    "share_name": "SGNB特效字幕蓝光原盘563部_26.52TB",
+    "share_id": "sw313rp3zx1",
+    "share_pwd": "w146",
+    "share_type": "115"
+  },
+  {
+    "share_index": "原盘",
+    "share_name": "FRDS站396部_8.87TB",
+    "share_id": "swzg3ja33xj",
+    "share_pwd": "f3h5",
+    "share_type": "115"
+  },
+  {
+    "share_index": "原盘",
+    "share_name": "香港电影_香港蓝光高清粤语电影合集1242部_(16T)",
+    "share_id": "sw6ug2k3nom",
+    "share_pwd": "t7d0",
+    "share_type": "115"
+  },
+  {
+    "share_index": "原盘",
+    "share_name": "3D电影_68.26T",
+    "share_id": "sw62cfo3z23",
+    "share_pwd": "ze90",
+    "share_type": "115"
+  },
+  {
+    "share_index": "大包",
+    "share_name": "FRDS电视剧大包",
+    "share_id": "swzm4z63697",
+    "share_pwd": "6688",
+    "share_type": "115"
+  },
+  {
+    "share_index": "大包",
+    "share_name": "2.24pb大包",
+    "share_id": "swzew4m3nc6",
+    "share_pwd": "i0d7",
+    "share_type": "115"
+  },
+  {
+    "share_index": "大包",
+    "share_name": "1.6pb大合集",
+    "share_id": "swzawra3zx1",
+    "share_pwd": "scf1",
+    "share_type": "115"
+  },
+  {
+    "share_index": "电影",
+    "share_name": "电影频道3300部_16.33T",
+    "share_id": "swz3ys93wzv",
+    "share_pwd": "rc12",
+    "share_type": "115"
+  },
+  {
+    "share_index": "电影",
+    "share_name": "亚洲1080P_9.33T",
+    "share_id": "swnrb3b3nat",
+    "share_pwd": "pd76",
+    "share_type": "115"
+  },
+  {
+    "share_index": "电影",
+    "share_name": "多部曲电影系列_21TB",
+    "share_id": "swz8hp033xj",
+    "share_pwd": "0000",
+    "share_type": "115"
+  },
+  {
+    "share_index": "电影",
+    "share_name": "未分类电影_4.65TB",
+    "share_id": "swzj12t3znw",
+    "share_pwd": "tff8",
+    "share_type": "115"
+  },
+  {
+    "share_index": "电影",
+    "share_name": "未分类电影_1620TB",
+    "share_id": "sw6uh9x3z2b",
+    "share_pwd": "6666",
+    "share_type": "115"
+  },
+  {
+    "share_index": "电影",
+    "share_name": "大陆电影_6TB",
+    "share_id": "swzgep23wye",
+    "share_pwd": "c106",
+    "share_type": "115"
+  },
+  {
+    "share_index": "电影",
+    "share_name": "日韩电影_6TB",
+    "share_id": "swzg8dd3wye",
+    "share_pwd": "m5b3",
+    "share_type": "115"
+  },
+  {
+    "share_index": "排行",
+    "share_name": "豆瓣2022影视排行榜_1.51T",
+    "share_id": "sw60fyp33eb",
+    "share_pwd": "lcd6",
+    "share_type": "115"
+  },
+  {
+    "share_index": "排行",
+    "share_name": "2021豆瓣年度影视榜单_832.64G",
+    "share_id": "sw6tco83hbe",
+    "share_pwd": "v517",
+    "share_type": "115"
+  },
+  {
+    "share_index": "排行",
+    "share_name": "2022必看最热门影视剧十部_620.84G",
+    "share_id": "sw6tcot3hbe",
+    "share_pwd": "e9d7",
+    "share_type": "115"
+  },
+  {
+    "share_index": "欧美电影",
+    "share_name": "合集_22TB",
+    "share_id": "swzplko3wye",
+    "share_pwd": "k596",
+    "share_type": "115"
+  },
+  {
+    "share_index": "欧美电影",
+    "share_name": "漫威宇宙系列_1.87TB",
+    "share_id": "swzj2cx3h4y",
+    "share_pwd": "g180",
+    "share_type": "115"
+  },
+  {
+    "share_index": "欧美电影",
+    "share_name": "指环王系列_300GB",
+    "share_id": "swz936a3znw",
+    "share_pwd": "a0d3",
+    "share_type": "115"
+  },
+  {
+    "share_index": "欧美电影",
+    "share_name": "变形金刚_500GB",
+    "share_id": "swz93n63z57",
+    "share_pwd": "dda3",
+    "share_type": "115"
+  },
+  {
+    "share_index": "剧集",
+    "share_name": "TVB电视剧合集650部_74.3T",
+    "share_id": "sw6tco93hbe",
+    "share_pwd": "ka54",
+    "share_type": "115"
+  },
+  {
+    "share_index": "剧集",
+    "share_name": "欧美剧_60.9T",
+    "share_id": "swznm373w1p",
+    "share_pwd": "pe35",
+    "share_type": "115"
+  },
+  {
+    "share_index": "剧集",
+    "share_name": "海贼王_553.61G",
+    "share_id": "swnsdrk3h2m",
+    "share_pwd": "p783",
+    "share_type": "115"
+  },
+  {
+    "share_index": "剧集",
+    "share_name": "皇家师姐系列",
+    "share_id": "swntmxc3wp6",
+    "share_pwd": "a3f5",
+    "share_type": "115"
+  },
+  {
+    "share_index": "剧集",
+    "share_name": "火影忍者全集_455.42G",
+    "share_id": "swnsdrm3h2m",
+    "share_pwd": "fea2",
+    "share_type": "115"
+  },
+  {
+    "share_index": "剧集",
+    "share_name": "老友记全十季_594.26G",
+    "share_id": "swzn9y13zwh",
+    "share_pwd": "crow",
+    "share_type": "115"
+  },
+  {
+    "share_index": "剧集",
+    "share_name": "柯南_766.64G",
+    "share_id": "sw6q9w833o2",
+    "share_pwd": "a956",
+    "share_type": "115"
+  },
+  {
+    "share_index": "剧集",
+    "share_name": "迷失1-6季_203.3G",
+    "share_id": "sw6p2t63h2m",
+    "share_pwd": "oea1",
+    "share_type": "115"
+  },
+  {
+    "share_index": "剧集",
+    "share_name": "甜蜜家园_Season_3",
+    "share_id": "swz826g3nc0",
+    "share_pwd": "ff47",
+    "share_type": "115"
+  },
+  {
+    "share_index": "剧集",
+    "share_name": "行尸走肉全季杜比",
+    "share_id": "swztlnh33xj",
+    "share_pwd": "f3h5",
+    "share_type": "115"
+  },
+  {
+    "share_index": "香港",
+    "share_name": "GOTV_10.46TB",
+    "share_id": "swz6fb3369v",
+    "share_pwd": "9999",
+    "share_type": "115"
+  },
+  {
+    "share_index": "香港",
+    "share_name": "合集8.23TB",
+    "share_id": "swzsehq3ncb",
+    "share_pwd": "5566",
+    "share_type": "115"
+  },
+  {
+    "share_index": "香港",
+    "share_name": "杜琪峰(银河映像系列)",
+    "share_id": "swz9lr83w8f",
+    "share_pwd": "oc53",
+    "share_type": "115"
+  },
+  {
+    "share_index": "香港",
+    "share_name": "成龙",
+    "share_id": "swzdtjc3nb4",
+    "share_pwd": "ef97",
+    "share_type": "115"
+  },
+  {
+    "share_index": "香港",
+    "share_name": "林正英电影合集46部_209.13G",
+    "share_id": "sw30v4b3zu2",
+    "share_pwd": "a429",
+    "share_type": "115"
+  },
+  {
+    "share_index": "香港",
+    "share_name": "满清十大酷刑第一部",
+    "share_id": "swz8cd233xj",
+    "share_pwd": "0000",
+    "share_type": "115"
+  },
+  {
+    "share_index": "香港",
+    "share_name": "周星驰系列_854.96G",
+    "share_id": "sw6gqo43flt",
+    "share_pwd": "qc62",
+    "share_type": "115"
+  },
+  {
+    "share_index": "香港",
+    "share_name": "周星驰",
+    "share_id": "swzdtj93nb4",
+    "share_pwd": "d6c3",
+    "share_type": "115"
+  },
+  {
+    "share_index": "日韩剧",
+    "share_name": "合集18.12TB",
+    "share_id": "swzv6533697",
+    "share_pwd": "2618",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "合集_51.41TB",
+    "share_id": "swzah0d3wvk",
+    "share_pwd": "c142",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【繁花_翡翠台源_100GB】",
+    "share_id": "swz8t9x3h5k",
+    "share_pwd": "n3f4",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【唐朝诡事录_全2季】",
+    "share_id": "swz93y53zp0",
+    "share_pwd": "ef25",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【陈情令】_(2019)_50集全_4K中字【86G】",
+    "share_id": "sw6u7zc3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【隐秘的角落】(2020)_12集全_4K中字【69G】",
+    "share_id": "sw6u7ep3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【庆余年】(2019)_46集全_4K中字【62G】",
+    "share_id": "sw6u78w3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【沉默的真相】(2020)_12集全_4K中字【17G】",
+    "share_id": "sw6u79l3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【斗罗大陆】(2021)_40集全_1080P中字【46G】",
+    "share_id": "sw6u79p3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【开端】(2022)_15集全_4K中字【58G】",
+    "share_id": "sw6u72q3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【狂飙】(2023)_39集全_4K中字【77G】",
+    "share_id": "sw6u72m3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【漫长的季节】(2023)_12集全_4K中字【36G】",
+    "share_id": "sw6u7u33fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【梦华录】(2022)_40集全_4K中字【148G】",
+    "share_id": "sw6ukxa3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【琅琊榜】(2015)_54集全_4K中字【80G】",
+    "share_id": "sw6uil53fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【苍兰诀】(2022)_36集全_4K中字【42G】",
+    "share_id": "sw6u42s3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【后宫·甄嬛传】(2011)_76集全_4K中字【490G】",
+    "share_id": "sw6u42b3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【山河令】36集全_4K中字【87G】",
+    "share_id": "sw6ugfa3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【沉香如屑·沉香重华】_(2022)_59集全_4K中字【125G】",
+    "share_id": "sw6ugfj3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【星汉灿烂·月升沧海】56集全_4K画质【71G】",
+    "share_id": "sw6ugl73fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【武林外传】(2006)_81集全_4K中字【104GB】",
+    "share_id": "sw6ugoj3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【白夜追凶】(2017)_32集全_4K中字【257G】",
+    "share_id": "sw6ugkc3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【知否知否应是绿肥红瘦】(2018)_73集全_4K中字【119G】",
+    "share_id": "sw6utz93fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【莲花楼】(2023)_40集全_4K中字【52G】",
+    "share_id": "sw6utfi3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【香蜜沉沉烬如霜】(2018)_60集全_4K中字【119G】",
+    "share_id": "sw6utft3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【觉醒年代】(2021)_43集全_4K中字【86G】",
+    "share_id": "sw6utts3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【长安十二时辰】(2019)_48集全_4K中字【46G】",
+    "share_id": "sw6ut8p3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【你是我的荣耀】(2021)_32集全_4K中字【41G】",
+    "share_id": "sw6ut8j3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【亲爱的，热爱的】(2019)_41集全_4K中字【59G】",
+    "share_id": "sw6ujon3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【人民的名义】(2017)_55集全_4K中字【118G】",
+    "share_id": "sw6u0rm3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【三体】(2023)_4K中字【21G】",
+    "share_id": "sw6u0px3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【我的人间烟火】(2023)_40集全_1080P中字【45G】",
+    "share_id": "sw6u0tb3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【山海情】(2021)_4K中字【33G】",
+    "share_id": "sw6u01o3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【你微笑时很美】(2021)_31集全_4K中字【54G】",
+    "share_id": "sw6u01x3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【延禧攻略】(2018)_70集全_4K中字【123G】",
+    "share_id": "sw6uupp3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【有翡】_(2020)_51集全_1080P中字【72G】",
+    "share_id": "sw6uujx3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【最好的我们】(2016)_24集全_4K中字【24G】",
+    "share_id": "sw6uu063fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【风吹半夏】(2022)_36集全_4K中字【77G】",
+    "share_id": "swz36yf3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【余生，请多指教】(2022)_29集全_1080P种子【15G】",
+    "share_id": "swz36ye3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【传闻中的陈芊芊】(2020)_24集全_4K中字【29G】",
+    "share_id": "swz36yt3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【扫黑风暴】(2021)_28集全_1080P中字【31G】",
+    "share_id": "swz36ka3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【狼殿下】(2020)_49集全_4K中字【88G】",
+    "share_id": "swz36dx3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【仙剑奇侠传三】(2009)_37集全_4K中字【137G】",
+    "share_id": "swz36m63fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【长相思】(2023)_39集全_4K中字【38G】",
+    "share_id": "swz36me3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【锦衣之下】(2019)_55集全_4K中字【80G】",
+    "share_id": "swz36m03fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【琉璃】(2020)_59集全_4K中字【194G】",
+    "share_id": "swz365l3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【长月烬明】(2023)_40集全_4K中字【95G】",
+    "share_id": "swz36543fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【都挺好】(2019)_46集全_4K中字【84G】",
+    "share_id": "swz365x3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【龙岭迷窟】(2020)_18集全_4K中字【21G】",
+    "share_id": "swz36v63fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【父母爱情】(2014)_44集全_4K中字【61G】",
+    "share_id": "swz3hop3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【御赐小仵作】(2021)_20集36集双版本_1080P【101G】",
+    "share_id": "swz3hks3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【仙剑奇侠传】34集全_1080P中字【24G】",
+    "share_id": "swz3hk73fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【三生三世枕上书】(2020)_56集全_4K中字【82G】",
+    "share_id": "swz3hkj3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【三生三世十里桃花】(2017)_58集全_4K中字【146G】",
+    "share_id": "swz3h5j3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【伪装者】(2015)_41集全_4K中字【43G】",
+    "share_id": "swz3sf73fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【4K修复】【西游记+续集】【218G】",
+    "share_id": "swz3sf43fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【猎罪图鉴】（2022）全20集_4K中字",
+    "share_id": "swz3sfv3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【长歌行】(2021)_49集全_1080P中字【66G】",
+    "share_id": "swz3slh3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【爱情公寓】1-5季_全集+番外篇+大电影_4K中字【203G】",
+    "share_id": "swz3s4x3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【小欢喜】(2019)_49集全_4K中字【75G】",
+    "share_id": "swz3s403fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【重启之极海听雷】第一季_(2020)_4K中字【172G】",
+    "share_id": "swz3skd3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【重启之极海听雷】第二季_(2020)_4K中字【42G】",
+    "share_id": "swz3skm3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【摩天大楼】(2020)_16集全_4K中字【62G】",
+    "share_id": "swz3sdn3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【无证之罪】(2017)_12集全_4K中字【17G】",
+    "share_id": "swz3sde3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【如懿传】(2018)_87集全_1080P中字【194G】",
+    "share_id": "swz3smy3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【步步惊心】(2011)_35集全_4K中字【101G】",
+    "share_id": "swz3sai3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【我是余欢水】(2020)_12集全_4K中字【77G】",
+    "share_id": "swz3sag3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【去有风的地方】(2023)_40集全_4K中字【101G】",
+    "share_id": "swz3spn3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【梦中的那片海】(2023)_38集全_4K中字【24G】",
+    "share_id": "swz3lbp3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【欢乐颂】1-4季_1080P中字【156G】",
+    "share_id": "swz3lob3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【棋魂】(2020)_36集全_4K中字【210G】",
+    "share_id": "swz3lok3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【叛逆者】(2021)_43集全_4K中字【49G】",
+    "share_id": "swz3qos3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【以家人之名】(2020)_40集全_1080P中字【47G】",
+    "share_id": "swz3qas3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【唐人街探案】(2020)_12集全_4K中字【18G】",
+    "share_id": "swz3bge3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【警察荣誉】38集全_4K中字【57G】",
+    "share_id": "swz6syq3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【三十而已】(2020)_43集全_1080P中字【41G】",
+    "share_id": "swz6sk93fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【玉骨遥】40集全_4K中字【60G】",
+    "share_id": "swz6sdq3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【爱很美味】(2021)_20集全_4K中字【8.6G】",
+    "share_id": "swz6sd73fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【司藤】30集全_4K中字【74G】",
+    "share_id": "swz6smb3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【赘婿】36集全_4K中字【54G】",
+    "share_id": "swz6smv3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【终极笔记】(2020)_36集全_4K中字【178G】",
+    "share_id": "swz6s5n3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【人世间】(2022)_58集全_4K中字【63G】",
+    "share_id": "swz6s5l3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【周生如故】(2021)_24集全_1080P中字【15G】",
+    "share_id": "swz6s5e3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【战长沙】(2014)_32集全_1080P中字【111G】",
+    "share_id": "swz6s2r3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【你好，旧时光】(2017)_30集全_4K中字【80G】",
+    "share_id": "swz6lz23fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【风起洛阳】(2021)_39集全_4K中字【43G】",
+    "share_id": "swz6lhb3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【潜伏】(2008)_30集全_4K中字【41G】",
+    "share_id": "swz6lfp3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【东宫】(2019)_52集全_4K中字【119G】",
+    "share_id": "swz6ls73fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【幸福到万家】(2022)_40集全_4K中字【64G】",
+    "share_id": "swz6lsc3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【红楼梦】(1987)_36集全_4K中字【42G】",
+    "share_id": "swz6lql3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【还珠格格】1-3季全_1080P中字【141G】",
+    "share_id": "swz6lqe3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【鬼吹灯之精绝古城】(2016)_21集全_1080P中字【16G】",
+    "share_id": "swz6l753fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【亮剑】(2005)_30集全_4K中字【35G】",
+    "share_id": "swz6liq3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【大宋少年志】1-2季全_4K中字【139G】",
+    "share_id": "swz6lic3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【唐朝诡事录】(2022)_36集全_4K中字【51G】",
+    "share_id": "swz6l453fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【卿卿日常】(2022)_40集全_4K中字【79G】",
+    "share_id": "swz6l483fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【微微一笑很倾城】(2016)_30集全_1080P中字【22G】",
+    "share_id": "swz6lkf3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【爱情公寓】1-5季+番外1-3季_4K中字【200G】",
+    "share_id": "swz6lmu3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【宸汐缘】(2019)_60集全_4K中字【96G】",
+    "share_id": "swz6l5a3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【大明王朝1566】(2007)_46集全_1080P中字【30G】",
+    "share_id": "swz6lve3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【河神】1-2季全_4K中字【51G】",
+    "share_id": "swz6lew3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【大江大河】(2018)_47集全_4K中字【52G】",
+    "share_id": "swz6lar3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【女心理师】(2021)_40集全_4K中字【68G】",
+    "share_id": "swz6lpo3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【大明王朝1566】(2007)_46集全_4K中字【250G】",
+    "share_id": "swz6lus3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【我在他乡挺好的】(2021)_12集全_1080P中字【30G】",
+    "share_id": "swz6b2y3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【余罪】1-2季全_1080P中字【19.5G】",
+    "share_id": "swz6o6q3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【士兵突击】(2006)_30集全_4K中字【45G】",
+    "share_id": "swz6ooq3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【天盛长歌】(2018)_70集全_4K中字【132G】",
+    "share_id": "swz6oyp3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【与君初相识·恰似故人归】(2022)_42集全_4K中字【101G】",
+    "share_id": "swz6k9q3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "国产剧",
+    "share_name": "【谁是凶手】(2021)_16集全_4K中字【18G】",
+    "share_id": "swz6doo3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "_冰与火之歌：权力的游戏【1-8季全1.31TB】",
+    "share_id": "swz3qvq3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【冰与火之歌：权力的游戏】1-8季全_4K中字杜比视界【1.85T】",
+    "share_id": "sw6uoem3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【神探夏洛克】1-4季全_1080P中字【78G】",
+    "share_id": "sw6u7iy3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【绝命毒师】1-5季全_4K中字【209G】",
+    "share_id": "sw6uotq3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【怪奇物语】1-4季_4K中字【255G】",
+    "share_id": "sw6u7n93fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【老友记】1-10季全_1080P中字【209G】",
+    "share_id": "sw6u7y83fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【生活大爆炸】1-12季全_1080P中字【258G】",
+    "share_id": "sw6u75u3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【行尸走肉】1-11季全_1080P中字【585G】",
+    "share_id": "sw6u7es3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【行尸走肉】1-11季全_REMUX【1.27TB】",
+    "share_id": "swztlnh33xj",
+    "share_pwd": "f3h5",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【切尔诺贝利】5集全_1080P中字【13G】",
+    "share_id": "sw6u7tp3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【黑镜】1-6季全_4K中字【144G】",
+    "share_id": "sw6u78c3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【后翼弃兵】(2020)_7集全_4K中字【57G】",
+    "share_id": "sw6u79h3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【越狱】1-5季全+特别篇_1080P中字【182G】",
+    "share_id": "sw6uify3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【真探】1-3季全_1080P中字【29G】",
+    "share_id": "sw6u4vy3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【嗜血法医】1-9季全_1080P中字【246G】",
+    "share_id": "sw6u4j73fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【黑袍纠察队】1-3季_4K中字【182G】",
+    "share_id": "sw6u4963fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【风骚律师】1-6季全_4K中字【275G】",
+    "share_id": "sw6u41k3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【纸牌屋】1-6季全_4K中字【284G】",
+    "share_id": "sw6u4c93fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【浴血黑帮】1-6季全_4K中字【162G】",
+    "share_id": "sw6u42n3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【曼达洛人】1-3集全_4K中字【136G】",
+    "share_id": "sw6u42v3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【迷失】1-6季全_1080P中字【108G】",
+    "share_id": "swzjpfq3wrb",
+    "share_pwd": "s8f0",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【猎魔人】1-3季_4K中字【139G】",
+    "share_id": "sw6uakw3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【性爱自修室】1-4季_4K中字【193G】",
+    "share_id": "sw6uakm3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【最后生还者】第一季_4K中字【67G】",
+    "share_id": "sw6uadf3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "_【致命女人】1-2季_1080P中字【29G】",
+    "share_id": "sw6uadk3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【西部世界】1-4季_4K中字【445G】",
+    "share_id": "sw6uaji3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【办公室】1-9季全_1080P中字【200G】",
+    "share_id": "sw6ua2t3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【老爸老妈的浪漫史】1-9季全_1080P中字【273G】",
+    "share_id": "sw6ug3k3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【兄弟连】10集全_1080P中字【177.6G】",
+    "share_id": "swzj8g33wrb",
+    "share_pwd": "z6d8",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【太平洋战争】10集全_1080P中字【122G】",
+    "share_id": "swzj8au3wrb",
+    "share_pwd": "i050",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【维京传奇】1-6季全_1080P中字【137G】",
+    "share_id": "sw6ugsb3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【旺达幻视】9集全_4K中字【46G】",
+    "share_id": "sw6ugln3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【摩登家庭】1-11季_1080P中字【298G】",
+    "share_id": "sw6ug5r3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【纸钞屋】1-5季全_1080P中字【46G】",
+    "share_id": "sw6up8u3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【毒枭】1-3季全_4K中字【180G】",
+    "share_id": "sw6upun3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【去他的世界】1-2季_4K中字【35G】",
+    "share_id": "sw6utzo3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【暗黑】1-3季全_4K中字【69G】",
+    "share_id": "sw6uty43fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【夜魔侠】1-3季全_4K中字【204G】",
+    "share_id": "sw6uttz3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【洛基】第一季_4K中字【22G】",
+    "share_id": "sw6ujls3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【星期三】第一季_4K中字【33G】",
+    "share_id": "sw6ujoa3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【豪斯医生】1-8季全_1080P中字【222G】",
+    "share_id": "sw6uxg53fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【迷离时空(原版)】1-5季全_1080P中字【308G】",
+    "share_id": "sw6u0df3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【邪恶力量】1-15季全_1080P中字【1006G】",
+    "share_id": "sw6u0m73fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【冰血暴】1-4季全_1080P中字【65G】",
+    "share_id": "sw6u0mu3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【龙之家族】第一季_4K中字【25G】",
+    "share_id": "sw6u0v73fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【美国恐怖故事】1-11季_1080P中字【306G】",
+    "share_id": "sw6u0gx3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【黑客军团】1-4季全_1080P中字【32G】",
+    "share_id": "sw6u0tv3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【国土安全】1-8季全_1080P中字【132G】",
+    "share_id": "sw6u0xb3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【唐顿庄园】1-6季全_1080P中字【82G】",
+    "share_id": "sw6uup63fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【指环王：力量之戒】第一季[全8集]4K中字【74G】",
+    "share_id": "sw6uup03fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【心灵猎人】1-2季_4K中字【119G】",
+    "share_id": "sw6uu1g3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【伦敦生活】1-2季全_4K中字【28G】",
+    "share_id": "sw6uuc23fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【破产姐妹】1-6季全_1080P中字【87G】",
+    "share_id": "swz36ki3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【月光骑士】6集全_4K中字【32G】",
+    "share_id": "swz36mo3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【路西法】1-6季全_1080P中字【112G】",
+    "share_id": "swz36vd3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【使女的故事】1-5季全_1080P中字【62G】",
+    "share_id": "swz36e73fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【黑钱胜地】1-4季_4K中字【200G】",
+    "share_id": "swz36ah3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【十三个原因】1-4季全_4K中字【523G】",
+    "share_id": "swz3h4i3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【大小谎言】1-2季全_1080P中字【21G】",
+    "share_id": "swz3hyk3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【汉尼拔】1-3季全_1080P中字【59G】",
+    "share_id": "swz3hmf3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【宋飞正传】1-9季全_4K中字【488G】",
+    "share_id": "swz3h543fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【亢奋】1-2季_4K中字【205G】",
+    "share_id": "swz3hed3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【无耻之徒】1-11季全_1080P中字【201G】",
+    "share_id": "swz3hak3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【东城梦魇】(2021)_7集全_1080P中字【11G】",
+    "share_id": "swz3hg43fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【鬼庄园】(2020)_9集全_4K中字【23G】",
+    "share_id": "swz3swd3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【鬼入侵】(2018)_10集全_4K中字【20G】",
+    "share_id": "swz3sw73fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【足球教练】1-3季_1080P中字【34G】",
+    "share_id": "swz3sfn3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【你】1-4季_1080P中字【118G】",
+    "share_id": "swz3sbi3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【我们这一天】1-6季_1080P中字【101G】",
+    "share_id": "swz3s4m3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【混乱之子】1-7季_1080P中字【172G】",
+    "share_id": "swz3sv73fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【猎鹰与冬兵】(2021)_6集全_4K中字【21G】",
+    "share_id": "swz3svt3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【废柴联盟】1-6季_4K中字【260G】",
+    "share_id": "swz3se13fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【绯闻女孩】1-6季_1080P中字【109G】",
+    "share_id": "swz3lbz3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【疑犯追踪】1-5季_1080P中字【145G】",
+    "share_id": "swz3lo83fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【超能英雄】1-4季_1080P中字【115G】",
+    "share_id": "swz3lia3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【犯罪心理】1-16季全_1080P中字【395G】",
+    "share_id": "swz3qb83fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【广告狂人】1-7季全_1080P中字【373G】",
+    "share_id": "swz3q5s3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【伞学院】1-3季_4K中字【201G】",
+    "share_id": "swz3qek3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【人生切割术】第一季_(2022)_4K中字【75G】",
+    "share_id": "swz3qe03fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【危机边缘】1-5季_1080P中字【90G】",
+    "share_id": "swz3qgz3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【萤火虫】(2002)_14集全_1080P中字【37G】",
+    "share_id": "swz3qgq3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【斯巴达克斯】1-4季_1080P中字【491G】",
+    "share_id": "swz3ba63fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【哥谭】1-5季_1080P蓝光原盘中字【720G】",
+    "share_id": "swz3bxo3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【黑道家族】1-6季全_1080P中字【169G】",
+    "share_id": "swz6zsv3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【闪电侠】1-9季全_1080P中字【180G】",
+    "share_id": "swz6zlm3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【实习医生格蕾】1-19季全_1080P中字【1.03T】",
+    "share_id": "swz6wjj3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【女子监狱】1-7季全_1080P中字【188G】",
+    "share_id": "swz6fff3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【杀死伊芙】1-4季_1080P中字【23G】",
+    "share_id": "swz6ff83fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【神盾局特工】1-7季_1080P中字【124G】",
+    "share_id": "swz6fs73fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【火线】1-5季全_1080P中字【61G】",
+    "share_id": "swz6fld3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【继承之战】1-4季_4K外挂中字【368G】",
+    "share_id": "swz6s4a3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【公园与游憩】1-7季全_1080P中字【255G】",
+    "share_id": "swz6sy63fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【真爱如血】1-7季全_1080P中字【142G】",
+    "share_id": "swz6skk3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【超感猎杀】1-2季_4K中字【126G】",
+    "share_id": "swz6sd63fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【白莲花度假村】1-2季_1080P中字【48G】",
+    "share_id": "swz6sdr3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【千谎百计】1-3季全_1080P中字【125G】",
+    "share_id": "swz6s553fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【神秘博士】1-13季全_1080P中字【324G】",
+    "share_id": "swz6lny3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【X档案】1-11季+电影版两部_1080P中字【143G】",
+    "share_id": "swz6lww3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【鹰眼】(2021)_6集全_4K中字【43G】",
+    "share_id": "swz6lff3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【IT狂人】1-4季全_标清中字【20G】",
+    "share_id": "swz6lbk3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【无人生还】(2015)_3集全_1080P中字【14G】",
+    "share_id": "swz6lb03fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【童话镇】1-7季_720P中字【72G】",
+    "share_id": "swz6l7f3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【欧比旺】(2022)_6集全_4K中字【36G】",
+    "share_id": "swz6lyi3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【黄石】1-5季_4K中字【更新中】",
+    "share_id": "swz6lmm3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【双峰】1-3季_1080P中字【106G】",
+    "share_id": "swz6lee3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【杰西卡·琼斯】1-3季_1080P中字【139G】",
+    "share_id": "swz6lgx3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【怒呛人生】(2023)_10集全_4K中字【30G】",
+    "share_id": "swz6lpz3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【绝望主妇】1-8季_720P中字【71G】",
+    "share_id": "swz6lp23fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【绝望主妇】1-8季_1080P中字【300G】",
+    "share_id": "swz6ltu3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【地球百子】1-7季全_1080P中字【206G】",
+    "share_id": "swz6l033fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【杰茜驾到】1-7季全_1080P中字【194G】",
+    "share_id": "swz6b1z3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【正常人】(2020)_12集全_1080P中字【9.23G】",
+    "share_id": "swz6b1r3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【大西洋帝国】1-5季_1080P中字【122G】",
+    "share_id": "swz6bcn3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【小谢尔顿】1-6季_1080P中字【85G】",
+    "share_id": "swz6onx3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【女浩克】(2022)_9集全_4K中字【40G】",
+    "share_id": "swz6o643fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【傲慢与偏见】(1995)_6集全_1080P外挂字幕【78G】",
+    "share_id": "swz6oo83fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【贴身保镖】第一季_1080P中字【7G】",
+    "share_id": "swz6o7w3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【反恐24小时】1-9季全_1080P中字【399G】",
+    "share_id": "swz6o453fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【良医】1-6季_1080P中字【64G】",
+    "share_id": "swz6oyi3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【硅谷】1-6季_1080P中字【39G】",
+    "share_id": "swz6k1k3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【副本】1-2季_4K中字【127G】",
+    "share_id": "swz6kcq3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【罪夜之奔】(2016)_8集全_1080P中字【5G】",
+    "share_id": "swz6k0s3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【艾米丽在巴黎】1-3季_1080P中字【105G】",
+    "share_id": "swz6kuu3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【罗马】1-2季_1080P中字【60G】",
+    "share_id": "swz6dl23fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【好兆头】1-2季_4K中字【67G】",
+    "share_id": "swz6d773fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【黑色孤儿】1-5季_1080P中字【95G】",
+    "share_id": "swz6ew93fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "美剧",
+    "share_name": "【叶卡捷琳娜大帝】1-3季_1080P中字",
+    "share_id": "swz6ebs3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【阿拉姆恩之剑：阿斯达年代记】(2023)_1080P韩语中字_李准基_/_张东健_/_申世景",
+    "share_id": "sw6u7mw3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【鱿鱼游戏】第一季(2021)_4K韩语中字_李政宰_/_朴海秀_/_魏嘏隽",
+    "share_id": "sw62qsa3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【请回答1988】(2015)_20集全_4K韩语中字_成东日_/_李一花_/_罗美兰",
+    "share_id": "sw62qq83fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【黑暗荣耀】第一季_(2022)_4K韩语中字_宋慧乔_/_李到晛_/_林智妍",
+    "share_id": "sw62qbl3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【黑暗荣耀】第二季_(2023)_1080P韩语中字_宋慧乔_/_李到晛_/_林智妍",
+    "share_id": "sw62q7z3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【孤单又灿烂的神：鬼怪】(2016)_16集全_4K韩语中字_孔刘_/_金高银_/_李栋旭",
+    "share_id": "sw62q773fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【来自星星的你】(2013)_21集全_1080P韩语中字_金秀贤_/_全智贤_/_朴海镇",
+    "share_id": "sw62q723fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【信号】(2016)_16集全_1080P韩语中字_李帝勋_/_赵震雄_/_金惠秀",
+    "share_id": "sw62qiy3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【太阳的后裔】(2016)_16集全_1080P韩语中字_宋慧乔_/_宋仲基_/_金智媛",
+    "share_id": "sw62qie3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【爱的迫降】(2019)_16集全_4K韩语中字_玄彬_/_孙艺珍_/_徐智慧",
+    "share_id": "sw62qi23fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【机智医生生活】第一季_(2020)_1080P韩语中字_曹政奭_/_柳演锡_/_郑敬淏",
+    "share_id": "sw62q4j3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【机智医生生活】第二季_(2021)_1080P韩语中字_曹政奭_/_柳演锡_/_郑敬淏",
+    "share_id": "sw62q4c3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【W-两个世界】(2016)_16集全_1080P韩语中字_李钟硕_/_韩孝周_/_郑幼贞",
+    "share_id": "sw62qyq3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【机智牢房生活】(2017)_16集全_1080P韩剧|中字_朴海秀_/_郑敬淏_/_郑秀晶",
+    "share_id": "sw62qyg3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【继承者们】(2013)_20集全_1080P韩语中字_李敏镐_/_朴信惠_/_金宇彬",
+    "share_id": "sw62qkz3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【当你沉睡时】(2017)_32集全_1080P韩语中字_李钟硕_/_裴秀智_/_李相烨",
+    "share_id": "sw62qkg3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【窥探】(2021)_20集全_1080P韩语中字_李昇基_/_李熙俊_/_朴柱炫",
+    "share_id": "sw62qk93fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【举重妖精金福珠】(2016)_16集全_1080P韩语中字_李圣经_/_南柱赫_/_景收真",
+    "share_id": "sw62qk13fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【甜蜜家园】(2020)_10集全_4K韩语中字_宋江_/_李施吟_/_李到晛",
+    "share_id": "sw62qdh3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【非常律师禹英禑】(2022)_16集全_1080P韩语中字_朴恩斌_/_姜泰伍_/_姜其永",
+    "share_id": "sw62qdv3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【那年，我们的夏天】(2021)_16集全_1080P韩语中字_崔宇植_/_金多美_/_金圣喆",
+    "share_id": "sw62qmf3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【欢迎来到王之国】(2023)_16集全_1080P韩语中字_李俊昊_/_林允儿_/_高媛熙",
+    "share_id": "sw62qma3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【治愈者】(2014)_20集全_1080P韩语中字_池昌旭_/_朴敏英_/_刘智泰",
+    "share_id": "sw62q5z3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【今生是第一次】(2017)_16集全_1080P韩语中字_李民基_/_郑素敏_/_朴炳垠",
+    "share_id": "sw62q5g3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【没关系，是爱情啊】(2014)_16集全_1080P韩语中字_赵寅成_/_孔晓振_/_成东日",
+    "share_id": "sw62qvl3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【请回答1997】(2012)_16集全_1080P韩语中字_郑恩地_/_徐仁国_/_申素率",
+    "share_id": "sw62qvg3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【蓝色大海的传说】(2016)_20集全_720P韩语中字_全智贤_/_李敏镐_/_文素丽",
+    "share_id": "sw62qan3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【僵尸校园】(2022)_12集全_4K韩语中字_尹灿荣_/_朴持厚_/_曹怡贤",
+    "share_id": "sw62qa43fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【社内相亲】(2022)_12集全_1080P韩语中字_安孝燮_/_金世正_/_金旻奎",
+    "share_id": "sw62qax3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【我的解放日志】(2022)_16集全_4K韩语中字_李民基_/_金智媛_/_孙锡久",
+    "share_id": "sw62qg93fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【365：逆转命运的1年】(2020)_24集全_1080P韩语中字_李浚赫_/_南志铉_/_金智秀",
+    "share_id": "sw62qpn3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【财阀家的小儿子】(2022)_16集全_1080P韩语中字_宋仲基_/_李星民_/_申铉彬",
+    "share_id": "sw62qpd3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【大力女子都奉顺】(2017)_16集全_1080P韩语中字_朴宝英_/_朴炯植_/_金志洙",
+    "share_id": "sw62q8x3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【城市猎人】(2011)_20集全_720P韩语中字_李敏镐_/_朴敏英_/_李浚赫",
+    "share_id": "sw62bog3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【哦我的鬼神大人】(2015)_16集全_1080P韩语中字_朴宝英_/_曹政奭_/_金瑟祺",
+    "share_id": "sw62big3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【二十五，二十一】(2022)_16集全_1080P韩语中字_金泰梨_/_南柱赫_/_金知妍",
+    "share_id": "sw62bi23fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【超异能族】(2023)_20集全_4K韩语中字_柳承龙_/_韩孝周_/_赵寅成",
+    "share_id": "sw62b4d3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【海岸村恰恰恰】(2021)_16集全_1080P韩语中字_申敏儿_/_金宣虎_/_李相二",
+    "share_id": "sw62b4j3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【D.P：逃兵追缉令】_第一季_(2021)_4K韩语中字_丁海寅_/_具教焕_/_金成畇_",
+    "share_id": "sw62byh3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【D.P：逃兵追缉令】_第二季_(2023)_4K韩语中字_丁海寅_/_具教焕_/_金成畇",
+    "share_id": "sw62bmt3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【仁显王后的男人】(2012)_16集全_1080P韩语中字_刘寅娜_/_池贤宇_/_金镇宇",
+    "share_id": "sw62b533fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【少年法庭】(2022)_10集全_4K韩语中字_金惠秀_/_金武烈_/_李星民",
+    "share_id": "sw62b5h3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【杀了我治愈我】(2015)_20集全_1080P韩语中字_池晟_/_黄正音_/_朴叙俊",
+    "share_id": "sw62bvt3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【未生】(2014)_20集全_1080P韩语中字_任时完_/_李星民_/_姜素拉",
+    "share_id": "sw62beq3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【内在美】(2018)_16集全_1080P韩语中字_徐玄振_/_李民基_/_李多熙",
+    "share_id": "sw62bep3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【语义错误】(2022)_8集全_1080P韩语中字_朴栖含_/_朴宰灿_/_宋智午",
+    "share_id": "sw62bai3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【我的ID是江南美人】(2018)_16集全_1080P韩语中字_林秀香_/_车银优_/_赵宇丽",
+    "share_id": "sw62bgh3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【偶然发现的一天】(2019)_32集全_1080P韩语中字_金惠奫_/_金路云_/_李宰旭",
+    "share_id": "sw62bgf3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【国王：永远的君主】(2020)_16集全_1080P韩语中字_李敏镐_/_金高银_/_禹棹焕",
+    "share_id": "sw62bga3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【请回答1994】(2013)_21集全_1080P韩语中字_高雅拉_/_柳演锡_/_正宇",
+    "share_id": "sw62bg03fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【Move_to_Heaven：我是遗物整理师】(2021)_10集全_4K韩语中字_李帝勋_/_汤峻相_/_洪承熙",
+    "share_id": "sw62bpy3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【夫妻的世界】(2020)_16集全_1080P韩语中字_金喜爱_/_朴解浚_/_韩韶禧",
+    "share_id": "sw62owv3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【安娜】(2022)_6集全_1080P韩语中字_裴秀智_/_郑恩彩_/_金俊翰",
+    "share_id": "sw62ofn3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【火星生活】(2018)_16集全_1080P韩语中字_郑敬淏_/_朴成雄_/_高我星",
+    "share_id": "sw62ofi3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【春夜】(2019)_16集全_4K韩语中字_韩志旼_/_丁海寅_/_金俊翰",
+    "share_id": "sw62ofe3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【酒鬼都市女人们】(2021)_12集全_1080P韩语中字_李先彬_/_韩善花_/_郑恩地",
+    "share_id": "sw62osq3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【棒球大联盟】(2019)_16集全_1080P韩语中字_南宫珉_/_朴恩斌_/_吴正世",
+    "share_id": "sw62osg3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【囚犯医生】(2019)_16集全_1080P韩语中字_南宫珉_/_权娜拉_/_金炳哲",
+    "share_id": "sw62oq13fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【迷雾】(2018)_16集全_1080P韩语中字_金南珠_/_池珍熙_/_高俊",
+    "share_id": "sw62ob33fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【我的名字】(2021)_8集全_4K韩语中字_韩韶禧_/_朴熹洵_/_安普贤",
+    "share_id": "sw62obv3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【咖啡王子1号店】(2007)_17集全_1080P韩语中字_尹恩惠_/_孔刘_/_李善均",
+    "share_id": "sw62oo33fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【黑话律师】(2022)_16集全_1080P韩语中字_李钟硕_/_林允儿_/_金周宪",
+    "share_id": "sw62ook3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【耀眼】(2019)_12集全_1080P韩语中字_金惠子_/_韩志旼_/_南柱赫",
+    "share_id": "sw62oor3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【地狱公使】(2021)_6集全_4K韩语中字_刘亚仁_/_金贤珠_/_朴正民",
+    "share_id": "sw62o7s3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【请输入搜索词：WWW】(2019)_16集全_1080P韩语中字_林秀晶_/_张基龙_/_李多熙",
+    "share_id": "sw62o7r3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【阿尔罕布拉宫的回忆】(2018)_16集全_1080P韩语中字_玄彬_/_朴信惠_/_朴勋_",
+    "share_id": "sw62oid3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【她很漂亮】(2015)_16集全_1080P韩语中字_黄正音_/_朴叙俊_/_高俊熙",
+    "share_id": "sw62oyx3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【我亲爱的朋友们】(2016)_16集全_1080P韩语中字_高贤贞_/_赵寅成_/_金惠子",
+    "share_id": "sw62oks3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【Live】(2018)_18集全_720P韩语中字_郑有美_/_李光洙_/_裴晟祐",
+    "share_id": "sw62okn3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【制作人】(2015)_12集全_1080P韩语中字_金秀贤_/_车太贤_/_孔晓振",
+    "share_id": "sw62ok43fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【她的私生活】(2019)_16集全_1080P韩语中字_朴敏英_/_金材昱_/_安普贤",
+    "share_id": "sw62odw3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【大长今】(2003)_54集全_1080P国语韩语多音轨中字_李英爱_/_池珍熙_/_任豪",
+    "share_id": "sw62odl3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【无法抗拒的他】(2021)_10集全_1080P韩语中字_宋江_/_韩韶禧_/_蔡钟协",
+    "share_id": "sw62odr3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【加油吧威基基】(2018)_20集全_1080P韩语中字_金正贤_/_李伊庚_/_孙承源",
+    "share_id": "sw62omq3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【绅士的品格】(2012)_20集全_1080P韩语中字_张东健_/_金荷娜_/_金民钟",
+    "share_id": "sw62omv3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "韩剧",
+    "share_name": "【九回时间旅行】(2013)_20集全_1080P韩语中字_李阵郁_/_赵胤熙_/_全卢民",
+    "share_id": "sw62om93fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "日剧",
+    "share_name": "【非自然死亡】全10集_1080P中字【13G】",
+    "share_id": "sw6uayo3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "日剧",
+    "share_name": "【胜者即是正义】(2012)_11集全_1080P中字【13G】",
+    "share_id": "swz3hvx3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "日剧",
+    "share_name": "【胜者即是正义2】(2013)_10集全_1080P中字【13G】",
+    "share_id": "swz3hv03fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "日剧",
+    "share_name": "【弥留之国的爱丽丝】1-2季_4K中字【100G】",
+    "share_id": "swz3l4f3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "日剧",
+    "share_name": "【半泽直树】1-2季全_1080P中字【38G】",
+    "share_id": "swz6syr3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "日剧",
+    "share_name": "【我是大哥大】10集全_1080P中字【38G】",
+    "share_id": "swz6sdf3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "日剧",
+    "share_name": "【重启人生】10集全_1080P中字【11G】",
+    "share_id": "swz6s5p3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "日剧",
+    "share_name": "【轮到你了】20集全_1080P中字【20G】",
+    "share_id": "swz6s513fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "日剧",
+    "share_name": "【四重奏】(2017)_10集全_1080P中字【16G】",
+    "share_id": "swz6o4e3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "日剧",
+    "share_name": "【我的恐怖妻子】(2016)_9集全_1080P中字【13G】",
+    "share_id": "swz6kjm3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "日剧",
+    "share_name": "【凪的新生活】(2019)_10集全_1080P中字【9G】",
+    "share_id": "swz6dk13fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "台剧",
+    "share_name": "【想见你】(2019)_13集全_4K中字【36G】",
+    "share_id": "sw6uis63fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "台剧",
+    "share_name": "【我们与恶的距离】(2019)_10集全_4K中字【88G】",
+    "share_id": "sw6uj4h3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "台剧",
+    "share_name": "【我可能不会爱你】(2011)_23集全_1080P中字【17G】",
+    "share_id": "swz6lk43fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "台剧",
+    "share_name": "【俗女养成记】1-2季_4K中字【74G】",
+    "share_id": "swz6kcg3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "中国通史全100集_64.07G",
+    "share_id": "swnvgvv3z29",
+    "share_pwd": "h6b2",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "国外纪录片_1.86T",
+    "share_id": "sw682pw3nyo",
+    "share_pwd": "s8c8",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "百家讲坛全集_2.21T",
+    "share_id": "sw6xm3j3w7v",
+    "share_pwd": "1111",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "【地球脉动】1-3季_1080P中字【436G】",
+    "share_id": "swz6smc3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "盗火纪录片_9.32T",
+    "share_id": "sw68md23w8m",
+    "share_pwd": "q353",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "一级方程式：疾速争胜_(2019)",
+    "share_id": "swz6fb03fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "七个世界，一个星球_(2019)",
+    "share_id": "swz6fbu3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "72种危险动物：拉丁美洲_(2017)",
+    "share_id": "swz6fo33fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "72种危险动物：亚洲篇_(2018)",
+    "share_id": "swz6fo43fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "2022_(2022)",
+    "share_id": "swz6foy3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "阿波罗11号_(2019)",
+    "share_id": "swz6fok3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "阿莱克斯·施瓦泽：为真相而跑_(2023)",
+    "share_id": "swz6fod3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "埃及艳后_(2023)",
+    "share_id": "swz6fov3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "艾德·希兰：成名之路_(2023)",
+    "share_id": "swz6foe3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "爱犬情深_(2018)",
+    "share_id": "swz6foa3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "摆脱贫困_(2021)",
+    "share_id": "swz6fog3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "北回归线_(2010)",
+    "share_id": "swz6fo83fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "北极奇观_(2014)",
+    "share_id": "swz6foj3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "北极熊_(2022)",
+    "share_id": "swz6fo93fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "贝尔蒂·格雷戈里：与动物零距离_(2023)",
+    "share_id": "swz6fo13fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "奔向月球_(2015)",
+    "share_id": "swz6fo03fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "变态者意识形态指南_(2012)",
+    "share_id": "swz6f733fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "冰冻星球2_(2022)",
+    "share_id": "swz6f7n3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "冰河时代的巨人_(2013)",
+    "share_id": "swz6f7z3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "冰雪之巅_(2018)",
+    "share_id": "swz6f7w3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "博茨瓦纳惊人的野生动物_(2020)",
+    "share_id": "swz6f7s3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "不破不立_(2021)",
+    "share_id": "swz6f7q3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "不止考古·我与三星堆_(2022)",
+    "share_id": "swz6f7o3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "坂本龙一：终曲_(2017)",
+    "share_id": "swz6f7i3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "BBC_野性都市_(2018)",
+    "share_id": "swz6f743fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "彩排_(2022)",
+    "share_id": "swz6f7k3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "茶，一片树叶的故事_(2013)",
+    "share_id": "swz6f7d3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "超凡动物奇观_(2022)",
+    "share_id": "swz6f753fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "超级工程_(2012)",
+    "share_id": "swz6f7v3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "沉船搜索者澳大利亚_(2022)",
+    "share_id": "swz6f7r3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "穿越落基山脉_(2011)",
+    "share_id": "swz6f7t3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "从太空看地球_(2019)",
+    "share_id": "swz6f783fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "大白鲨_(2013)",
+    "share_id": "swz6f7j3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "大堡礁探险_(2018)",
+    "share_id": "swz6f7x3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "大陆的崛起_(2013)",
+    "share_id": "swz6f7c3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "大秦岭_(2010)",
+    "share_id": "swz6f703fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "大太平洋_(2017)",
+    "share_id": "swz6f7u3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "大峡谷探险之河流告急_(2008)",
+    "share_id": "swz6fi33fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "大象的秘密_(2023)",
+    "share_id": "swz6fi63fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "大象女王_(2019)",
+    "share_id": "swz6fih3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "大熊猫_(2018)",
+    "share_id": "swz6fiw3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "登陆日：诺曼底1944_(2014)",
+    "share_id": "swz6fif3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "地球的夜晚_(2020)",
+    "share_id": "swz6fis3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "地球风暴_(2022)",
+    "share_id": "swz6fil3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "地球脉动_(2006)",
+    "share_id": "swz6fiq3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "地球脉动2_(2016)",
+    "share_id": "swz6fib3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "地球：神奇的一天_(2017)",
+    "share_id": "swz6fi73fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "第四阶段_(2016)",
+    "share_id": "swz6fii3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "帝国的崛起：奥斯曼_(2020)",
+    "share_id": "swz6fiy3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "帝企鹅日记2：召唤_(2017)",
+    "share_id": "swz6fik3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "帝王蝶的迁徙_(2012)",
+    "share_id": "swz6fim3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "东瀛大宝荐",
+    "share_id": "swz6fiv3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "动物本色_(2021)",
+    "share_id": "swz6fie3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "敦煌：生而传奇_(2021)",
+    "share_id": "swz6fig3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "恶海捕蟹记：血脉篇_(2020)",
+    "share_id": "swz6fi83fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "非洲_(2013)",
+    "share_id": "swz6fij3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "非洲：动物乐园_(2017)",
+    "share_id": "swz6fic3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "风味原产地_(2019)",
+    "share_id": "swz6fi23fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "佛罗伦萨和乌菲兹美术馆_(2015)",
+    "share_id": "swz6f433fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "功勋_(2021)",
+    "share_id": "swz6f4n3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "孤注一掷：阿森纳_(2022)",
+    "share_id": "swz6f4s3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "孤注一掷：巴西国家队_(2020)",
+    "share_id": "swz6f4q3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "孤注一掷：曼彻斯特城_(2018)",
+    "share_id": "swz6f4o3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "孤注一掷：托特纳姆热刺_(2020)",
+    "share_id": "swz6f473fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "龟女士的奥德赛_(2018)",
+    "share_id": "swz6f4i3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "国际空间站_(2002)",
+    "share_id": "swz6f4y3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "国家地理：大迁徙_(2010)",
+    "share_id": "swz6f4k3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "国家地理：远征南极_(2009)",
+    "share_id": "swz6f4m3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "海狼之岛_(2022)",
+    "share_id": "swz6f4r3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "海洋_(2010)",
+    "share_id": "swz6f4a3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "海洋：我们的蓝色星球_(2018)",
+    "share_id": "swz6f4p3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "航空母舰：七海卫士_(2016)",
+    "share_id": "swz6f4t3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "航拍中国_(2017)",
+    "share_id": "swz6fyz3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "河西走廊_(2015)",
+    "share_id": "swz6fyw3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "黑猩猩帝国_(2023)",
+    "share_id": "swz6fyf3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "黑夜跟踪狂：追捕连环杀手_(2021)",
+    "share_id": "swz6fyb3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "欢迎来地球_(2021)",
+    "share_id": "swz6fy73fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "环法自行车赛：逆风飞驰_(2023)",
+    "share_id": "swz6fyi3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "回到太空_(2022)",
+    "share_id": "swz6fyy3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "急诊先锋：纽约_(2023)",
+    "share_id": "swz6fyk3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "记忆的力量·抗美援朝_(2020)",
+    "share_id": "swz6fym3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "家园_(2020)",
+    "share_id": "swz6fyv3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "揭秘海军陆战队_(2017)",
+    "share_id": "swz6fye3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "巨兽_(2023)",
+    "share_id": "swz6fyg3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "觉醒_(2018)",
+    "share_id": "swz6fyt3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "康纳·麦格雷戈：拳王万岁_(2023)",
+    "share_id": "swz6fyj3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "克里斯·海姆斯沃斯：挑战极限_(2022)",
+    "share_id": "swz6fy13fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "狂野日本_(2015)",
+    "share_id": "swz6fy23fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "狂野之美：国家公园探险_(2016)",
+    "share_id": "swz6fk33fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "蓝色星球_(2001)",
+    "share_id": "swz6fkn3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "蓝色星球2_(2017)",
+    "share_id": "swz6fks3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "雷吉_(2023)",
+    "share_id": "swz6fkb3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "李小龙传奇_(2008)",
+    "share_id": "swz6fki3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "了解宇宙如何运行_(2010)",
+    "share_id": "swz6fky3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "绿色星球_(2022)",
+    "share_id": "swz6fkk3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "罗马四大圣殿_(2016)",
+    "share_id": "swz6fkm3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "麦道夫：华尔街吸金恶霸_(2023)",
+    "share_id": "swz6fk53fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "没有极限_(2015)",
+    "share_id": "swz6fkr3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "美国内战_(1990)",
+    "share_id": "swz6fka3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "美国西海岸之旅_(2014)",
+    "share_id": "swz6fkp3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "美丽星球_(2016)",
+    "share_id": "swz6fk83fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "美丽中国_(2008)",
+    "share_id": "swz6fk93fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "梦想之大：构建我们的世界_(2017)",
+    "share_id": "swz6fk13fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "木偶奇遇记_(2022)",
+    "share_id": "swz6fkc3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "喵星人的奇思妙想_(2022)",
+    "share_id": "swz6fdn3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "MH370：消失的马航客机_(2023)",
+    "share_id": "swz6fdz3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "纳米比亚-旷野的精神_(2016)",
+    "share_id": "swz6fdh3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "南极3D：在边缘_(2014)",
+    "share_id": "swz6fdw3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "南太平洋之旅_(2013)",
+    "share_id": "swz6fdq3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "欧洲_(2016)",
+    "share_id": "swz6fd73fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "披头士乐队：回归_(2021)",
+    "share_id": "swz6fdy3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "僻壤凶案_(2022)",
+    "share_id": "swz6fdm3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "婆罗洲：亚洲的魅力_(2017)",
+    "share_id": "swz6fd53fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "破发点：大满贯之路_(2023)",
+    "share_id": "swz6fdv3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "破浪_(2016)",
+    "share_id": "swz6fda3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "奇妙酒店：大堂之外的生活_(2017)",
+    "share_id": "swz6fdg3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "企鹅群里有特务_(2013)",
+    "share_id": "swz6fdp3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "企鹅小镇_(2021)",
+    "share_id": "swz6fd83fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "切尔诺贝利_(2019)",
+    "share_id": "swz6fdj3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "情系斯波克_(2016)",
+    "share_id": "swz6fdx3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "求偶游戏_(2021)",
+    "share_id": "swz6fm33fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "全力挥杆：高尔夫大满贯之路_(2023)",
+    "share_id": "swz6fmh3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "全美缉凶：波士顿马拉松爆炸案_(2023)",
+    "share_id": "swz6fmf3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "全球绝美国家公园_(2022)",
+    "share_id": "swz6fml3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "人间游乐场_(2022)",
+    "share_id": "swz6fmb3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "人生七年1_(1964)",
+    "share_id": "swz6fmi3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "人生七年2_(1970)",
+    "share_id": "swz6fmy3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "人生七年3_(1977)",
+    "share_id": "swz6fmd3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "人生七年4_(1984)",
+    "share_id": "swz6fm53fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "人生七年5_(1991)",
+    "share_id": "swz6fme3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "人生七年6_(1999)",
+    "share_id": "swz6fma3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "人生七年7_(2006)",
+    "share_id": "swz6fmp3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "人生七年8_(2012)",
+    "share_id": "swz6fmt3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "人生七年9_(2019)",
+    "share_id": "swz6fm93fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "人生第一次_(2020)",
+    "share_id": "swz6fm13fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "塞伦盖蒂_(2019)",
+    "share_id": "swz6fmc3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "塞伦盖蒂国家公园_(2011)",
+    "share_id": "swz6fm23fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "舌尖上的中国_(2012)",
+    "share_id": "swz6fmu3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "生门_(2017)",
+    "share_id": "swz6f5n3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "生命_(2009)",
+    "share_id": "swz6f563fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "盛会_(2022)",
+    "share_id": "swz6f5h3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "时间的风景_(2012)",
+    "share_id": "swz6f5w3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "史前星球_(2022)",
+    "share_id": "swz6f5f3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "水下中国_(2019)",
+    "share_id": "swz6f5s3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "他乡的童年_(2019)",
+    "share_id": "swz6f5q3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "泰勒·斯威夫特：美利坚女士_(2020)",
+    "share_id": "swz6f5b3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "太空之旅_(2015)",
+    "share_id": "swz6f5i3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "徒手攀岩_(2018)",
+    "share_id": "swz6f543fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "外星世界_(2020)",
+    "share_id": "swz6f5k3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "完美星球_(2021)",
+    "share_id": "swz6f5v3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "万物之生_(2022)",
+    "share_id": "swz6f5e3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "王朝_(2018)",
+    "share_id": "swz6f5g3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "王阳明_(2021)",
+    "share_id": "swz6f5p3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "韦科惨案：末日烈火_(2023)",
+    "share_id": "swz6f5t3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "为了全人类_(1989)",
+    "share_id": "swz6f5j3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "维多利亚的秘密：天使与恶魔_(2022)",
+    "share_id": "swz6f593fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "未来漫游指南_(2022)",
+    "share_id": "swz6f5u3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "我工作故我在_(2023)",
+    "share_id": "swz6fvs3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "我们的父亲_(2022)",
+    "share_id": "swz6fvi3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "我们的浩瀚宇宙_(2022)",
+    "share_id": "swz6fvm3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "我们的星球_(2019)",
+    "share_id": "swz6fv53fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "我们的自然_(2018)",
+    "share_id": "swz6fvr3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "我们星球上的生命_(2023)",
+    "share_id": "swz6fve3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "我是一名杀手_(2018)",
+    "share_id": "swz6fva3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "无穷之路_(2021)",
+    "share_id": "swz6fvp3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "武林外传_(2018)",
+    "share_id": "swz6fvj3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "小小世界_(2020)",
+    "share_id": "swz6fvx3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "行星_(2019)",
+    "share_id": "swz6fv03fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "血与性：400年王室风云_(2022)",
+    "share_id": "swz6fvu3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "药剂师_(2020)",
+    "share_id": "swz6fr63fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "野性太平洋_(2016)",
+    "share_id": "swz6frh3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "野性英伦_(2023)",
+    "share_id": "swz6frf3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "夜色中的地球_(2020)",
+    "share_id": "swz6frq3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "移民国度_(2020)",
+    "share_id": "swz6fr73fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "影响世界的中国植物_(2019)",
+    "share_id": "swz6frm3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "与浪争锋_(2022)",
+    "share_id": "swz6frp3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "宇宙时空之旅_(2014)",
+    "share_id": "swz6frx3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "遇见最极致的中国_(2022)",
+    "share_id": "swz6fe33fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "原味澳洲_(2013)",
+    "share_id": "swz6few3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "约翰·威尔逊的十万个怎么做_(2020)",
+    "share_id": "swz6fel3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "找寻_(2021)",
+    "share_id": "swz6feb3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "这货哪来的_(2023)",
+    "share_id": "swz6fe73fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "致富攻略_(2023)",
+    "share_id": "swz6fek3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "中国_(2020)",
+    "share_id": "swz6fem3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "中国救护_(2023)",
+    "share_id": "swz6fev3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "中国通史_(2013)",
+    "share_id": "swz6fee3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "中国之谜_(2016)",
+    "share_id": "swz6feg3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "中国最美公路_(2022)",
+    "share_id": "swz6fep3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "众神之地_(2022)",
+    "share_id": "swz6fet3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "追缉汽车大亨：卡洛斯·戈恩_(2023)",
+    "share_id": "swz6fej3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "追逐珊瑚_(2017)",
+    "share_id": "swz6fe93fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "最后的珊瑚礁：海底世界_(2012)",
+    "share_id": "swz6fec3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "最后的舞动_(2020)",
+    "share_id": "swz6fe23fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "最美公路_(2018)",
+    "share_id": "swz6feu3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "纪录片",
+    "share_name": "座头鲸_(2015)",
+    "share_id": "swz6fan3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "音乐MV",
+    "share_name": "港台MV_1.14T",
+    "share_id": "sw6vuxp366e",
+    "share_pwd": "kd83",
+    "share_type": "115"
+  },
+  {
+    "share_index": "音乐MV",
+    "share_name": "音乐22万首_8.76T",
+    "share_id": "sw658uq36x2",
+    "share_pwd": "md98",
+    "share_type": "115"
+  },
+  {
+    "share_index": "音乐MV",
+    "share_name": "音乐22万首_3.83TB",
+    "share_id": "swzmqcr3fs6",
+    "share_pwd": "xd67",
+    "share_type": "115"
+  },
+  {
+    "share_index": "音乐MV",
+    "share_name": "音乐22万首_8.76TB",
+    "share_id": "swzmqca3fs6",
+    "share_pwd": "j9d3",
+    "share_type": "115"
+  },
+  {
+    "share_index": "音乐MV",
+    "share_name": "音乐22万首_1.80TB",
+    "share_id": "swzva8w3fs6",
+    "share_pwd": "l381",
+    "share_type": "115"
+  },
+  {
+    "share_index": "精选",
+    "share_name": "各类无损音乐合集9万首(8.8T)",
+    "share_id": "swz6ft53fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "精选",
+    "share_name": "成龙电影合集【447G】",
+    "share_id": "swz6soa3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "精选",
+    "share_name": "《_成龙65部作品合集@Ourdisc_蓝光原盘_》【1.48T】",
+    "share_id": "swz6sot3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "精选",
+    "share_name": "林正英电影合集46部【209G】",
+    "share_id": "swz6so13fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "精选",
+    "share_name": "李连杰电影合集【210G】",
+    "share_id": "swz6so23fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "精选",
+    "share_name": "邵氏4K【777G】",
+    "share_id": "swz6s763fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "精选",
+    "share_name": "周星馳电影合集【183G】",
+    "share_id": "swz6s7w3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "精选",
+    "share_name": "动漫_已经刮削整理_394部【13.97T】",
+    "share_id": "swz6s743fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "精选",
+    "share_name": "freembook全站15.72万书(kindle格式为主)_1.6t",
+    "share_id": "swz6s7y3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "精选",
+    "share_name": "港片蓝光原盘1--669部【16T】",
+    "share_id": "swz6s7d3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "精选",
+    "share_name": "纪录片合集_蓝光原盘",
+    "share_id": "swz6s783fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "精选",
+    "share_name": "泰剧【3.15T】",
+    "share_id": "swz6sin3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "精选",
+    "share_name": "音乐22万首14.39T音乐包2",
+    "share_id": "swz6sih3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "精选",
+    "share_name": "印度電子圖書館部分書籍(29萬12T左右)",
+    "share_id": "swz6siw3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "精选",
+    "share_name": "中美百万66万书籍的超大zip压缩版.ca66萬zip【8.7T】",
+    "share_id": "swz6sil3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "精选",
+    "share_name": "最强爽文短剧合集373部",
+    "share_id": "swz6sib3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "精选",
+    "share_name": "2267部2160p_remux_FGT【120T】",
+    "share_id": "swz6gd93fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "精选",
+    "share_name": "动画电影1000部【9.7T】",
+    "share_id": "swz6gml3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "精选",
+    "share_name": "综艺【4.75T】",
+    "share_id": "swz6gmc3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "精选",
+    "share_name": "动漫原盘【40T】",
+    "share_id": "swz6ges3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "精选",
+    "share_name": "蓝光原盘_646T_合集",
+    "share_id": "swz6gp53fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "精选",
+    "share_name": "高清翡翠台_合集_（18.7tb）",
+    "share_id": "swz692e3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "精选",
+    "share_name": "TVB【7T】",
+    "share_id": "swz692x3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "精选",
+    "share_name": "TVB_ATV最强电视剧合集【650部73T】",
+    "share_id": "swz69un3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "精选",
+    "share_name": "【_BD-ISO_】】【2224TB】",
+    "share_id": "swzfv793fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "精选",
+    "share_name": "希腊神话改编影视",
+    "share_id": "swzt3w43hc6",
+    "share_pwd": "s922",
+    "share_type": "115"
+  },
+  {
+    "share_index": "精选",
+    "share_name": "尼古拉斯凯奇",
+    "share_id": "swzt3w23hc6",
+    "share_pwd": "z631",
+    "share_type": "115"
+  },
+  {
+    "share_index": "精选",
+    "share_name": "恐怖片",
+    "share_id": "swzt3wi3hc6",
+    "share_pwd": "gf96",
+    "share_type": "115"
+  },
+  {
+    "share_index": "精选",
+    "share_name": "全球丧尸电影百佳合集",
+    "share_id": "swzt3fh3hc6",
+    "share_pwd": "ia38",
+    "share_type": "115"
+  },
+  {
+    "share_index": "精选",
+    "share_name": "600t合集",
+    "share_id": "swnnsis3zx1",
+    "share_pwd": "g0d1",
+    "share_type": "115"
+  },
+  {
+    "share_index": "精选",
+    "share_name": "1600t合集",
+    "share_id": "swzlcya3wsp",
+    "share_pwd": "bab4",
+    "share_type": "115"
+  },
+  {
+    "share_index": "精选",
+    "share_name": "踢馆秘籍",
+    "share_id": "swz82uz33a3",
+    "share_pwd": "x1e1",
+    "share_type": "115"
+  },
+  {
+    "share_index": "精选",
+    "share_name": "【电影系列合集】4K",
+    "share_id": "swzkpip3ncb",
+    "share_pwd": "5566",
+    "share_type": "115"
+  },
+  {
+    "share_index": "精选",
+    "share_name": "【电影系列合集】AE制作全特效字幕",
+    "share_id": "swzkpij3ncb",
+    "share_pwd": "5566",
+    "share_type": "115"
+  },
+  {
+    "share_index": "精选",
+    "share_name": "【电影系列合集】最佳影片合集",
+    "share_id": "swzkpix3ncb",
+    "share_pwd": "5566",
+    "share_type": "115"
+  },
+  {
+    "share_index": "精选",
+    "share_name": "漫威电影合集",
+    "share_id": "swzkpi23ncb",
+    "share_pwd": "5566",
+    "share_type": "115"
+  },
+  {
+    "share_index": "精选",
+    "share_name": "电影系列合集2",
+    "share_id": "swzkpiu3ncb",
+    "share_pwd": "5566",
+    "share_type": "115"
+  },
+  {
+    "share_index": "日本动漫",
+    "share_name": "奥特曼系列",
+    "share_id": "swz939j3hz7",
+    "share_pwd": "bcd5",
+    "share_type": "115"
+  },
+  {
+    "share_index": "日本动漫",
+    "share_name": "火影忍者",
+    "share_id": "swzjuqj33dn",
+    "share_pwd": "7777",
+    "share_type": "115"
+  },
+  {
+    "share_index": "动漫",
+    "share_name": "动画片_3.99T",
+    "share_id": "sw62c3o3z9p",
+    "share_pwd": "s137",
+    "share_type": "115"
+  },
+  {
+    "share_index": "动漫",
+    "share_name": "动漫394部_13.97T",
+    "share_id": "sw6upku3hqj",
+    "share_pwd": "hc61",
+    "share_type": "115"
+  },
+  {
+    "share_index": "动漫",
+    "share_name": "动漫原盘_40.49T",
+    "share_id": "swznmd03nc7",
+    "share_pwd": "p897",
+    "share_type": "115"
+  },
+  {
+    "share_index": "动漫",
+    "share_name": "皮克斯动画合集4K_REMUX_975.83G",
+    "share_id": "sw6x8sj3zzo",
+    "share_pwd": "v321",
+    "share_type": "115"
+  },
+  {
+    "share_index": "动漫",
+    "share_name": "小猪佩奇_21.95G",
+    "share_id": "sw3x2pd33zy",
+    "share_pwd": "xzpq",
+    "share_type": "115"
+  },
+  {
+    "share_index": "动漫",
+    "share_name": "奥特曼_1.1T",
+    "share_id": "swnd82q3zx1",
+    "share_pwd": "ua89",
+    "share_type": "115"
+  },
+  {
+    "share_index": "115&uc&夸克",
+    "share_name": "115-电影大包，21t",
+    "share_id": "swz8hp033xj",
+    "share_pwd":"0000",
+    "share_type":"115"
+  },
+  {
+    "share_index": "115&uc&夸克",
+    "share_name": "115-豆瓣电影Top250_12.65TB",
+    "share_id": "swz8h1h33xj",
+    "share_pwd":"0000",
+    "share_type":"115"
+  },
+  {
+    "share_index": "115&uc&夸克",
+    "share_name": "115-整理好蓝光和4K_2.24PB",
+    "share_id": "swzew4m3nc6",
+    "share_pwd":"i0d7",
+    "share_type":"115"
+  },
+  {
+    "share_index": "UC",
+    "share_name": "庆余年2",
+    "share_id": "8638c53af3884"
+  },
+  {
+    "share_index": "115演唱会",
+    "share_name": "115演唱会",
+    "share_id": "swz18wn3zh9",
+    "share_pwd":"yf61",
+    "share_type":"115"
+  },
+  {
+    "share_index": "115&uc&夸克",
+    "share_name": "微凉夸克国漫",
+    "share_id": "fb6d4c39c83f"
+  },
+  {
+    "share_index": "115&uc&夸克",
+    "share_name": "全球夸克短剧",
+    "share_id": "b9bb20e86c54"
+  },
+  {
+    "share_index": "夸克",
+    "share_name": "夸克热播剧",
+    "share_id": "657d8c2b550f"
+  },
+  {
+    "share_index": "夸克",
+    "share_name": "夸克新电影",
+    "share_id": "0a6d22042d07"
+  },
+  {
+    "share_index": "夸克",
+    "share_name": "晚风夸克合集",
+    "share_id": "3efb8fb706bf"
+  },
+  {
+    "share_index": "夸克",
+    "share_name": "MTV精选1万首夸克",
+    "share_id": "3e458103b556"
+  },
+  {
+    "share_index": "阿里",
+    "share_name": "NBA阿里",
+    "share_id": "hVAgTmqUELD"
+  },
+  {
+    "share_index": "夸克",
+    "share_name": "夸克MV",
+    "share_id": "e10ef5a111e5"
+  },
+  {
+    "share_index": "夸克",
+    "share_name": "GRT最新电影夸克",
+    "share_id": "2b2216c8d8da"
+  },
+
+  {
+    "share_index": "夸克",
+    "share_name": "短剧夸克",
+    "share_id": "6a200a0487c4"
+  },
+  {
+    "share_index": "夸克",
+    "share_name": "短剧夸克2",
+    "share_id": "5173a250c8f7"
+  },
+  {
+    "share_index": "阿里",
+    "share_name": "NBA阿里",
+    "share_id": "uWa9gbM3RJ7"
+  },
+  {
+    "share_index": "阿里",
+    "share_name": "老湿傅阿里",
+    "share_id": "5bsnAp5fbCW"
+  },
+  {
+    "share_index": "阿里",
+    "share_name": "优品阁",
+    "share_id": "uWa9gbM3RJ7"
+  },
+  {
+    "share_index": "阿里",
+    "share_name": "阿里1T",
+    "share_id": "mxAfB6eRgY4"
+  },
+  {
+    "share_index": "阿里",
+    "share_name": "GRT总链接",
+    "share_id": "MtGFAWrTWx1"
+  },
+  {
+    "share_index": "阿里",
+    "share_name": "YYDS更新",
+    "share_id": "73MzTG111kL"
+  },
+  {
+    "share_index": "阿里",
+    "share_name": "全球分享",
+    "share_id": "zS888Dm8arT"
+  },{
+  "share_index": "阿里",
+  "share_name": "老司机",
+  "share_id": "5bsnAp5fbCW"
+},
+  {
+    "share_index": "阿里",
+    "share_name": "平凡中的",
+    "share_id": "4ydLxf7VgH7"
+  },
+  {
+    "share_index": "阿里",
+    "share_name": "短剧",
+    "share_id": "5Fzz7JFuQyg"
+  },
+  {
+    "share_index": "阿里",
+    "share_name": "GRT剧集",
+    "share_id": "PqYwaGCmY78"
+  },
+  {
+    "share_name": "GRT易和谐电影",
+    "share_id": "6LvWZoQo3nS"
+  },
+  {
+    "share_name": "tacit0924",
+    "share_id": "wbrhqM5HkSV",
+    "share_pwd":"6666"
+  },
+  {
+    "share_name": "黄妈",
+    "share_id": "4bGRVUdUtct"
+  },
+  {
+    "share_name": "YYDSVIP",
+    "share_id": "dieULBdYP3D"
+  },
+  {
+    "share_name": "YYDSHD",
+    "share_id": "M6rD2CJXpRb"
+  },
+  {
+    "share_name": "优源阁",
+    "share_id": "RnjUi1urdb2"
+  }, {
+  "share_name": "风流动漫",
+  "share_id": "WdaaeX7HK44"
+},
+  {
+    "share_name": "风流剧集",
+    "share_id": "BLu6RUwRrLb"
+  },
+  {
+    "share_index": "阿里",
+    "share_name": "xiaaluo",
+    "share_id": "sg8CdGUwmUr"
+  }
+]

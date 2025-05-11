@@ -1,0 +1,14 @@
+{
+ "主页url": "https://sszzyy.com/",
+ "分类url": "https://sszzyy.com/index.php/vod/show/id/{cateId}/page/{catePg}.html",
+ "分类": "电影$20#剧集$37",
+ "标题": "title=\"*\">&&</div>",
+ "图片": "data-original=\"&&\"",
+ "链接": "href=\"&&\"",
+ "播放数组": "content_playlist&&</ul>",
+ "播放列表": "<a&&</a>",
+ "播放标题": ">&&</a>",
+ "跳转播放链接": "src=\"&&\"",
+ "线路数组": "class=\"titleName cr3 swiper-slide&&</a>",
+ "线路标题": ">&&</a>"
+}
