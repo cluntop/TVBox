@@ -1355,6 +1355,14 @@
    "searchable": 1,
    "filterable": 1
   }, {
+   "key": "py_海马",
+   "name": "海马影视(T3)",
+   "type": 3,
+   "api": "https://gh.clun.top/raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/app/海马影视APP.py",
+   "quickSearch": 1,
+   "searchable": 1,
+   "filterable": 1
+  }, {
    "key": "py_猎手",
    "name": "电影猎手(T3)",
    "type": 3,
