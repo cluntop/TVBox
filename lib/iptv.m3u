@@ -487,8 +487,6 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-15 音乐",CCTV-15 音乐
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-16 奥林匹克",CCTV-16 奥林匹克
-http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225893/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-17 农业农村",CCTV-17 农业农村
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-2 财经",CCTV-2 财经
@@ -501,6 +499,8 @@ https://piccpndali.v.myalicdn.com/audio/cctv4_2.m3u8
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-5 体育",CCTV-5 体育
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-5+ 体育赛事",CCTV-5+ 体育赛事
+http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225507/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-6",CCTV-6
 https://py.doube.eu.org/xinghuo?url=/CCTV-6/1114
 #EXTINF:-1 tvg-name="CCTV-6 电影",CCTV-6 电影
@@ -5979,6 +5979,8 @@ http://www.erbao1981.top:8188/udp/239.76.246.184:1234
 http://www.erbao1981.top:8188/udp/239.76.253.184:9000
 #EXTINF:-1 tvg-name="北京卫视",北京卫视
 https://py.doube.eu.org/xinghuo?url=/Beijing-Satellite-TV/938
+#EXTINF:-1 tvg-name="北京卫视",北京卫视
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视",北京卫视
 http://220.164.192.48:50085/tsfile/live/0135_1.m3u8
 #EXTINF:-1 tvg-name="北京卫视",北京卫视
