@@ -36,7 +36,7 @@ def parse_template(template_file):
 def fetch_channels(url):
     channels = OrderedDict()
     try:
-        response = requests.get(url, timeout=10)
+        response = requests.get(url, timeout=120)
         response.raise_for_status()
         response.encoding = "utf-8"
         lines = response.text.split("\n")
