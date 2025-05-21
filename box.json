@@ -9,9 +9,6 @@
 			"changeable": 1,
 			"indexs": 1,
 			"ext": "./lib/tokenm.json$$$./lib/douban.json"
-			
-			
-			
 		},
 		{
 			"key": "AList",
@@ -1692,6 +1689,15 @@
 			"name": "海马影视(T3)",
 			"type": 3,
 			"api": "https://gh.clun.top/raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/app/海马影视APP.py",
+			"quickSearch": 1,
+			"searchable": 1,
+			"filterable": 1
+		},
+		{
+			"key": "py_热播",
+			"name": "热播影视(T3)",
+			"type": 3,
+			"api": "https://gh.clun.top/raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/app/热播APP.py",
 			"quickSearch": 1,
 			"searchable": 1,
 			"filterable": 1
