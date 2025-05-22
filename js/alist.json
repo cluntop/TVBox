@@ -1,61 +1,80 @@
 {
-    "drives": [{
-            "name": "雨呢",
-            "server": "https://pan.clun.top"
-        }, {
-            "name": "MCCI",
-            "server": "https://buck.xk.ee",
-            "login": {
-                "username": "udian6",
-                "password": "udian6"
-            }
-        }, {
-            "name": "秋雨",
-            "server": "https://share.qiuyu.org"
-        }, {
-            "name": "小雅",
-            //"search": true,
-            //"searchable": true,
-            "server": "https://alist.xiaoya.pro"
-        }, {
-            "name": "日负斗金",
-            "server": "https://asca0121.toc.icu"
-        }, {
-            "name": "短剧库",
-            "server": "https://cdn.bull369.cloud"
-        }, {
-            "name": "七米藍",
-            "server": "https://al.chirmyram.com"
-        }, {
-            "name": "初心",
-            "server": "https://cxpan.xyz"
-        }, {
-            "name": "趣盘",
-            "server": "https://pan.mediy.cn"
-        }, {
-            "name": "电瞄",
-            "server": "https://pan.110014.xyz"
-        }, {
-            "name": "ZhuiFan",
-            "server": "https://zhuifan.link"
-        }, {
-            "name": "Apachec",
-            "server": "https://w2.apachecn.org"
-        }, {
-            "name": "ffssaa7",
-            "server": "https://alist.ffssaa7.site"
-        }, {
-            "name": "Hᴇᴀᴠᴇɴ",
-            "server": "http://7heaven.eu.org"
-        }, {
-            "name": "Aeahhe",
-            "server": "https://www.yeahhe.online"
-        }, {
-            "name": "ECVE",
-            "server": "https://pan.ecve.cn"
-        }, {
-            "name": "一个小站",
-            "server": "https://alist.ygxz.xyz"
-        }
-    ]
+	"drives": [
+		{
+			"name": "雨呢",
+			"server": "https://pan.clun.top"
+		},
+		{
+			"name": "MCCI",
+			"server": "https://buck.xk.ee",
+			"login": {
+				"username": "udian6",
+				"password": "udian6"
+			}
+		},
+		{
+			"name": "亿苯",
+			"server": "https://pan.lm379.cn"
+		},
+		{
+			"name": "秋雨",
+			"server": "https://share.qiuyu.org"
+		},
+		{
+			"name": "小雅",
+			"server": "https://alist.xiaoya.pro"
+		},
+		{
+			"name": "日负斗金",
+			"server": "https://asca0121.toc.icu"
+		},
+		{
+			"name": "短剧库",
+			"server": "https://cdn.bull369.cloud"
+		},
+		{
+			"name": "七米藍",
+			"server": "https://al.chirmyram.com"
+		},
+		{
+			"name": "初心",
+			"server": "https://cxpan.xyz"
+		},
+		{
+			"name": "趣盘",
+			"server": "https://pan.mediy.cn"
+		},
+		{
+			"name": "电瞄",
+			"server": "https://pan.110014.xyz"
+		},
+		{
+			"name": "ZhuiFan",
+			"server": "https://zhuifan.link"
+		},
+		{
+			"name": "Apachec",
+			"server": "https://w2.apachecn.org"
+		},
+		{
+			"name": "ffssaa7",
+			"server": "https://alist.ffssaa7.site"
+		},
+		{
+			"name": "Hᴇᴀᴠᴇɴ",
+			"server": "http://7heaven.eu.org"
+		},
+		{
+			"name": "Aeahhe",
+			"server": "https://www.yeahhe.online"
+		},
+		{
+			"name": "ECVE",
+			"server": "https://pan.ecve.cn"
+		},
+		{
+			"name": "一个小站",
+			"server": "https://alist.ygxz.xyz"
+		}
+	]
 }
