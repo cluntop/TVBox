@@ -32,10 +32,6 @@ https://clun.top/aa.json
 https://clun.top/svip.json
 ```
 
-```真心
-https://clun.top/FongMi.json
-```
-
 </details>
 
 ###### [备份文档](.github/test.md)

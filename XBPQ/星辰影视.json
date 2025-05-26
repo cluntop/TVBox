@@ -1,0 +1,8 @@
+ {
+       "请求头": "User-Agent$MOBILE_UA",
+       "编码": "UTF-8",
+       "分类": "电影$1#连续剧$2#综艺$3#动漫$4#",
+       "分类url": "http://ljmovie.com/list/{cateId}-{catePg}.html",
+       "简介": "美人似花娇艳绽放，此情难消，愿与君缠绵不断。
+       "
+      } 

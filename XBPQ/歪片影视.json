@@ -1,0 +1,14 @@
+ {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://www.waipian30.com/",
+                "数组": "/video/&&</a>",
+                "标题": "title=\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "副标题": "item-note\">&&<",
+                "链接": "/video/+&&\"",
+                "跳转播放链接": "urlDecode(var player_*\"url\":\"&&%26)",
+                "分类": "电影$dianying#电视剧$juji#短剧$duanju#综艺$zongyi#动漫$dongman#纪录片$jilupian",
+                "分类url": "https://waipian30.com/show-{cateId}-{area}-{by}-{class}-----{catePg}---{year}/",
+                "简介": "introduction-content\">&&</div>"
+            }

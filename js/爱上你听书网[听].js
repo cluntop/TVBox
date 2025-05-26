@@ -1,1 +1,27 @@
-H4sIAEIfMGcC/3WSy27TQBSG9zyFlUhOHGonTaELWxGq+gJINLtK0cSexEPGHnfmOCagSiwRN4V9VSEWwIJNJRalqG+TNjwGc3MJrToLj+ecf75zmzniDi8pdgbOqweOXOuz31en70KndbX8sfr1tbWlrUCAYmlcvzlbnb9dXX423vXlJytImQDpTwEKEXa7VVUF/Z0eiCDHYCUlp1LRFYxDd7KIKRJC7gWa4iCFjFqVwIjH6dBq9UG7n5h/WBR4kKMMu+ZcMZ4MOh1XYQaG9h8IjVXefWM6Kkk8e6btodOziWOUYC5CW75araHA3N+b4hxaMoun+6PhXkt7j+tuZJiVst7HvZ7F6HJGBeJCtSnI0dxn1HUpCafQ7nkhhfauFyHXPcAvQO0px5Mo6HTbh4fVQ2+zAwVFi5oEvMTGStHLhSQ/FyHJixIG+htwLNUxbjdkwxtbjQoVDc9iKMmITHHXnK4/fv/zYSkBzWxxgMajfZaDrG9bpRgFgMb+mLGZr+dsk+xs2FEJKeO1w0ZYnb9eX3yTzJIGlAjw5TBmwhD1WV9NwPdFgXJ7OVCFuG6CAPmMkynJEY2CjSAhPmr3Pde91as65sV7HfPftOqnaRgxm2OZJ6JgoSSfMBkuMUko+LZnyJaoFsmmtwmCxxuCBIv4RlEjFeyRhUXRvfF2asl9gv7dhGIznpuQMv4djRyOUAL1XnS7gRWyV/0NiTIrTbPWqHBNknhqSFZn3/T18mT984vUquke/wUQKtu8FwQAAA==
+var rule = {
+    title: '爱上你听书网',
+    host: 'https://www.230ts.net',
+    url: '/sort/fyclass/fypage.html',
+    searchUrl: '/search.html?searchtype=name&searchword=**&page=fypage',
+    searchable: 2,
+    quickSearch: 0,
+    headers: {
+        'User-Agent': 'PC_UA'
+    },
+    timeout: 5000,
+    class_parse: '.nav-ol&&li:gt(0):lt(6);a&&Text;a&&href;.*/(\\w+).html',
+    play_parse: true,
+    lazy: 'js:input=input.replace("www","wap")',
+    limit: 6,
+    推荐: '#myTab_Content1&&li;.tab-book-title&&Text;*;.tab-book-author&&Text;*',
+    一级: 'ul.list-works&&li;.list-book-dt--span&&Text;.lazy&&data-original;.book-author:eq(2)&&a&&Text;a&&href',
+    二级: {
+        title: '.book-cover&&alt;.book-info&&dd--span:eq(1)&&Text',
+        img: '.book-cover&&src',
+        desc: '.book-info&&dd:eq(4)&&Text;;;.book-info&&dd--span:eq(3)&&Text;.book-info&&dd--span:eq(2)&&Text',
+        content: '.book-des&&Text',
+        tabs: '.playlist-top&&h2',
+        lists: '#playlist:eq(#id)&&li',
+    },
+    搜索: '*',
+}
