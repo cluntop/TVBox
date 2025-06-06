@@ -14,7 +14,7 @@ jobs:
     - name: Checkout target repo
       uses: actions/checkout@v4
       with:
-        repository: cluntop/cluntop.github.io
+        repository: cluntop/tvbox
         token: ${{ secrets.GIT_TOKEN }}
         path: target-repo
 

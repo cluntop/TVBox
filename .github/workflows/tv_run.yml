@@ -4,7 +4,7 @@ name: Fetch and Organize Streams
 # 触发条件
 on:
   schedule:
-    - cron: '0 2,6,12,18,21 * * *'
+    - cron: '30 * * * *'
   workflow_dispatch: # 允许手动触发
 
 permissions:

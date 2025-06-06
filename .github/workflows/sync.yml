@@ -48,7 +48,7 @@ jobs:
         id: sync
         uses: aormsby/Fork-Sync-With-Upstream-action@v3.4
         with:
-          upstream_sync_repo: cluntop/cluntop.github.io # 上游仓库地址
+          upstream_sync_repo: cluntop/tvbox # 上游仓库地址
           upstream_sync_branch: main # 上游分支
           target_sync_branch: main # 目标分支
           target_repo_token: ${{ secrets.GITHUB_TOKEN }} # 自动生成，无需设置

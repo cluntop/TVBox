@@ -4,7 +4,6 @@
 
 #### 欢迎 Star 及 PR。
 
-
 <details>
 <summary>TVBox 自用接口</summary>
 
@@ -33,5 +32,3 @@ https://clun.top/svip.json
 ```
 
 </details>
-
-###### [备份文档](.github/test.md)

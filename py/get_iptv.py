@@ -16,6 +16,8 @@ tv_urls = [
     "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
     "https://live.zbds.top/tv/iptv4.txt",
     "https://live.zbds.top/tv/iptv6.txt",
+    "https://raw.githubusercontent.com/wind005/TVlive/refs/heads/main/m3u/%E6%B9%96%E5%8D%97%E7%A7%BB%E5%8A%A8.m3u",
+    "https://raw.githubusercontent.com/hanhan8127/TVBox/refs/heads/main/live.txt",
 ]
 
 def parse_template(template_file):
