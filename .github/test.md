@@ -20,6 +20,7 @@ https://www.xn--sss604efuw.com/jm/
 
 https://github.com/fangkuia/XPTV
 https://github.com/lizaifu200/li
+https://github.com/fanmingming/live
 https://github.com/yoursmile66/TVBox
 https://github.com/977567941/Kowaryou
 https://github.com/xyq254245/xyqonlinerule
