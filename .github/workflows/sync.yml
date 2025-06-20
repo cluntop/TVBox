@@ -55,7 +55,7 @@ jobs:
           test_mode: false # 关闭测试模式（真实操作）
 
           # 将 test_mode 设置成 true 来运行测试而不是 true 操作!!
-          test_mode: false
+          # test_mode: false
 
         
       # ---------------------------- #
