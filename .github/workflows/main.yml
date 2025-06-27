@@ -1,0 +1,29 @@
+name: Sync Fork
+
+on:
+  schedule:
+    - cron: '0 * * * *' # 每小时运行一次
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        repository: lhxx889/tv # 替换为您的复刻仓库
+        token: ${{ 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 }} # 使用Personal Access Token进行认证
+
+    - name: Add upstream remote
+      run: git remote add upstream https://github.com/cluntop/tvbox.git
+
+    - name: Fetch upstream
+      run: git fetch upstream
+
+    - name: Merge upstream changes
+      run: git merge upstream/main
+
+    - name: Push changes
+      run: git push origin main
