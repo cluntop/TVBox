@@ -57,7 +57,7 @@
             "type_id": "学而思"
         }
     ],
-    "filters": {
+    "filter": {
         "儿童早教": [
             {
                 "key": "duration",

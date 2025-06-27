@@ -1,0 +1,32 @@
+{
+	"urls": [
+		{
+			"url": "./box.json",
+			"name": "自用"
+		},
+		{
+			"url": "./fty.json",
+			"name": "饭总"
+		},
+		{
+			"url": "./aa.json",
+			"name": "不知"
+		},
+		{
+			"url": "./svip.json",
+			"name": "拾光"
+		},
+		{
+			"url": "./moyu.json",
+			"name": "摸鱼"
+		},
+		{
+			"url": "./fun.json",
+			"name": "18+"
+		},
+		{
+			"url": "./jsm.json",
+			"name": "PG"
+		}
+	]
+}

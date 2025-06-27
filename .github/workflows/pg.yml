@@ -1,4 +1,4 @@
-name: Auto Process Zip Files
+name: Automatically update TG package
 
 on:
   schedule:

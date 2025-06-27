@@ -29,61 +29,61 @@
 			"key": "py_DSYS",
 			"name": "DSYS(T3)",
 			"type": 3,
-			"api": "https://gh.clun.top/raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/adult/DSYS.py"
+			"api": "https://raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/adult/DSYS.py"
 		},
 		{
 			"key": "py_Miss",
 			"name": "Miss(T3)",
 			"type": 3,
-			"api": "https://gh.clun.top/raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/adult/Miss.py"
+			"api": "https://raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/adult/Miss.py"
 		},
 		{
 			"key": "py_Phb",
 			"name": "Phb(T3)",
 			"type": 3,
-			"api": "https://gh.clun.top/raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/adult/Phb.py"
+			"api": "https://raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/adult/Phb.py"
 		},
 		{
 			"key": "py_Xhm",
 			"name": "Xhm(T3)",
 			"type": 3,
-			"api": "https://gh.clun.top/raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/adult/Xhm.py"
+			"api": "https://raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/adult/Xhm.py"
 		},
 		{
 			"key": "py_Xvd",
 			"name": "Xvd(T3)",
 			"type": 3,
-			"api": "https://gh.clun.top/raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/adult/Xvd.py"
+			"api": "https://raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/adult/Xvd.py"
 		},
 		{
 			"key": "py_lav",
 			"name": "lav(T3)",
 			"type": 3,
-			"api": "https://gh.clun.top/raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/adult/lavAPP.py"
+			"api": "https://raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/adult/lavAPP.py"
 		},
 		{
 			"key": "py_推特",
 			"name": "推特(T3)",
 			"type": 3,
-			"api": "https://gh.clun.top/raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/adult/推特APP.py"
+			"api": "https://raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/adult/推特APP.py"
 		},
 		{
 			"key": "py_浴火社",
 			"name": "浴火社(T3)",
 			"type": 3,
-			"api": "https://gh.clun.top/raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/adult/浴火社APP.py"
+			"api": "https://raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/adult/浴火社APP.py"
 		},
 		{
 			"key": "py_花都",
 			"name": "花都(T3)",
 			"type": 3,
-			"api": "https://gh.clun.top/raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/adult/花都.py"
+			"api": "https://raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/adult/花都.py"
 		},
 		{
 			"key": "py_香蕉",
 			"name": "香蕉(T3)",
 			"type": 3,
-			"api": "https://gh.clun.top/raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/adult/香蕉.py"
+			"api": "https://raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/adult/香蕉.py"
 		},
 		{
 			"key": "AIvin",
@@ -116,7 +116,7 @@
 			"timeout": 60,
 			"ext": {
 				"token": "./lib/tokenm.json",
-				"json": "https://gh.clun.top/raw.githubusercontent.com/fish2018/lib/refs/heads/main/json/18pan.json",
+				"json": "https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/json/18pan.json",
 				"keywords": "名称,片名,推荐",
 				"channellist": "CosMM18,avpush,ribenseyuge1,cilitu,cctav,ppg1314,avab01,SeseAnime,AVnew,jpccav,PornXOS,CCCTAV",
 				"proxy": "noproxy",
@@ -127,7 +127,7 @@
 			"key": "色播",
 			"name": "色播",
 			"type": 3,
-			"api": "https://gh.clun.top/raw.githubusercontent.com/fish2018/lib/refs/heads/main/js/dr_py/js/sebo.js",
+			"api": "https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/js/dr_py/js/sebo.js",
 			"searchable": 1,
 			"changeable": 0
 		},
@@ -138,7 +138,7 @@
 			"api": "csp_XMVideo",
 			"searchable": 1,
 			"filterable": 1,
-			"jar": "https://gh.clun.top/raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
+			"jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
 		},
 		{
 			"key": "百万破解AV",
@@ -212,7 +212,7 @@
 			"key": "lav",
 			"name": "lav",
 			"type": 3,
-			"api": "https://gh.clun.top/raw.githubusercontent.com/fish2018/lib/refs/heads/main/py/py_lav.py",
+			"api": "https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/py/py_lav.py",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
@@ -223,7 +223,7 @@
 			"key": "xhm",
 			"name": "xhm",
 			"type": 3,
-			"api": "https://gh.clun.top/raw.githubusercontent.com/fish2018/lib/refs/heads/main/py/py_Xhm.py",
+			"api": "https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/py/py_Xhm.py",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
@@ -250,7 +250,7 @@
 			"key": "pornhub",
 			"name": "py_Phb",
 			"type": 3,
-			"api": "https://gh.clun.top/raw.githubusercontent.com/fish2018/lib/refs/heads/main/py/py_Phb.py",
+			"api": "https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/py/py_Phb.py",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
@@ -261,7 +261,7 @@
 			"key": "推特",
 			"name": "推特",
 			"type": 3,
-			"api": "https://gh.clun.top/raw.githubusercontent.com/fish2018/lib/refs/heads/main/py/py_推特.py",
+			"api": "https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/py/py_推特.py",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
@@ -653,7 +653,7 @@
 		{
 			"name": "LIVEfl",
 			"type": 0,
-			"url": "https://gh.clun.top/raw.githubusercontent.com/zeee-u/lzh06/main/fl.m3u",
+			"url": "https://raw.githubusercontent.com/zeee-u/lzh06/main/fl.m3u",
 			"playerType": 1,
 			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 			"logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -884,7 +884,7 @@
 		},
 		{
 			"name": "zwrt",
-			"url": "https://gh.clun.top/github.com/zwrt/IPTV/blob/Files/Adult.m3u",
+			"url": "https://github.com/zwrt/IPTV/blob/Files/Adult.m3u",
 			"type": 0,
 			"ua": "okhttp/3.15"
 		},
